@@ -499,10 +499,42 @@
       <Maximum>999999999</Maximum>
       <SortID>7400</SortID>
     </Field>
-    <Field Def="dummy8 reserved41[52]">
+    <Field Def="dummy8 reserved41[136]">
       <DisplayName>予約</DisplayName>
       <Description>(dummy8)</Description>
       <SortID>8037</SortID>
+    </Field>
+    <Field Def="f32 unk1">
+      <DisplayName>unk1</DisplayName>
+      <Description>Character Hit Durability Consumption</Description>
+    </Field>
+    <Field Def="f32 unk2">
+      <DisplayName>unk2</DisplayName>
+      <Description>Map Hit Durability Consumption</Description>
+    </Field>
+    <Field Def="f32 unk3">
+      <DisplayName>unk3</DisplayName>
+      <Description>Spell Use Durability Consumption</Description>
+    </Field>
+    <Field Def="f32 unk4">
+      <DisplayName>unk4</DisplayName>
+      <Description>Move Bullet Durability Consumption</Description>
+    </Field>
+    <Field Def="dummy8 reserved42[28]">
+      <DisplayName>予約<</DisplayName>
+      <Description>(dummy8)</Description>
+    </Field>
+    <Field Def="f32 unk5">
+      <DisplayName>unk5</DisplayName>
+      <Description>PvP Backstab Damage Rate</Description>
+    </Field>
+    <Field Def="f32 unk6">
+      <DisplayName>unk6</DisplayName>
+      <Description>PvP Riposte Damage Rate</Description>
+    </Field>
+    <Field Def="f32 unk7">
+      <DisplayName>unk7</DisplayName>
+      <Description>PvP Guard Break Stab Damage Rate</Description>
     </Field>
   </Fields>
 </PARAMDEF>
