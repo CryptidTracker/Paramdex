@@ -6,12 +6,12 @@
     <Unicode>True</Unicode>
     <FormatVersion>203</FormatVersion>
     <Fields>
-        <Field Def="f32 unk0" />
-        <Field Def="f32 unk4" />
-        <Field Def="f32 unk8" />
-        <Field Def="f32 unk12" />
-        <Field Def="f32 unk16" />
-        <Field Def="f32 unk20" />
-        <Field Def="f32 unk24" />
+        <Field Def="f32 physRate" />
+        <Field Def="f32 magRate" />
+        <Field Def="f32 fireRate" />
+        <Field Def="f32 thunRate" />
+        <Field Def="f32 darkRate" />
+        <Field Def="f32 staminaRate" />
+        <Field Def="f32 saRate" />
     </Fields>
 </PARAMDEF>

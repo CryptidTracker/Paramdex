@@ -521,7 +521,7 @@
       <Description>Move Bullet Durability Consumption</Description>
     </Field>
     <Field Def="dummy8 reserved42[28]">
-      <DisplayName>予約<</DisplayName>
+      <DisplayName>予約</DisplayName>
       <Description>(dummy8)</Description>
     </Field>
     <Field Def="f32 unk5">
