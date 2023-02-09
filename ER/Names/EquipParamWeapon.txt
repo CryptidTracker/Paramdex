@@ -1,4 +1,49 @@
 110000 Unarmed
+170000 Throwing Dagger
+171000 Bone Dart
+172000 Poisonbone Dart
+173000 Kukri
+174000 Crystal Dart
+175000 Fan Daggers
+176000 Ruin Fragment
+183000 Explosive Stone
+183100 Explosive Stone Clump
+184000 Poisoned Stone
+184100 Poisoned Stone Clump
+300000 Ancestral Infant's Head
+301000 Omen Bairn
+301100 Regal Omen Bairn
+303000 Cuckoo Glintstone
+305000 Glintstone Scrap
+305100 Large Glintstone Scrap
+306000 Gravity Stone Fan
+307000 Gravity Stone Chunk
+308000 Wraith Calling Bell
+351000 Spark Aromatic
+358000 Poison Spraymist
+830000 Fire Pot
+830100 Redmane Fire Pot
+830200 Giantsflame Fire Pot
+832000 Lightning Pot
+832100 Ancient Dragonbolt Pot
+833000 Fetid Pot
+834000 Swarm Pot
+835000 Holy Water Pot
+835100 Sacred Order Pot
+837000 Poison Pot
+840000 Roped Fire Pot
+842000 Roped Lightning Pot
+843000 Roped Fetid Pot
+844000 Roped Poison Pot
+846000 Roped Magic Pot
+847000 Roped Fly Pot
+849000 Roped Volcano Pot
+851000 Roped Holy Water Pot
+860000 Volcano Pot
+864000 Sleep Pot
+865000 Rancor Pot
+866000 Magic Pot
+866100 Academy Magic Pot
 1000000 Dagger
 1000100 Heavy Dagger
 1000200 Keen Dagger
@@ -356,6 +401,7 @@
 3191200 Gargoyle's Occult Greatsword
 3200000 Death's Poker
 3210000 Gargoyle's Blackblade
+3220000 Dungeater's Sword of Milos
 4000000 Greatsword
 4000100 Heavy Greatsword
 4000200 Keen Greatsword
@@ -1192,7 +1238,7 @@
 14060200 Celebrant's Keen Cleaver
 14060300 Celebrant's Quality Cleaver
 14060400 Celebrant's Fire Cleaver
-14060500 Celebrant's Flame Art Cleaver Blades
+14060500 Celebrant's Flame Art Cleaver
 14060600 Celebrant's Lightning Cleaver
 14060700 Celebrant's Sacred Cleaver
 14060800 Celebrant's Magic Cleaver
@@ -1974,18 +2020,18 @@
 30011100 Perfumer's Blood Shield
 30011200 Perfumer's Occult Shield
 30020000 Man-Serpent's Shield
-30020100 Man-serpent's Heavy Shield
-30020200 Man-serpent's Keen Shield
-30020300 Man-serpent's Quality Shield
-30020400 Man-serpent's Fire Shield
-30020500 Man-serpent's Flame Art Shield
-30020600 Man-serpent's Lightning Shield
-30020700 Man-serpent's Sacred Shield
-30020800 Man-serpent's Magic Shield
-30020900 Man-serpent's Cold Shield
-30021000 Man-serpent's Poison Shield
-30021100 Man-serpent's Blood Shield
-30021200 Man-serpent's Occult Shield
+30020100 Man-Serpent's Heavy Shield
+30020200 Man-Serpent's Keen Shield
+30020300 Man-Serpent's Quality Shield
+30020400 Man-Serpent's Fire Shield
+30020500 Man-Serpent's Flame Art Shield
+30020600 Man-Serpent's Lightning Shield
+30020700 Man-Serpent's Sacred Shield
+30020800 Man-Serpent's Magic Shield
+30020900 Man-Serpent's Cold Shield
+30021000 Man-Serpent's Poison Shield
+30021100 Man-Serpent's Blood Shield
+30021200 Man-Serpent's Occult Shield
 30030000 Rickety Shield
 30030100 Heavy Rickety Shield
 30030200 Keen Rickety Shield

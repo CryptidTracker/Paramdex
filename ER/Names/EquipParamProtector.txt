@@ -155,8 +155,8 @@
 281100 Royal Knight Armor (Altered)
 290000 Nox Monk Hood
 290100 Nox Monk Armor
-290200 Nox Monk Bracelets
-290300 Nox Monk Greaves
+290200 Nox Bracelets
+290300 Nox Greaves
 291000 Nox Monk Hood (Altered)
 291100 Nox Monk Armor (Altered)
 292000 Nox Swordstress Crown
