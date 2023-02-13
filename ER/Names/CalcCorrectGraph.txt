@@ -1,14 +1,14 @@
 0 [Scaling] 60 (75%) -> 80 (90%) - Default
 1 [Scaling] 60 (75%) -> 80 (90%) - Heavy
 2 [Scaling] 60 (75%) -> 80 (90%) - Keen
-3 [Scaling] 30 (62%) -> 50 (82%)
+3 [Scaling] 30 (62%) -> 50 (82%) - Physical Consumable
 4 [Scaling] 50 (80%) -> 80 (95%) - Elemental
 5 [Scaling] 40 (225%) -> 80 (270%) - Serpent Bow Poison
 6 [Scaling] 45 (75%) -> 60 (90%) - Status Default
 7 [Scaling] 60 (75%) -> 80 (90%) - Occult/Innate Arc
 8 [Scaling] 60 (75%) -> 80 (90%) - Quality
 9 [Scaling] 60 (80%) -> 80 (95%)
-10 [Scaling] 30 (50%) -> 50 (60%)
+10 [Scaling] 30 (50%) -> 50 (60%) - Status Consumable
 11 [Scaling] 45 (15%) -> 60 (18%) - Status Catalyst
 12 [Scaling] 30 (55%) -> 45 (75%) - Catalyst
 13 [Scaling] 30 (35%) -> 80 (90%)
