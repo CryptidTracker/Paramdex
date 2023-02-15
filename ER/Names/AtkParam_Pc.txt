@@ -488,28 +488,28 @@
 109310 Great Knife | Celebrant's Sickle | Ivory Sickle - 2h R2 #2 [1]
 109315 Great Knife | Celebrant's Sickle | Ivory Sickle - 2h Charged R2 #1 [1]
 110800 Wakizashi - Paired L1 #1 [1] (Right)
-110805 Wakizashi
+110805 Wakizashi - Paired L1 #1 [1] w/Katana (Left)
 110806 Wakizashi - Paired L1 #1 [2] (Left)
 110810 Wakizashi - Paired L1 #2 [1] (Right)
-110815 Wakizashi
+110815 Wakizashi - Paired L1 #2 [1] w/Katana (Left)
 110816 Wakizashi - Paired L1 #2 [2] (Left)
 110820 Wakizashi - Paired L1 #3 [1] (Right)
-110825 Wakizashi
+110825 Wakizashi - Paired L1 #3 [1] w/Katana (Left)
 110826 Wakizashi - Paired L1 #3 [2] (Left)
 110830 Wakizashi - Paired L1 #4 [1] (Right)
-110835 Wakizashi
+110835 Wakizashi - Paired L1 #4 [1] w/Katana (Left)
 110836 Wakizashi - Paired L1 #4 [2] (Left)
 110860 Wakizashi - Paired Running L1 [1] (Right)
-110865 Wakizashi
+110865 Wakizashi - Paired Running L1 [1] w/Katana (Left)
 110866 Wakizashi - Paired Running L1 [2] (Left)
 110870 Wakizashi - Paired Rolling L1 [1] (Right)
-110875 Wakizashi
+110875 Wakizashi - Paired Rolling L1 [1] w/Katana (Left)
 110876 Wakizashi - Paired Rolling L1 [2] (Left)
 110880 Wakizashi - Paired Backstep L1 [1] (Right)
-110885 Wakizashi
+110885 Wakizashi - Paired Backstep L1 [1] w/Katana (Left)
 110886 Wakizashi - Paired Backstep L1 [2] (Left)
 110890 Wakizashi - Paired Jumping L1 [1] (Right)
-110895 Wakizashi
+110895 Wakizashi - Paired Jumping L1 [2] w/Katana (Left)
 110896 Wakizashi - Paired Jumping L1 [2] (Left)
 115100 Black Knife - 1h R2 #1 [1]
 115101 Black Knife - 1h R2 #1 [2]
@@ -3033,18 +3033,6 @@
 1802885 Lucerne - Paired Backstep L1 [1] (Left)
 1802890 Lucerne - Paired Jumping L1 [1] (Right)
 1802895 Lucerne - Paired Jumping L1 [1] (Left)
-1809000 
-1809010 
-1809020 
-1809030 
-1809200 
-1809210 
-1809220 
-1809230 
-1809400 
-1809410 
-1809420 
-1809430 
 1813100 Nightrider Glaive | Golden Halberd - 1h R2 #1 [1]
 1813105 Nightrider Glaive | Golden Halberd - 1h Charged R2 #1 [1]
 1813110 Nightrider Glaive | Golden Halberd - 1h R2 #2 [1]

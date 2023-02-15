@@ -158,28 +158,28 @@
 100109310 Great Knife | Celebrant's Sickle | Ivory Sickle - 2h R2 #2 [1]
 100109315 Great Knife | Celebrant's Sickle | Ivory Sickle - 2h Charged R2 #1 [1]
 100110800 Wakizashi - Paired L1 #1 [1] (Right)
-100110805 Wakizashi
+100110805 Wakizashi - Paired L1 #1 [1] w/Katana (Left)
 100110806 Wakizashi - Paired L1 #1 [2] (Left)
 100110810 Wakizashi - Paired L1 #2 [1] (Right)
-100110815 Wakizashi
+100110815 Wakizashi - Paired L1 #2 [1] w/Katana (Left)
 100110816 Wakizashi - Paired L1 #2 [2] (Left)
 100110820 Wakizashi - Paired L1 #3 [1] (Right)
-100110825 Wakizashi
+100110825 Wakizashi - Paired L1 #3 [1] w/Katana (Left)
 100110826 Wakizashi - Paired L1 #3 [2] (Left)
 100110830 Wakizashi - Paired L1 #4 [1] (Right)
-100110835 Wakizashi
+100110835 Wakizashi - Paired L1 #4 [1] w/Katana (Left)
 100110836 Wakizashi - Paired L1 #4 [2] (Left)
 100110860 Wakizashi - Paired Running L1 [1] (Right)
-100110865 Wakizashi
+100110865 Wakizashi - Paired Running L1 [1] w/Katana (Left)
 100110866 Wakizashi - Paired Running L1 [2] (Left)
 100110870 Wakizashi - Paired Rolling L1 [1] (Right)
-100110875 Wakizashi
+100110875 Wakizashi - Paired Rolling L1 [1] w/Katana (Left)
 100110876 Wakizashi - Paired Rolling L1 [2] (Left)
 100110880 Wakizashi - Paired Backstep L1 [1] (Right)
-100110885 Wakizashi
+100110885 Wakizashi - Paired Backstep L1 [1] w/Katana (Left)
 100110886 Wakizashi - Paired Backstep L1 [2] (Left)
 100110890 Wakizashi - Paired Jumping L1 [1] (Right)
-100110895 Wakizashi
+100110895 Wakizashi - Paired Jumping L1 [2] w/Katana (Left)
 100110896 Wakizashi - Paired Jumping L1 [2] (Left)
 100115100 Erdsteel Dagger - 1h R2 #1 [1]
 100115101 Erdsteel Dagger - 1h R2 #1 [2]
@@ -2896,18 +2896,6 @@
 101804410 Commander's Standard - Offhand R1 #2 [1]
 101804420 Commander's Standard - Offhand R1 #3 [1]
 101804430 Commander's Standard - Offhand R1 #4 [1]
-101809000 
-101809010 
-101809020 
-101809030 
-101809200 
-101809210 
-101809220 
-101809230 
-101809400 
-101809410 
-101809420 
-101809430 
 101810000 Loretta's War Sickle - 1h R1 #1 [1]
 101810010 Loretta's War Sickle - 1h R1 #2 [1]
 101810020 Loretta's War Sickle - 1h R1 #3 [1]
@@ -3137,8 +3125,6 @@
 102000885 [Default] Whip - Paired Backstep L1 [1] (Left)
 102000890 [Default] Whip - Paired Jumping L1 [1] (Right)
 102000895 [Default] Whip - Paired Jumping L1 [1] (Left)
-102001900 
-102001910 
 102005100 Urumi - 1h R2 #1 [1]
 102005105 Urumi - 1h Charged R2 #1 [1]
 102005106 Urumi - 1h Charged R2 #1 [2]
@@ -4112,7 +4098,6 @@
 103000750 [Default] Small Shield
 103000760 [Default] Small Shield
 103000765 [Default] Small Shield
-103001461 
 103100000 [Default] Medium Shield - 1h R1 #1 [1]
 103100010 [Default] Medium Shield - 1h R1 #2 [1]
 103100020 [Default] Medium Shield - 1h R1 #3 [1]
@@ -4270,10 +4255,6 @@
 103300700 [Default] Glintstone Staff - Mounted L1 #1 [1]
 103300705 [Default] Glintstone Staff - Mounted L1 #2 [1]
 103300710 [Default] Glintstone Staff - Mounted L1 #3 [1]
-103390900 
-103391900 
-103391901 
-103391902 
 103400000 [Default] Sacred Seal - 1h R1 #1 [1]
 103400010 [Default] Sacred Seal - 1h R1 #2 [1]
 103400020 [Default] Sacred Seal - 1h R1 #3 [1]
