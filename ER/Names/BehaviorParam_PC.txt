@@ -13,6 +13,8 @@
 1512 Flask of Crimson Tears +12
 2100 Hemorrhage - Bullet
 2105 Poison/Scarlet Rot - Bullet
+2201 Ruptured Crystal Tear - Bullet
+2202 Ruptured Crystal Tear - Bullet
 5010 Gravity Stone Fan
 5011 Gravity Stone Fan
 5012 Gravity Stone Fan
@@ -4280,744 +4282,744 @@
 103400700 [Default] Sacred Seal - Mounted L1 #1 [1]
 103400705 [Default] Sacred Seal - Mounted L1 #2 [1]
 103400710 [Default] Sacred Seal - Mounted L1 #3 [1]
-104000000 Default - Light Bow
-104000100 Default - Light Bow
-104000200 Default - Light Bow
-104000300 Default - Light Bow
-104000400 Default - Light Bow
-104000410 Default - Light Bow
-104000420 Default - Light Bow
-104000430 Default - Light Bow
-104000440 Default - Light Bow
-104000450 Default - Light Bow
-104000500 Default - Light Bow
-104000510 Default - Light Bow
-104000520 Default - Light Bow
-104000530 Default - Light Bow
-104000540 Default - Light Bow
-104000580 Default - Light Bow
-104000600 Default - Light Bow
-104000610 Default - Light Bow
-104000800 Default - Light Bow
-104100000 Default - Bow
-104100100 Default - Bow
-104100200 Default - Bow
-104100300 Default - Bow
-104100400 Default - Bow
-104100410 Default - Bow
-104100420 Default - Bow
-104100430 Default - Bow
-104100440 Default - Bow
-104100450 Default - Bow
-104100500 Default - Bow
-104100510 Default - Bow
-104100520 Default - Bow
-104100530 Default - Bow
-104100540 Default - Bow
-104100580 Default - Bow
-104100600 Default - Bow
-104100610 Default - Bow
-104100800 Default - Bow
-104200000 Default - Greatbow
-104200100 Default - Greatbow
-104200200 Default - Greatbow
-104200300 Default - Greatbow
-104200400 Default - Greatbow
-104200410 Default - Greatbow
-104200420 Default - Greatbow
-104200430 Default - Greatbow
-104200440 Default - Greatbow
-104200450 Default - Greatbow
-104200500 Default - Greatbow
-104200510 Default - Greatbow
-104200520 Default - Greatbow
-104200530 Default - Greatbow
-104200540 Default - Greatbow
-104200580 Default - Greatbow
-104200600 Default - Greatbow
-104200605 Default - Greatbow
-104200610 Default - Greatbow
-104200630 Default - Greatbow
-104200632 Default - Greatbow
-104200635 Default - Greatbow
-104200640 Default - Greatbow
-104200642 Default - Greatbow
-104200645 Default - Greatbow
-104200650 Default - Greatbow
-104200660 Default - Greatbow
-104200665 Default - Greatbow
-104200700 Default - Greatbow
-104200705 Default - Greatbow
-104200710 Default - Greatbow
-104200730 Default - Greatbow
-104200732 Default - Greatbow
-104200735 Default - Greatbow
-104200740 Default - Greatbow
-104200742 Default - Greatbow
-104200745 Default - Greatbow
-104200750 Default - Greatbow
-104200760 Default - Greatbow
-104200765 Default - Greatbow
-104300000 Default - Crossbow
-104300100 Default - Crossbow
-104300200 Default - Crossbow
-104300300 Default - Crossbow
-104300400 Default - Crossbow
-104300410 Default - Crossbow
-104300420 Default - Crossbow
-104300430 Default - Crossbow
-104300440 Default - Crossbow
-104300450 Default - Crossbow
-104300500 Default - Crossbow
-104300510 Default - Crossbow
-104300520 Default - Crossbow
-104300530 Default - Crossbow
-104300540 Default - Crossbow
-104300580 Default - Crossbow
-104300600 Default - Crossbow
-104300610 Default - Crossbow
-104300800 Default - Crossbow
-104300801 Default - Crossbow
-104400600 Default - Ballista
-104400605 Default - Ballista
-104400610 Default - Ballista
-104400630 Default - Ballista
-104400632 Default - Ballista
-104400635 Default - Ballista
-104400640 Default - Ballista
-104400642 Default - Ballista
-104400645 Default - Ballista
-104400650 Default - Ballista
-104400660 Default - Ballista
-104400665 Default - Ballista
-104400700 Default - Ballista
-104400705 Default - Ballista
-104400710 Default - Ballista
-104400730 Default - Ballista
-104400732 Default - Ballista
-104400735 Default - Ballista
-104400740 Default - Ballista
-104400742 Default - Ballista
-104400745 Default - Ballista
-104400750 Default - Ballista
-104400760 Default - Ballista
-104400765 Default - Ballista
-104400800 Default - Ballista
-104400801 Default - Ballista
+104000000 [Default] Light Bow
+104000100 [Default] Light Bow
+104000200 [Default] Light Bow
+104000300 [Default] Light Bow
+104000400 [Default] Light Bow
+104000410 [Default] Light Bow
+104000420 [Default] Light Bow
+104000430 [Default] Light Bow
+104000440 [Default] Light Bow
+104000450 [Default] Light Bow
+104000500 [Default] Light Bow
+104000510 [Default] Light Bow
+104000520 [Default] Light Bow
+104000530 [Default] Light Bow
+104000540 [Default] Light Bow
+104000580 [Default] Light Bow
+104000600 [Default] Light Bow
+104000610 [Default] Light Bow
+104000800 [Default] Light Bow
+104100000 [Default] Bow
+104100100 [Default] Bow
+104100200 [Default] Bow
+104100300 [Default] Bow
+104100400 [Default] Bow
+104100410 [Default] Bow
+104100420 [Default] Bow
+104100430 [Default] Bow
+104100440 [Default] Bow
+104100450 [Default] Bow
+104100500 [Default] Bow
+104100510 [Default] Bow
+104100520 [Default] Bow
+104100530 [Default] Bow
+104100540 [Default] Bow
+104100580 [Default] Bow
+104100600 [Default] Bow
+104100610 [Default] Bow
+104100800 [Default] Bow
+104200000 [Default] Greatbow
+104200100 [Default] Greatbow
+104200200 [Default] Greatbow
+104200300 [Default] Greatbow
+104200400 [Default] Greatbow
+104200410 [Default] Greatbow
+104200420 [Default] Greatbow
+104200430 [Default] Greatbow
+104200440 [Default] Greatbow
+104200450 [Default] Greatbow
+104200500 [Default] Greatbow
+104200510 [Default] Greatbow
+104200520 [Default] Greatbow
+104200530 [Default] Greatbow
+104200540 [Default] Greatbow
+104200580 [Default] Greatbow
+104200600 [Default] Greatbow
+104200605 [Default] Greatbow
+104200610 [Default] Greatbow
+104200630 [Default] Greatbow
+104200632 [Default] Greatbow
+104200635 [Default] Greatbow
+104200640 [Default] Greatbow
+104200642 [Default] Greatbow
+104200645 [Default] Greatbow
+104200650 [Default] Greatbow
+104200660 [Default] Greatbow
+104200665 [Default] Greatbow
+104200700 [Default] Greatbow
+104200705 [Default] Greatbow
+104200710 [Default] Greatbow
+104200730 [Default] Greatbow
+104200732 [Default] Greatbow
+104200735 [Default] Greatbow
+104200740 [Default] Greatbow
+104200742 [Default] Greatbow
+104200745 [Default] Greatbow
+104200750 [Default] Greatbow
+104200760 [Default] Greatbow
+104200765 [Default] Greatbow
+104300000 [Default] Crossbow
+104300100 [Default] Crossbow
+104300200 [Default] Crossbow
+104300300 [Default] Crossbow
+104300400 [Default] Crossbow
+104300410 [Default] Crossbow
+104300420 [Default] Crossbow
+104300430 [Default] Crossbow
+104300440 [Default] Crossbow
+104300450 [Default] Crossbow
+104300500 [Default] Crossbow
+104300510 [Default] Crossbow
+104300520 [Default] Crossbow
+104300530 [Default] Crossbow
+104300540 [Default] Crossbow
+104300580 [Default] Crossbow
+104300600 [Default] Crossbow
+104300610 [Default] Crossbow
+104300800 [Default] Crossbow
+104300801 [Default] Crossbow
+104400600 [Default] Ballista
+104400605 [Default] Ballista
+104400610 [Default] Ballista
+104400630 [Default] Ballista
+104400632 [Default] Ballista
+104400635 [Default] Ballista
+104400640 [Default] Ballista
+104400642 [Default] Ballista
+104400645 [Default] Ballista
+104400650 [Default] Ballista
+104400660 [Default] Ballista
+104400665 [Default] Ballista
+104400700 [Default] Ballista
+104400705 [Default] Ballista
+104400710 [Default] Ballista
+104400730 [Default] Ballista
+104400732 [Default] Ballista
+104400735 [Default] Ballista
+104400740 [Default] Ballista
+104400742 [Default] Ballista
+104400745 [Default] Ballista
+104400750 [Default] Ballista
+104400760 [Default] Ballista
+104400765 [Default] Ballista
+104400800 [Default] Ballista
+104400801 [Default] Ballista
 105000300 Arrow
 105000310 Arrow
 105000400 Arrow
 105000810 Arrow
-105000811 Arrow
+105000811 Arrow - Mighty Shot
 105000815 Arrow
 105000816 Arrow
-105000820 Arrow
+105000820 Arrow - Barrage
 105000825 Arrow
-105000830 Arrow
+105000830 Arrow - Enchanted Shot
 105000835 Arrow
-105000840 Arrow
+105000840 Arrow - Sky Shot
 105000845 Arrow
 105000850 Arrow
 105000851 Arrow
 105000855 Arrow
 105000856 Arrow
-105000870 Arrow
+105000870 Arrow - Through and Through
 105000875 Arrow
 105001300 Fire Arrow
 105001310 Fire Arrow
 105001400 Fire Arrow
 105001810 Fire Arrow
-105001811 Fire Arrow
+105001811 Fire Arrow - Mighty Shot
 105001815 Fire Arrow
 105001816 Fire Arrow
-105001820 Fire Arrow
+105001820 Fire Arrow - Barrage
 105001825 Fire Arrow
-105001830 Fire Arrow
+105001830 Fire Arrow - Enchanted Shot
 105001835 Fire Arrow
-105001840 Fire Arrow
+105001840 Fire Arrow - Sky Shot
 105001845 Fire Arrow
 105001850 Fire Arrow
 105001851 Fire Arrow
 105001855 Fire Arrow
 105001856 Fire Arrow
-105001870 Fire Arrow
+105001870 Fire Arrow - Through and Through
 105001875 Fire Arrow
 105002300 Serpent Arrow
 105002310 Serpent Arrow
 105002400 Serpent Arrow
 105002810 Serpent Arrow
-105002811 Serpent Arrow
+105002811 Serpent Arrow - Mighty Shot
 105002815 Serpent Arrow
 105002816 Serpent Arrow
-105002820 Serpent Arrow
+105002820 Serpent Arrow - Barrage
 105002825 Serpent Arrow
-105002830 Serpent Arrow
+105002830 Serpent Arrow - Enchanted Shot
 105002835 Serpent Arrow
-105002840 Serpent Arrow
+105002840 Serpent Arrow - Sky Shot
 105002845 Serpent Arrow
 105002850 Serpent Arrow
 105002851 Serpent Arrow
 105002855 Serpent Arrow
 105002856 Serpent Arrow
-105002870 Serpent Arrow
+105002870 Serpent Arrow - Through and Through
 105002875 Serpent Arrow
 105003300 Bone Arrow (Fletched)
 105003310 Bone Arrow (Fletched)
 105003400 Bone Arrow (Fletched)
 105003810 Bone Arrow (Fletched)
-105003811 Bone Arrow (Fletched)
+105003811 Bone Arrow (Fletched) - Mighty Shot
 105003815 Bone Arrow (Fletched)
 105003816 Bone Arrow (Fletched)
-105003820 Bone Arrow (Fletched)
+105003820 Bone Arrow (Fletched) - Barrage
 105003825 Bone Arrow (Fletched)
-105003830 Bone Arrow (Fletched)
+105003830 Bone Arrow (Fletched) - Enchanted Shot
 105003835 Bone Arrow (Fletched)
-105003840 Bone Arrow (Fletched)
+105003840 Bone Arrow (Fletched) - Sky Shot
 105003845 Bone Arrow (Fletched)
 105003850 Bone Arrow (Fletched)
 105003851 Bone Arrow (Fletched)
 105003855 Bone Arrow (Fletched)
 105003856 Bone Arrow (Fletched)
-105003870 Bone Arrow (Fletched)
+105003870 Bone Arrow (Fletched) - Through and Through
 105003875 Bone Arrow (Fletched)
 105004300 St. Trina's Arrow
 105004310 St. Trina's Arrow
 105004400 St. Trina's Arrow
 105004810 St. Trina's Arrow
-105004811 St. Trina's Arrow
+105004811 St. Trina's Arrow - Mighty Shot
 105004815 St. Trina's Arrow
 105004816 St. Trina's Arrow
-105004820 St. Trina's Arrow
+105004820 St. Trina's Arrow - Barrage
 105004825 St. Trina's Arrow
-105004830 St. Trina's Arrow
+105004830 St. Trina's Arrow - Enchanted Shot
 105004835 St. Trina's Arrow
-105004840 St. Trina's Arrow
+105004840 St. Trina's Arrow - Sky Shot
 105004845 St. Trina's Arrow
 105004850 St. Trina's Arrow
 105004851 St. Trina's Arrow
 105004855 St. Trina's Arrow
 105004856 St. Trina's Arrow
-105004870 St. Trina's Arrow
+105004870 St. Trina's Arrow - Through and Through
 105004875 St. Trina's Arrow
 105006300 Shattershard Arrow (Fletched)
 105006310 Shattershard Arrow (Fletched)
 105006400 Shattershard Arrow (Fletched)
 105006810 Shattershard Arrow (Fletched)
-105006811 Shattershard Arrow (Fletched)
+105006811 Shattershard Arrow (Fletched) - Mighty Shot
 105006815 Shattershard Arrow (Fletched)
 105006816 Shattershard Arrow (Fletched)
-105006820 Shattershard Arrow (Fletched)
+105006820 Shattershard Arrow (Fletched) - Barrage
 105006825 Shattershard Arrow (Fletched)
-105006830 Shattershard Arrow (Fletched)
+105006830 Shattershard Arrow (Fletched) - Enchanted Shot
 105006835 Shattershard Arrow (Fletched)
-105006840 Shattershard Arrow (Fletched)
+105006840 Shattershard Arrow (Fletched) - Sky Shot
 105006845 Shattershard Arrow (Fletched)
 105006850 Shattershard Arrow (Fletched)
 105006851 Shattershard Arrow (Fletched)
 105006855 Shattershard Arrow (Fletched)
 105006856 Shattershard Arrow (Fletched)
-105006870 Shattershard Arrow (Fletched)
+105006870 Shattershard Arrow (Fletched) - Through and Through
 105006875 Shattershard Arrow (Fletched)
 105008300 Rainbow Stone Arrow (Fletched)
 105008310 Rainbow Stone Arrow (Fletched)
 105008400 Rainbow Stone Arrow (Fletched)
 105008810 Rainbow Stone Arrow (Fletched)
-105008811 Rainbow Stone Arrow (Fletched)
+105008811 Rainbow Stone Arrow (Fletched) - Mighty Shot
 105008815 Rainbow Stone Arrow (Fletched)
 105008816 Rainbow Stone Arrow (Fletched)
-105008820 Rainbow Stone Arrow (Fletched)
+105008820 Rainbow Stone Arrow (Fletched) - Barrage
 105008825 Rainbow Stone Arrow (Fletched)
-105008830 Rainbow Stone Arrow (Fletched)
+105008830 Rainbow Stone Arrow (Fletched) - Enchanted Shot
 105008835 Rainbow Stone Arrow (Fletched)
-105008840 Rainbow Stone Arrow (Fletched)
+105008840 Rainbow Stone Arrow (Fletched) - Sky Shot
 105008845 Rainbow Stone Arrow (Fletched)
 105008850 Rainbow Stone Arrow (Fletched)
 105008851 Rainbow Stone Arrow (Fletched)
 105008855 Rainbow Stone Arrow (Fletched)
 105008856 Rainbow Stone Arrow (Fletched)
-105008870 Rainbow Stone Arrow (Fletched)
+105008870 Rainbow Stone Arrow (Fletched) - Through and Through
 105008875 Rainbow Stone Arrow (Fletched)
 105009300 Golden Arrow
 105009310 Golden Arrow
 105009400 Golden Arrow
 105009810 Golden Arrow
-105009811 Golden Arrow
+105009811 Golden Arrow - Mighty Shot
 105009815 Golden Arrow
 105009816 Golden Arrow
-105009820 Golden Arrow
+105009820 Golden Arrow - Barrage
 105009825 Golden Arrow
-105009830 Golden Arrow
+105009830 Golden Arrow - Enchanted Shot
 105009835 Golden Arrow
-105009840 Golden Arrow
+105009840 Golden Arrow - Sky Shot
 105009845 Golden Arrow
 105009850 Golden Arrow
 105009851 Golden Arrow
 105009855 Golden Arrow
 105009856 Golden Arrow
-105009870 Golden Arrow
+105009870 Golden Arrow - Through and Through
 105009875 Golden Arrow
 105010300 Dwelling Arrow
 105010310 Dwelling Arrow
 105010400 Dwelling Arrow
 105010810 Dwelling Arrow
-105010811 Dwelling Arrow
+105010811 Dwelling Arrow - Mighty Shot
 105010815 Dwelling Arrow
 105010816 Dwelling Arrow
-105010820 Dwelling Arrow
+105010820 Dwelling Arrow - Barrage
 105010825 Dwelling Arrow
-105010830 Dwelling Arrow
+105010830 Dwelling Arrow - Enchanted Shot
 105010835 Dwelling Arrow
-105010840 Dwelling Arrow
+105010840 Dwelling Arrow - Sky Shot
 105010845 Dwelling Arrow
 105010850 Dwelling Arrow
 105010851 Dwelling Arrow
 105010855 Dwelling Arrow
 105010856 Dwelling Arrow
-105010870 Dwelling Arrow
+105010870 Dwelling Arrow - Through and Through
 105010875 Dwelling Arrow
 105011300 Bone Arrow
 105011310 Bone Arrow
 105011400 Bone Arrow
 105011810 Bone Arrow
-105011811 Bone Arrow
+105011811 Bone Arrow - Mighty Shot
 105011815 Bone Arrow
 105011816 Bone Arrow
-105011820 Bone Arrow
+105011820 Bone Arrow - Barrage
 105011825 Bone Arrow
-105011830 Bone Arrow
+105011830 Bone Arrow - Enchanted Shot
 105011835 Bone Arrow
-105011840 Bone Arrow
+105011840 Bone Arrow - Sky Shot
 105011845 Bone Arrow
 105011850 Bone Arrow
 105011851 Bone Arrow
 105011855 Bone Arrow
 105011856 Bone Arrow
-105011870 Bone Arrow
+105011870 Bone Arrow - Through and Through
 105011875 Bone Arrow
 105013300 Firebone Arrow (Fletched)
 105013310 Firebone Arrow (Fletched)
 105013400 Firebone Arrow (Fletched)
 105013810 Firebone Arrow (Fletched)
-105013811 Firebone Arrow (Fletched)
+105013811 Firebone Arrow (Fletched) - Mighty Shot
 105013815 Firebone Arrow (Fletched)
 105013816 Firebone Arrow (Fletched)
-105013820 Firebone Arrow (Fletched)
+105013820 Firebone Arrow (Fletched) - Barrage
 105013825 Firebone Arrow (Fletched)
-105013830 Firebone Arrow (Fletched)
+105013830 Firebone Arrow (Fletched) - Enchanted Shot
 105013835 Firebone Arrow (Fletched)
-105013840 Firebone Arrow (Fletched)
+105013840 Firebone Arrow (Fletched) - Sky Shot
 105013845 Firebone Arrow (Fletched)
 105013850 Firebone Arrow (Fletched)
 105013851 Firebone Arrow (Fletched)
 105013855 Firebone Arrow (Fletched)
 105013856 Firebone Arrow (Fletched)
-105013870 Firebone Arrow (Fletched)
+105013870 Firebone Arrow (Fletched) - Through and Through
 105013875 Firebone Arrow (Fletched)
 105014300 Firebone Arrow
 105014310 Firebone Arrow
 105014400 Firebone Arrow
 105014810 Firebone Arrow
-105014811 Firebone Arrow
+105014811 Firebone Arrow - Mighty Shot
 105014815 Firebone Arrow
 105014816 Firebone Arrow
-105014820 Firebone Arrow
+105014820 Firebone Arrow - Barrage
 105014825 Firebone Arrow
-105014830 Firebone Arrow
+105014830 Firebone Arrow - Enchanted Shot
 105014835 Firebone Arrow
-105014840 Firebone Arrow
+105014840 Firebone Arrow - Sky Shot
 105014845 Firebone Arrow
 105014850 Firebone Arrow
 105014851 Firebone Arrow
 105014855 Firebone Arrow
 105014856 Firebone Arrow
-105014870 Firebone Arrow
+105014870 Firebone Arrow - Through and Through
 105014875 Firebone Arrow
 105015300 Poisonbone Arrow (Fletched)
 105015310 Poisonbone Arrow (Fletched)
 105015400 Poisonbone Arrow (Fletched)
 105015810 Poisonbone Arrow (Fletched)
-105015811 Poisonbone Arrow (Fletched)
+105015811 Poisonbone Arrow (Fletched) - Mighty Shot
 105015815 Poisonbone Arrow (Fletched)
 105015816 Poisonbone Arrow (Fletched)
-105015820 Poisonbone Arrow (Fletched)
+105015820 Poisonbone Arrow (Fletched) - Barrage
 105015825 Poisonbone Arrow (Fletched)
-105015830 Poisonbone Arrow (Fletched)
+105015830 Poisonbone Arrow (Fletched) - Enchanted Shot
 105015835 Poisonbone Arrow (Fletched)
-105015840 Poisonbone Arrow (Fletched)
+105015840 Poisonbone Arrow (Fletched) - Sky Shot
 105015845 Poisonbone Arrow (Fletched)
 105015850 Poisonbone Arrow (Fletched)
 105015851 Poisonbone Arrow (Fletched)
 105015855 Poisonbone Arrow (Fletched)
 105015856 Poisonbone Arrow (Fletched)
-105015870 Poisonbone Arrow (Fletched)
+105015870 Poisonbone Arrow (Fletched) - Through and Through
 105015875 Poisonbone Arrow (Fletched)
 105016300 Poisonbone Arrow
 105016310 Poisonbone Arrow
 105016400 Poisonbone Arrow
 105016810 Poisonbone Arrow
-105016811 Poisonbone Arrow
+105016811 Poisonbone Arrow - Mighty Shot
 105016815 Poisonbone Arrow
 105016816 Poisonbone Arrow
-105016820 Poisonbone Arrow
+105016820 Poisonbone Arrow - Barrage
 105016825 Poisonbone Arrow
-105016830 Poisonbone Arrow
+105016830 Poisonbone Arrow - Enchanted Shot
 105016835 Poisonbone Arrow
-105016840 Poisonbone Arrow
+105016840 Poisonbone Arrow - Sky Shot
 105016845 Poisonbone Arrow
 105016850 Poisonbone Arrow
 105016851 Poisonbone Arrow
 105016855 Poisonbone Arrow
 105016856 Poisonbone Arrow
-105016870 Poisonbone Arrow
+105016870 Poisonbone Arrow - Through and Through
 105016875 Poisonbone Arrow
 105017300 Sleepbone Arrow (Fletched)
 105017310 Sleepbone Arrow (Fletched)
 105017400 Sleepbone Arrow (Fletched)
 105017810 Sleepbone Arrow (Fletched)
-105017811 Sleepbone Arrow (Fletched)
+105017811 Sleepbone Arrow (Fletched) - Mighty Shot
 105017815 Sleepbone Arrow (Fletched)
 105017816 Sleepbone Arrow (Fletched)
-105017820 Sleepbone Arrow (Fletched)
+105017820 Sleepbone Arrow (Fletched) - Barrage
 105017825 Sleepbone Arrow (Fletched)
-105017830 Sleepbone Arrow (Fletched)
+105017830 Sleepbone Arrow (Fletched) - Enchanted Shot
 105017835 Sleepbone Arrow (Fletched)
-105017840 Sleepbone Arrow (Fletched)
+105017840 Sleepbone Arrow (Fletched) - Sky Shot
 105017845 Sleepbone Arrow (Fletched)
 105017850 Sleepbone Arrow (Fletched)
 105017851 Sleepbone Arrow (Fletched)
 105017855 Sleepbone Arrow (Fletched)
 105017856 Sleepbone Arrow (Fletched)
-105017870 Sleepbone Arrow (Fletched)
+105017870 Sleepbone Arrow (Fletched) - Through and Through
 105017875 Sleepbone Arrow (Fletched)
 105018300 Sleepbone Arrow
 105018310 Sleepbone Arrow
 105018400 Sleepbone Arrow
 105018810 Sleepbone Arrow
-105018811 Sleepbone Arrow
+105018811 Sleepbone Arrow - Mighty Shot
 105018815 Sleepbone Arrow
 105018816 Sleepbone Arrow
-105018820 Sleepbone Arrow
+105018820 Sleepbone Arrow - Barrage
 105018825 Sleepbone Arrow
-105018830 Sleepbone Arrow
+105018830 Sleepbone Arrow - Enchanted Shot
 105018835 Sleepbone Arrow
-105018840 Sleepbone Arrow
+105018840 Sleepbone Arrow - Sky Shot
 105018845 Sleepbone Arrow
 105018850 Sleepbone Arrow
 105018851 Sleepbone Arrow
 105018855 Sleepbone Arrow
 105018856 Sleepbone Arrow
-105018870 Sleepbone Arrow
+105018870 Sleepbone Arrow - Through and Through
 105018875 Sleepbone Arrow
 105019300 Stormwing Bone Arrow
 105019310 Stormwing Bone Arrow
 105019400 Stormwing Bone Arrow
 105019810 Stormwing Bone Arrow
-105019811 Stormwing Bone Arrow
+105019811 Stormwing Bone Arrow - Mighty Shot
 105019815 Stormwing Bone Arrow
 105019816 Stormwing Bone Arrow
-105019820 Stormwing Bone Arrow
+105019820 Stormwing Bone Arrow - Barrage
 105019825 Stormwing Bone Arrow
-105019830 Stormwing Bone Arrow
+105019830 Stormwing Bone Arrow - Enchanted Shot
 105019835 Stormwing Bone Arrow
-105019840 Stormwing Bone Arrow
+105019840 Stormwing Bone Arrow - Sky Shot
 105019845 Stormwing Bone Arrow
 105019850 Stormwing Bone Arrow
 105019851 Stormwing Bone Arrow
 105019855 Stormwing Bone Arrow
 105019856 Stormwing Bone Arrow
-105019870 Stormwing Bone Arrow
+105019870 Stormwing Bone Arrow - Through and Through
 105019875 Stormwing Bone Arrow
 105020300 Lightningbone Arrow (Fletched)
 105020310 Lightningbone Arrow (Fletched)
 105020400 Lightningbone Arrow (Fletched)
 105020810 Lightningbone Arrow (Fletched)
-105020811 Lightningbone Arrow (Fletched)
+105020811 Lightningbone Arrow (Fletched) - Mighty Shot
 105020815 Lightningbone Arrow (Fletched)
 105020816 Lightningbone Arrow (Fletched)
-105020820 Lightningbone Arrow (Fletched)
+105020820 Lightningbone Arrow (Fletched) - Barrage
 105020825 Lightningbone Arrow (Fletched)
-105020830 Lightningbone Arrow (Fletched)
+105020830 Lightningbone Arrow (Fletched) - Enchanted Shot
 105020835 Lightningbone Arrow (Fletched)
-105020840 Lightningbone Arrow (Fletched)
+105020840 Lightningbone Arrow (Fletched) - Sky Shot
 105020845 Lightningbone Arrow (Fletched)
 105020850 Lightningbone Arrow (Fletched)
 105020851 Lightningbone Arrow (Fletched)
 105020855 Lightningbone Arrow (Fletched)
 105020856 Lightningbone Arrow (Fletched)
-105020870 Lightningbone Arrow (Fletched)
+105020870 Lightningbone Arrow (Fletched) - Through and Through
 105020875 Lightningbone Arrow (Fletched)
 105021300 Lightningbone Arrow
 105021310 Lightningbone Arrow
 105021400 Lightningbone Arrow
 105021810 Lightningbone Arrow
-105021811 Lightningbone Arrow
+105021811 Lightningbone Arrow - Mighty Shot
 105021815 Lightningbone Arrow
 105021816 Lightningbone Arrow
-105021820 Lightningbone Arrow
+105021820 Lightningbone Arrow - Barrage
 105021825 Lightningbone Arrow
-105021830 Lightningbone Arrow
+105021830 Lightningbone Arrow - Enchanted Shot
 105021835 Lightningbone Arrow
-105021840 Lightningbone Arrow
+105021840 Lightningbone Arrow - Sky Shot
 105021845 Lightningbone Arrow
 105021850 Lightningbone Arrow
 105021851 Lightningbone Arrow
 105021855 Lightningbone Arrow
 105021856 Lightningbone Arrow
-105021870 Lightningbone Arrow
+105021870 Lightningbone Arrow - Through and Through
 105021875 Lightningbone Arrow
 105022300 Rainbow Stone Arrow
 105022310 Rainbow Stone Arrow
 105022400 Rainbow Stone Arrow
 105022810 Rainbow Stone Arrow
-105022811 Rainbow Stone Arrow
+105022811 Rainbow Stone Arrow - Mighty Shot
 105022815 Rainbow Stone Arrow
 105022816 Rainbow Stone Arrow
-105022820 Rainbow Stone Arrow
+105022820 Rainbow Stone Arrow - Barrage
 105022825 Rainbow Stone Arrow
-105022830 Rainbow Stone Arrow
+105022830 Rainbow Stone Arrow - Enchanted Shot
 105022835 Rainbow Stone Arrow
-105022840 Rainbow Stone Arrow
+105022840 Rainbow Stone Arrow - Sky Shot
 105022845 Rainbow Stone Arrow
 105022850 Rainbow Stone Arrow
 105022851 Rainbow Stone Arrow
 105022855 Rainbow Stone Arrow
 105022856 Rainbow Stone Arrow
-105022870 Rainbow Stone Arrow
+105022870 Rainbow Stone Arrow - Through and Through
 105022875 Rainbow Stone Arrow
 105023300 Shattershard Arrow
 105023310 Shattershard Arrow
 105023400 Shattershard Arrow
 105023810 Shattershard Arrow
-105023811 Shattershard Arrow
+105023811 Shattershard Arrow - Mighty Shot
 105023815 Shattershard Arrow
 105023816 Shattershard Arrow
-105023820 Shattershard Arrow
+105023820 Shattershard Arrow - Barrage
 105023825 Shattershard Arrow
-105023830 Shattershard Arrow
+105023830 Shattershard Arrow - Enchanted Shot
 105023835 Shattershard Arrow
-105023840 Shattershard Arrow
+105023840 Shattershard Arrow - Sky Shot
 105023845 Shattershard Arrow
 105023850 Shattershard Arrow
 105023851 Shattershard Arrow
 105023855 Shattershard Arrow
 105023856 Shattershard Arrow
-105023870 Shattershard Arrow
+105023870 Shattershard Arrow - Through and Through
 105023875 Shattershard Arrow
 105024300 Spiritflame Arrow
 105024310 Spiritflame Arrow
 105024400 Spiritflame Arrow
 105024810 Spiritflame Arrow
-105024811 Spiritflame Arrow
+105024811 Spiritflame Arrow - Mighty Shot
 105024815 Spiritflame Arrow
 105024816 Spiritflame Arrow
-105024820 Spiritflame Arrow
+105024820 Spiritflame Arrow - Barrage
 105024825 Spiritflame Arrow
-105024830 Spiritflame Arrow
+105024830 Spiritflame Arrow - Enchanted Shot
 105024835 Spiritflame Arrow
-105024840 Spiritflame Arrow
+105024840 Spiritflame Arrow - Sky Shot
 105024845 Spiritflame Arrow
 105024850 Spiritflame Arrow
 105024851 Spiritflame Arrow
 105024855 Spiritflame Arrow
 105024856 Spiritflame Arrow
-105024870 Spiritflame Arrow
+105024870 Spiritflame Arrow - Through and Through
 105024875 Spiritflame Arrow
 105026300 Magicbone Arrow (Fletched)
 105026310 Magicbone Arrow (Fletched)
 105026400 Magicbone Arrow (Fletched)
 105026810 Magicbone Arrow (Fletched)
-105026811 Magicbone Arrow (Fletched)
+105026811 Magicbone Arrow (Fletched) - Mighty Shot
 105026815 Magicbone Arrow (Fletched)
 105026816 Magicbone Arrow (Fletched)
-105026820 Magicbone Arrow (Fletched)
+105026820 Magicbone Arrow (Fletched) - Barrage
 105026825 Magicbone Arrow (Fletched)
-105026830 Magicbone Arrow (Fletched)
+105026830 Magicbone Arrow (Fletched) - Enchanted Shot
 105026835 Magicbone Arrow (Fletched)
-105026840 Magicbone Arrow (Fletched)
+105026840 Magicbone Arrow (Fletched) - Sky Shot
 105026845 Magicbone Arrow (Fletched)
 105026850 Magicbone Arrow (Fletched)
 105026851 Magicbone Arrow (Fletched)
 105026855 Magicbone Arrow (Fletched)
 105026856 Magicbone Arrow (Fletched)
-105026870 Magicbone Arrow (Fletched)
+105026870 Magicbone Arrow (Fletched) - Through and Through
 105026875 Magicbone Arrow (Fletched)
 105027300 Magicbone Arrow
 105027310 Magicbone Arrow
 105027400 Magicbone Arrow
 105027810 Magicbone Arrow
-105027811 Magicbone Arrow
+105027811 Magicbone Arrow - Mighty Shot
 105027815 Magicbone Arrow
 105027816 Magicbone Arrow
-105027820 Magicbone Arrow
+105027820 Magicbone Arrow - Barrage
 105027825 Magicbone Arrow
-105027830 Magicbone Arrow
+105027830 Magicbone Arrow - Enchanted Shot
 105027835 Magicbone Arrow
-105027840 Magicbone Arrow
+105027840 Magicbone Arrow - Sky Shot
 105027845 Magicbone Arrow
 105027850 Magicbone Arrow
 105027851 Magicbone Arrow
 105027855 Magicbone Arrow
 105027856 Magicbone Arrow
-105027870 Magicbone Arrow
+105027870 Magicbone Arrow - Through and Through
 105027875 Magicbone Arrow
 105028300 Haligbone Arrow (Fletched)
 105028310 Haligbone Arrow (Fletched)
 105028400 Haligbone Arrow (Fletched)
 105028810 Haligbone Arrow (Fletched)
-105028811 Haligbone Arrow (Fletched)
+105028811 Haligbone Arrow (Fletched) - Mighty Shot
 105028815 Haligbone Arrow (Fletched)
 105028816 Haligbone Arrow (Fletched)
-105028820 Haligbone Arrow (Fletched)
+105028820 Haligbone Arrow (Fletched) - Barrage
 105028825 Haligbone Arrow (Fletched)
-105028830 Haligbone Arrow (Fletched)
+105028830 Haligbone Arrow (Fletched) - Enchanted Shot
 105028835 Haligbone Arrow (Fletched)
-105028840 Haligbone Arrow (Fletched)
+105028840 Haligbone Arrow (Fletched) - Sky Shot
 105028845 Haligbone Arrow (Fletched)
 105028850 Haligbone Arrow (Fletched)
 105028851 Haligbone Arrow (Fletched)
 105028855 Haligbone Arrow (Fletched)
 105028856 Haligbone Arrow (Fletched)
-105028870 Haligbone Arrow (Fletched)
+105028870 Haligbone Arrow (Fletched) - Through and Through
 105028875 Haligbone Arrow (Fletched)
 105029300 Haligbone Arrow
 105029310 Haligbone Arrow
 105029400 Haligbone Arrow
 105029810 Haligbone Arrow
-105029811 Haligbone Arrow
+105029811 Haligbone Arrow - Mighty Shot
 105029815 Haligbone Arrow
 105029816 Haligbone Arrow
-105029820 Haligbone Arrow
+105029820 Haligbone Arrow - Barrage
 105029825 Haligbone Arrow
-105029830 Haligbone Arrow
+105029830 Haligbone Arrow - Enchanted Shot
 105029835 Haligbone Arrow
-105029840 Haligbone Arrow
+105029840 Haligbone Arrow - Sky Shot
 105029845 Haligbone Arrow
 105029850 Haligbone Arrow
 105029851 Haligbone Arrow
 105029855 Haligbone Arrow
 105029856 Haligbone Arrow
-105029870 Haligbone Arrow
+105029870 Haligbone Arrow - Through and Through
 105029875 Haligbone Arrow
 105030300 Bloodbone Arrow (Fletched)
 105030310 Bloodbone Arrow (Fletched)
 105030400 Bloodbone Arrow (Fletched)
 105030810 Bloodbone Arrow (Fletched)
-105030811 Bloodbone Arrow (Fletched)
+105030811 Bloodbone Arrow (Fletched) - Mighty Shot
 105030815 Bloodbone Arrow (Fletched)
 105030816 Bloodbone Arrow (Fletched)
-105030820 Bloodbone Arrow (Fletched)
+105030820 Bloodbone Arrow (Fletched) - Barrage
 105030825 Bloodbone Arrow (Fletched)
-105030830 Bloodbone Arrow (Fletched)
+105030830 Bloodbone Arrow (Fletched) - Enchanted Shot
 105030835 Bloodbone Arrow (Fletched)
-105030840 Bloodbone Arrow (Fletched)
+105030840 Bloodbone Arrow (Fletched) - Sky Shot
 105030845 Bloodbone Arrow (Fletched)
 105030850 Bloodbone Arrow (Fletched)
 105030851 Bloodbone Arrow (Fletched)
 105030855 Bloodbone Arrow (Fletched)
 105030856 Bloodbone Arrow (Fletched)
-105030870 Bloodbone Arrow (Fletched)
+105030870 Bloodbone Arrow (Fletched) - Through and Through
 105030875 Bloodbone Arrow (Fletched)
 105031300 Bloodbone Arrow
 105031310 Bloodbone Arrow
 105031400 Bloodbone Arrow
 105031810 Bloodbone Arrow
-105031811 Bloodbone Arrow
+105031811 Bloodbone Arrow - Mighty Shot
 105031815 Bloodbone Arrow
 105031816 Bloodbone Arrow
-105031820 Bloodbone Arrow
+105031820 Bloodbone Arrow - Barrage
 105031825 Bloodbone Arrow
-105031830 Bloodbone Arrow
+105031830 Bloodbone Arrow - Enchanted Shot
 105031835 Bloodbone Arrow
-105031840 Bloodbone Arrow
+105031840 Bloodbone Arrow - Sky Shot
 105031845 Bloodbone Arrow
 105031850 Bloodbone Arrow
 105031851 Bloodbone Arrow
 105031855 Bloodbone Arrow
 105031856 Bloodbone Arrow
-105031870 Bloodbone Arrow
+105031870 Bloodbone Arrow - Through and Through
 105031875 Bloodbone Arrow
 105032300 Coldbone Arrow (Fletched)
 105032310 Coldbone Arrow (Fletched)
 105032400 Coldbone Arrow (Fletched)
 105032810 Coldbone Arrow (Fletched)
-105032811 Coldbone Arrow (Fletched)
+105032811 Coldbone Arrow (Fletched) - Mighty Shot
 105032815 Coldbone Arrow (Fletched)
 105032816 Coldbone Arrow (Fletched)
-105032820 Coldbone Arrow (Fletched)
+105032820 Coldbone Arrow (Fletched) - Barrage
 105032825 Coldbone Arrow (Fletched)
-105032830 Coldbone Arrow (Fletched)
+105032830 Coldbone Arrow (Fletched) - Enchanted Shot
 105032835 Coldbone Arrow (Fletched)
-105032840 Coldbone Arrow (Fletched)
+105032840 Coldbone Arrow (Fletched) - Sky Shot
 105032845 Coldbone Arrow (Fletched)
 105032850 Coldbone Arrow (Fletched)
 105032851 Coldbone Arrow (Fletched)
 105032855 Coldbone Arrow (Fletched)
 105032856 Coldbone Arrow (Fletched)
-105032870 Coldbone Arrow (Fletched)
+105032870 Coldbone Arrow (Fletched) - Through and Through
 105032875 Coldbone Arrow (Fletched)
 105033300 Coldbone Arrow
 105033310 Coldbone Arrow
 105033400 Coldbone Arrow
 105033810 Coldbone Arrow
-105033811 Coldbone Arrow
+105033811 Coldbone Arrow - Mighty Shot
 105033815 Coldbone Arrow
 105033816 Coldbone Arrow
-105033820 Coldbone Arrow
+105033820 Coldbone Arrow - Barrage
 105033825 Coldbone Arrow
-105033830 Coldbone Arrow
+105033830 Coldbone Arrow - Enchanted Shot
 105033835 Coldbone Arrow
-105033840 Coldbone Arrow
+105033840 Coldbone Arrow - Sky Shot
 105033845 Coldbone Arrow
 105033850 Coldbone Arrow
 105033851 Coldbone Arrow
 105033855 Coldbone Arrow
 105033856 Coldbone Arrow
-105033870 Coldbone Arrow
+105033870 Coldbone Arrow - Through and Through
 105033875 Coldbone Arrow
 105034300 Rotbone Arrow (Fletched)
 105034310 Rotbone Arrow (Fletched)
 105034400 Rotbone Arrow (Fletched)
 105034810 Rotbone Arrow (Fletched)
-105034811 Rotbone Arrow (Fletched)
+105034811 Rotbone Arrow (Fletched) - Mighty Shot
 105034815 Rotbone Arrow (Fletched)
 105034816 Rotbone Arrow (Fletched)
-105034820 Rotbone Arrow (Fletched)
+105034820 Rotbone Arrow (Fletched) - Barrage
 105034825 Rotbone Arrow (Fletched)
-105034830 Rotbone Arrow (Fletched)
+105034830 Rotbone Arrow (Fletched) - Enchanted Shot
 105034835 Rotbone Arrow (Fletched)
-105034840 Rotbone Arrow (Fletched)
+105034840 Rotbone Arrow (Fletched) - Sky Shot
 105034845 Rotbone Arrow (Fletched)
 105034850 Rotbone Arrow (Fletched)
 105034851 Rotbone Arrow (Fletched)
 105034855 Rotbone Arrow (Fletched)
 105034856 Rotbone Arrow (Fletched)
-105034870 Rotbone Arrow (Fletched)
+105034870 Rotbone Arrow (Fletched) - Through and Through
 105034875 Rotbone Arrow (Fletched)
 105035300 Rotbone Arrow
 105035310 Rotbone Arrow
 105035400 Rotbone Arrow
 105035810 Rotbone Arrow
-105035811 Rotbone Arrow
+105035811 Rotbone Arrow - Mighty Shot
 105035815 Rotbone Arrow
 105035816 Rotbone Arrow
-105035820 Rotbone Arrow
+105035820 Rotbone Arrow - Barrage
 105035825 Rotbone Arrow
-105035830 Rotbone Arrow
+105035830 Rotbone Arrow - Enchanted Shot
 105035835 Rotbone Arrow
-105035840 Rotbone Arrow
+105035840 Rotbone Arrow - Sky Shot
 105035845 Rotbone Arrow
 105035850 Rotbone Arrow
 105035851 Rotbone Arrow
 105035855 Rotbone Arrow
 105035856 Rotbone Arrow
-105035870 Rotbone Arrow
+105035870 Rotbone Arrow - Through and Through
 105035875 Rotbone Arrow
 105100300 Great Arrow
 105100850 Great Arrow
 105100851 Great Arrow
 105100855 Great Arrow
 105100856 Great Arrow
-105100870 Great Arrow
+105100870 Great Arrow - Through and Through
 105100875 Great Arrow
 105100881 Great Arrow
 105100886 Great Arrow
@@ -5026,7 +5028,7 @@
 105101851 Golem's Great Arrow
 105101855 Golem's Great Arrow
 105101856 Golem's Great Arrow
-105101870 Golem's Great Arrow
+105101870 Golem's Great Arrow - Through and Through
 105101875 Golem's Great Arrow
 105101881 Golem's Great Arrow
 105101886 Golem's Great Arrow
@@ -5035,7 +5037,7 @@
 105102851 Golden Great Arrow
 105102855 Golden Great Arrow
 105102856 Golden Great Arrow
-105102870 Golden Great Arrow
+105102870 Golden Great Arrow - Through and Through
 105102875 Golden Great Arrow
 105102881 Golden Great Arrow
 105102886 Golden Great Arrow
@@ -5044,7 +5046,7 @@
 105103851 Golem's Magic Arrow
 105103855 Golem's Magic Arrow
 105103856 Golem's Magic Arrow
-105103870 Golem's Magic Arrow
+105103870 Golem's Magic Arrow - Through and Through
 105103875 Golem's Magic Arrow
 105103881 Golem's Magic Arrow
 105103886 Golem's Magic Arrow
@@ -5053,7 +5055,7 @@
 105104851 Radahn's Spear
 105104855 Radahn's Spear
 105104856 Radahn's Spear
-105104870 Radahn's Spear
+105104870 Radahn's Spear - Through and Through
 105104875 Radahn's Spear
 105104881 Radahn's Spear
 105104886 Radahn's Spear
@@ -5062,7 +5064,7 @@
 105105851 Bone Great Arrow (Fletched)
 105105855 Bone Great Arrow (Fletched)
 105105856 Bone Great Arrow (Fletched)
-105105870 Bone Great Arrow (Fletched)
+105105870 Bone Great Arrow (Fletched) - Through and Through
 105105875 Bone Great Arrow (Fletched)
 105105881 Bone Great Arrow (Fletched)
 105105886 Bone Great Arrow (Fletched)
@@ -5071,7 +5073,7 @@
 105106851 Bone Great Arrow
 105106855 Bone Great Arrow
 105106856 Bone Great Arrow
-105106870 Bone Great Arrow
+105106870 Bone Great Arrow - Through and Through
 105106875 Bone Great Arrow
 105106881 Bone Great Arrow
 105106886 Bone Great Arrow
@@ -5433,11 +5435,11 @@
 300000051 Storm Stomp (Lacking FP)
 300000055 Hoarfrost Stomp - Bullet
 300000056 Hoarfrost Stomp (Lacking FP)
-300000061 Gravitas - Bullet
+300000061 Gravitas - Inner - Bullet
 300000062 Gravitas - Weapon
 300000063 Gravitas - Weapon (Lacking FP)
-300000064 Gravitas - Bullet
-300000065 Gravitas - Bullet
+300000064 Gravitas - Middle - Bullet
+300000065 Gravitas - Outer - Bullet
 300000075 Ice Spear - Bullet
 300000076 Ice Spear (Lacking FP)
 300000077 Ice Spear - Startup Spin
@@ -5796,7 +5798,7 @@
 300000680 Carian Retaliation - Bullet
 300000681 Carian Retaliation - Bullet
 300000685 Carian Retaliation - Bullet
-300000690 Carian Retalitaion - Parry (Lacking FP)
+300000690 Carian Retalitaion - Parry? (Lacking FP)
 300000700 Square Off R1
 300000701 Square Off R1 (Lacking FP)
 300000705 Square Off R2
@@ -7236,6 +7238,7 @@
 400000017 Spinning Strikes R1 [2] (Lacking FP)
 400000018 Spinning Strikes R2 [1] (Lacking FP)
 400000019 Spinning Strikes R2 [2] (Lacking FP)
+400000020 Spinning Strikes - Projetile Deflection - Bullet
 500000000 Serpent Hunter - Boss Fight
 500000001 Serpent Hunter - Boss Fight
 500000002 Serpent Hunter - Boss Fight

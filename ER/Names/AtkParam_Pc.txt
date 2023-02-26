@@ -1,4 +1,3 @@
-0 Grafted Blade Greatsword
 1010 Impact
 40000 Glintstone Pebble
 40010 Great Glintstone Shard
@@ -4938,6 +4937,8 @@
 10355000 Bloodboil Aromatic
 10358000 Poison Spraymist [Hit]
 10361000 Acid Spraymist [Hit]
+11101600 Ruptured Crystal Tear
+11101700 Ruptured Crystal Tear
 300000010 Impaling Thrust
 300000011 Impaling Thrust (Lacking FP)
 300000025 Lifesteal Fist - Grab
@@ -4945,8 +4946,8 @@
 300000027 Lifesteal Fist - Final
 300000028 Lifesteal Fist (Lacking FP)
 300000040 Eruption - Weapon [1]
-30000041 Eruption - Initial Lava Tick
-30000042 Eruption - Lava Ticks
+30000041 Eruption - Bullet (Initial Lava Tick)
+30000042 Eruption - Bullet (Lava Ticks)
 300000043 Eruption - Weapon [2]
 300000045 Eruption - Weapon [1] (Lacking FP)
 300000046 Eruption - Weapon [2] (Lacking FP)
@@ -4997,10 +4998,10 @@
 300000194 [Slow] Double Slash #2 [2] (Lacking FP)
 300000195 [Slow] Double Slash #2 [3] (Lacking FP)
 300000196 [Slow] Double Slash #3 (Lacking FP)
-300000210 Holy Ground
-300000211 Holy Ground
-300000212 Holy Ground
-300000213 Holy Ground
+300000210 Holy Ground - Bullet
+300000211 Holy Ground - Bullet
+300000212 Holy Ground - Bullet
+300000213 Holy Ground - Bullet
 300000220 Spinning Slash #1
 300000221 Spinning Slash #2 [1]
 300000222 Spinning Slash #2 [2]
@@ -5150,7 +5151,7 @@
 300100547 [Dagger] Spinning Weapon - Last Hit (Lacking FP)
 300000550 Golden Land - Weapon [1]
 300000551 Golden Land - Weapon [2]
-30000552 Golden Land - Explosion
+30000552 Golden Land - Bullet (Explosion)
 300000553 Golden Land R2
 30000554 Golden Land - Bullet
 300000555 Golden Land - Weapon [1] (Lacking FP)
@@ -5208,13 +5209,13 @@
 300000660 Stormcaller #3 [2] - Weapon (Lacking FP)
 300000670 Shield Bash
 300000671 Shield Bash (Lacking FP)
-300000680 Carian Retaliation - Parry
-300000681 Carian Retaliation ?
-300000682 Carian Retaliation - Swords
-300000683 Carian Retaliation - Swords
-300000685 Carian Retaliation ?
-300000690 Carian Retalitaion - Parry (Lacking FP)
-300000695 Carian Retaliation ?
+300000680 Carian Retaliation - Bullet (Parry?)
+300000681 Carian Retaliation - Bullet (Parry?)
+300000682 Carian Retaliation - Bullet (Swords)
+300000683 Carian Retaliation - Bullet AoE (Swords)
+300000685 Carian Retaliation - Bullet ?
+300000690 Carian Retalitaion - Parry? (Lacking FP)
+300000695 Carian Retaliation - Bullet ?
 300000700 Square Off R1
 300000701 Square Off R1 (Lacking FP)
 300000705 Square Off R2
@@ -5248,12 +5249,12 @@
 300000816 Waves of Darkness - Weapon [2] (Lacking FP)
 300000818 Waves of Darkness R2 (Lacking FP)
 300000830 Prelate's Charge - Initial Attack
-30000831 Prelate's Charge - Explosion
+30000831 Prelate's Charge - Bullet (Explosion)
 300000832 Prelate's Charge - Charge Tick [1]
 300000833 Prelate's Charge - Charge Tick [2]
 300000834 Prelate's Charge - Final Attack
-30000835 Prelate's Charge - Fire Tick [1]
-30000836 Prelate's Charge - Fire Tick [2]
+30000835 Prelate's Charge - Bullet (Fire Tick 1)
+30000836 Prelate's Charge - Bullet (Fire Tick 2)
 300000837 Prelate's Charge - Initial Attack (Lacking FP)
 300000838 Prelate's Charge - Charge Tick (Lacking FP)
 300000839 Prelate's Charge - Final Attack (Lacking FP)
@@ -5293,7 +5294,7 @@
 300000917 Spinning Strikes R1 [2] (Lacking FP)
 300000918 Spinning Strikes R2 [1] (Lacking FP)
 300000919 Spinning Strikes R2 [2] (Lacking FP)
-300000920 Spinning Strikes - Deflect Projectile AoE
+300000920 Spinning Strikes - Bullet (Deflect Projectile AoE)
 300101900 Blade of Death - Bullet
 300101905 Blade of Death (Lacking FP)
 300104900 Reduvia Blood Blade [1] - Weapon
@@ -5305,8 +5306,8 @@
 300104910 Reduvia Blood Blade [3] - Weapon
 300104911 Reduvia Blood Blade [3] - Bullet
 300104912 Reduvia Blood Blade [3] (Lacking FP)
-300107900 Glintstone Dart Charged
-300107901 Glintstone Dart
+300107900 Glintstone Dart Charged - Bullet
+300107901 Glintstone Dart - Bullet
 300107905 Glintstone Dart Charged (Lacking FP)
 300107906 Glintstone Dart (Lacking FP)
 300107910 Glintstone Dart R2
@@ -5347,25 +5348,25 @@
 300208926 Eochaid's Dancing Blade [3] - Charged
 300208927 Eochaid's Dancing Blade [4] - Charged Final Hit
 300214900 Night-and-Flame Stance R1 - Weapon
-300214905 Night-and-Flame Stance R1 - Beam Loop 5x (Starts With [2])
-300214906 Night-and-Flame Stance R1 [3] - Beam Loop 4x
-300214907 Night-and-Flame Stance R1 [2] - Beam Loop 2x
-300214908 Night-and-Flame Stance R1 [4] - Beam Final Hit
-300214909 Night-and-Flame Stance R1 [1] - Beam (Point Blank)
+300214905 Night-and-Flame Stance R1 [2] - Bullet (Beam Loop 5x)
+300214906 Night-and-Flame Stance R1 [3] - Bullet (Beam Loop 4x)
+300214907 Night-and-Flame Stance R1 [2] - Bullet (Beam Loop 2x)
+300214908 Night-and-Flame Stance R1 [4] - Bullet (Beam Final Hit)
+300214909 Night-and-Flame Stance R1 [1] - Bullet (Beam - Point Blank)
 300214910 Night-and-Flame Stance R1 - Weapon (Lacking FP)
 300214920 Night-and-Flame Stance R2 - Weapon
-300214925 Night-and-Flame Stance R2 - Fire (both simultatneous)
-300214926 Night-and-Flame Stance R2 - Fire (both simultatneous)
+300214925 Night-and-Flame Stance R2 - Bullet (Fire)
+300214926 Night-and-Flame Stance R2 - Bullet (Fire)
 300214930 Night-and-Flame Stance R2 - Weapon (Lacking FP)
 300300820 Lion's Claw
 300300821 Lion's Claw (Lacking FP)
-30300850 Gravitas - Stackable Bullet Inner
-30300851 Gravitas - Stackable Bullet Middle
-30300852 Gravitas - Stackable Bullet Outer
+30300850 Gravitas - Bullet (Stackable Inner)
+30300851 Gravitas - Bullet (Stackable Middle)
+30300852 Gravitas - Bullet (Stackable Outer)
 300300852 Gravitas - Weapon
 300300853 Gravitas - Weapon (Lacking FP)
-30300862 Hoarfrost Stomp - Explosion
-30300863 Hoarfrost Stomp - Ground Ice
+30300862 Hoarfrost Stomp - Bullet (Explosion)
+30300863 Hoarfrost Stomp - Bullet (Ground Ice)
 30300864 Hoarfrost Stomp (Lacking FP)
 30300870 Storm Stomp - Bullet
 30300871 Storm Stomp (Lacking FP)
@@ -5449,8 +5450,8 @@
 300602908 Dynast's Finesse R2 #2 [2] (Lacking FP)
 300702900 Flowing Form
 300702901 Flowing Form (Lacking FP)
-300707900 Nebula - Weapon
-300707901 Nebula ?
+300707900 Nebula - Bullet
+300707901 Nebula - Bullet
 300707902 Nebula - Bullet
 300707905 Nebula (Lacking FP)
 300710900 Death Flare - Bullet
@@ -5477,7 +5478,7 @@
 300810900 Cursed-Blood Slice ?
 300810905 Cursed-Blood Slice #1 - Weapon (Lacking FP)
 300810906 Cursed-Blood Slice #2 - Weapon (Lacking FP)
-300810907 Cursed-Blood Slice ?
+300810907 Cursed-Blood Slice - Bullet ?
 300810908 Cursed-Blood Slice - Bullet
 300810910 Cursed-Blood Slice #1 - Weapon
 300810911 Cursed-Blood Slice #2 - Weapon
@@ -5544,7 +5545,7 @@
 301115915 Gold Breaker
 301200820 Prayerful Strike
 301200821 Prayerful Strike (Lacking FP)
-301202900 Devourer of Worlds
+301202900 Devourer of Worlds - Bullet
 301202901 Devourer of Worlds (Lacking FP)
 301216900 Bubble Shower - Bullet
 301216901 Bubble Shower - Bullet AoE
@@ -5593,9 +5594,9 @@
 301401810 [Default] Wild Strikes - Loop [2]
 301412900 Rosus's Summons - Bullet
 301412901 Rosus's Summons - Bullet
-301412902 Rosus's Summons - Skeleton Front
-301412903 Rosus's Summons - Skeleton Right
-301412904 Rosus's Summons - Skeleton Left
+301412902 Rosus's Summons - Bullet (Skeleton - Front)
+301412903 Rosus's Summons - Bullet (Skeleton - Right)
+301412904 Rosus's Summons - Bullet (Skeleton - Left)
 301412910 Rosus's Summons - Bullet
 301412911 Rosus's Summons - Bullet
 301412940 Rosus's Summons - Weapon
@@ -5639,7 +5640,7 @@
 301504930 I Command Thee, Kneel #1 [1] (Lacking FP)
 301504935 I Command Thee, Kneel #1 [2] (Lacking FP)
 301504940 I Command Thee, Kneel #2 (Lacking FP)
-301511900 Soul Stifler
+301511900 Soul Stifler - Bullet
 301600840 Thunderbolt - Bullet
 301600841 Thunderbolt - Bullet (Water Check?)
 301600845 Thunderbolt (Lacking FP)
@@ -5687,10 +5688,10 @@
 301703971 Great-Serpent Hunt #2 (Lacking FP)
 301703975 Great-Serpent Hunt ?
 301705900 Frenzyflame Thrust - Weapon
-301705901 Frenzyflame Thrust ?
+301705901 Frenzyflame Thrust - Bullet ?
 301705902 Frenzyflame Thrust - Bullet (Explosion)
-301705905 Frenzyflame Thrust ?
-301705906 Frenzyflame Thrust ?
+301705905 Frenzyflame Thrust - Bullet ?
+301705906 Frenzyflame Thrust - Bullet ?
 301705907 Frenzyflame Thrust - Bullet (Ticks)
 301705920 Frenzyflame Thrust - Leap Stagger
 301705925 Frenzyflame Thrust (Lacking FP)
@@ -5709,13 +5710,13 @@
 301711935 Bloodboon Ritual #1 (Lacking FP)
 301711940 Bloodboon Ritual #2 (Lacking FP)
 301711945 Bloodboon Ritual #3 (Lacking FP)
-301804900 Rallying Standard
+301804900 Rallying Standard - Bullet
 301805000 Phantom Slash #1 - Weapon
 301805001 Phantom Slash #1 - Weapon (Lacking FP)
-301805002 Phantom Slash #1 - Phantom
+301805002 Phantom Slash #1 - Bullet (Phantom)
 301805010 Phantom Slash #2 - Weapon
 301805011 Phantom Slash #2 - Weapon (Lacking FP)
-301805012 Phantom Slash #2 - Phantom
+301805012 Phantom Slash #2 - Bullet (Phantom)
 301810900 Loretta's Slash ?
 301810905 Loretta's Slash [1]
 301810906 Loretta's Slash [2]
@@ -5839,17 +5840,17 @@
 302309906 Spinning Wheel (Lacking FP)
 302309907 Spinning Wheel (Lacking FP)
 302309908 Spinning Wheel (Lacking FP)
-302404900 Fires of Slumber
-302404901 Fires of Slumber
+302404900 Fires of Slumber - Bullet
+302404901 Fires of Slumber - Bullet
 303020900 Viper Bite
 303020901 Viper Bite (Lacking FP)
-303208900 Golden Retaliation - "Parry"
-303208901 Golden Retaliation
+303208900 Golden Retaliation - Bullet ("Parry" ?)
+303208901 Golden Retaliation - Bullet ("Parry" ?)
 303208905 Golden Retaliation - Bullet
 303208906 Golden Retaliation - Bullet
-303215900 Flame Spit
-303215901 Flame Spit
-303216900 Tongues of Fire
+303215900 Flame Spit - Bullet
+303215901 Flame Spit - Bullet AoE
+303216900 Tongues of Fire - Bullet
 303309900 Spinning Weapon - First Hit
 303309901 Spinning Weapon - Middle Loop 5x
 303309902 Spinning Weapon - Last Hit
@@ -5899,14 +5900,14 @@
 303400605 Wave of Destruction - Bullet
 303400700 Alabaster Lord's Pull - Weapon
 303400702 Alabaster Lord's Pull - Weapon (Lacking FP)
-303400705 Alabaster Lord's Pull - Stackable Bullet Inner
-303400706 Alabaster Lord's Pull - Stackable Bullet Middle
-303400707 Alabaster Lord's Pull - Stackable Bullet Outer
+303400705 Alabaster Lord's Pull - Bullet (Stackable Inner)
+303400706 Alabaster Lord's Pull - Bullet (Stackable Middle)
+303400707 Alabaster Lord's Pull - Bullet (Stackable Outer)
 303400800 Onyx Lord's Repulsion - Weapon
 303400801 Onyx Lord's Repulsion - Weapon (Lacking FP)
-303400805 Onyx Lord's Repulsion - Stackable Bullet Inner
-303400806 Onyx Lord's Repulsion - Stackable Bullet Middle
-303400807 Onyx Lord's Repulsion - Stackable Bullet Outer
+303400805 Onyx Lord's Repulsion - Bullet (Stackable Inner)
+303400806 Onyx Lord's Repulsion - Bullet (Stackable Middle)
+303400807 Onyx Lord's Repulsion - Bullet (Stackable Outer)
 303400900 Nebula - Weapon
 303400901 Nebula - Bullet
 303400905 Nebula (Lacking FP)
@@ -5916,7 +5917,7 @@
 303401006 Golden Tempering Charged R2 - 1x (Left)
 303401007 Golden Tempering Charged R2 - Final (Right)
 303401008 Golden Tempering Charged R2 - Final (Left)
-303401100 Shriek of Milos - Shriek
+303401100 Shriek of Milos - Bullet (Shriek)
 303401200 Thundercloud Form [2]
 303401201 Thundercloud Form [1] - Uncharged/Partial Loop 1-3x
 303401202 Thundercloud Form (Lacking FP)

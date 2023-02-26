@@ -89,9 +89,9 @@
 2136 Morgott's Cursed Sword - Cursed-Blood Slice #1 [Hit]
 2145 Eclipse Shotel - Death Flare
 2146 Eclipse Shotel - Death Flare [Hit]
-2190 Gravitas
-2191 Gravitas
-2192 Gravitas
+2190 Gravitas - Inner
+2191 Gravitas - Middle
+2192 Gravitas - Outer
 2195 Royal Greatsword - Wolf's Assault
 2205 Starscourge Greatsword - Starcaller Cry
 2215 Sword of Night and Flame - Night-and-Flame Stance R1
@@ -415,6 +415,7 @@
 3060 Gargoyle's Blackblade - Corpse Wax Cutter
 3061 Gargoyle's Blackblade - Corpse Wax Cutter [Emitted]
 3062 Gargoyle's Blackblade - Corpse Wax Cutter [Hit]
+3065 Spinning Strikes - Projetile Deflection
 4000 Sacred Relic Sword - Wave of Gold
 4001 Sacred Relic Sword - Wave of Gold [Hit]
 4002 Sacred Relic Sword - Wave of Gold [Hit]
@@ -4935,18 +4936,20 @@
 10790300 Golden Lightning Fortification
 10790301 Golden Lightning Fortification [Hit]
 10999999 Arrow
+11101600 Ruptured Crystal Tear
+11101700 Ruptured Crystal Tear
 20000000 Arrow
 20000001 Arrow
 20000005 Arrow
 20000010 Arrow
-20000011 Arrow
+20000011 Arrow - Mighty Shot
 20000015 Arrow
 20000016 Arrow
-20000020 Arrow
+20000020 Arrow - Barrage
 20000025 Arrow
-20000030 Arrow
+20000030 Arrow - Enchanted Shot
 20000035 Arrow
-20000040 Arrow
+20000040 Arrow - Sky Shot
 20000045 Arrow
 20000050 Arrow
 20000051 Arrow
@@ -4958,20 +4961,20 @@
 20000057 Arrow
 20000058 Arrow
 20000059 Arrow
-20000070 Arrow
+20000070 Arrow - Through and Through
 20000075 Arrow
 20000100 Fire Arrow
 20000101 Fire Arrow
 20000105 Fire Arrow
 20000110 Fire Arrow
-20000111 Fire Arrow
+20000111 Fire Arrow - Mighty Shot
 20000115 Fire Arrow
 20000116 Fire Arrow
-20000120 Fire Arrow
+20000120 Fire Arrow - Barrage
 20000125 Fire Arrow
-20000130 Fire Arrow
+20000130 Fire Arrow - Enchanted Shot
 20000135 Fire Arrow
-20000140 Fire Arrow
+20000140 Fire Arrow - Sky Shot
 20000145 Fire Arrow
 20000150 Fire Arrow
 20000151 Fire Arrow
@@ -4983,20 +4986,20 @@
 20000157 Fire Arrow
 20000158 Fire Arrow
 20000159 Fire Arrow
-20000170 Fire Arrow
+20000170 Fire Arrow - Through and Through
 20000175 Fire Arrow
 20000200 Serpent Arrow
 20000201 Serpent Arrow
 20000205 Serpent Arrow
 20000210 Serpent Arrow
-20000211 Serpent Arrow
+20000211 Serpent Arrow - Mighty Shot
 20000215 Serpent Arrow
 20000216 Serpent Arrow
-20000220 Serpent Arrow
+20000220 Serpent Arrow - Barrage
 20000225 Serpent Arrow
-20000230 Serpent Arrow
+20000230 Serpent Arrow - Enchanted Shot
 20000235 Serpent Arrow
-20000240 Serpent Arrow
+20000240 Serpent Arrow - Sky Shot
 20000245 Serpent Arrow
 20000250 Serpent Arrow
 20000251 Serpent Arrow
@@ -5008,20 +5011,20 @@
 20000257 Serpent Arrow
 20000258 Serpent Arrow
 20000259 Serpent Arrow
-20000270 Serpent Arrow
+20000270 Serpent Arrow - Through and Through
 20000275 Serpent Arrow
 20000300 Bone Arrow (Fletched)
 20000301 Bone Arrow (Fletched)
 20000305 Bone Arrow (Fletched)
 20000310 Bone Arrow (Fletched)
-20000311 Bone Arrow (Fletched)
+20000311 Bone Arrow (Fletched) - Mighty Shot
 20000315 Bone Arrow (Fletched)
 20000316 Bone Arrow (Fletched)
-20000320 Bone Arrow (Fletched)
+20000320 Bone Arrow (Fletched) - Barrage
 20000325 Bone Arrow (Fletched)
-20000330 Bone Arrow (Fletched)
+20000330 Bone Arrow (Fletched) - Enchanted Shot
 20000335 Bone Arrow (Fletched)
-20000340 Bone Arrow (Fletched)
+20000340 Bone Arrow (Fletched) - Sky Shot
 20000345 Bone Arrow (Fletched)
 20000350 Bone Arrow (Fletched)
 20000351 Bone Arrow (Fletched)
@@ -5033,20 +5036,20 @@
 20000357 Bone Arrow (Fletched)
 20000358 Bone Arrow (Fletched)
 20000359 Bone Arrow (Fletched)
-20000370 Bone Arrow (Fletched)
+20000370 Bone Arrow (Fletched) - Through and Through
 20000375 Bone Arrow (Fletched)
 20000400 St. Trina's Arrow
 20000401 St. Trina's Arrow
 20000405 St. Trina's Arrow
 20000410 St. Trina's Arrow
-20000411 St. Trina's Arrow
+20000411 St. Trina's Arrow - Mighty Shot
 20000415 St. Trina's Arrow
 20000416 St. Trina's Arrow
-20000420 St. Trina's Arrow
+20000420 St. Trina's Arrow - Barrage
 20000425 St. Trina's Arrow
-20000430 St. Trina's Arrow
+20000430 St. Trina's Arrow - Enchanted Shot
 20000435 St. Trina's Arrow
-20000440 St. Trina's Arrow
+20000440 St. Trina's Arrow - Sky Shot
 20000445 St. Trina's Arrow
 20000450 St. Trina's Arrow
 20000451 St. Trina's Arrow
@@ -5058,20 +5061,20 @@
 20000457 St. Trina's Arrow
 20000458 St. Trina's Arrow
 20000459 St. Trina's Arrow
-20000470 St. Trina's Arrow
+20000470 St. Trina's Arrow - Through and Through
 20000475 St. Trina's Arrow
 20000500 Shattershard Arrow (Fletched)
 20000501 Shattershard Arrow (Fletched)
 20000505 Shattershard Arrow (Fletched)
 20000510 Shattershard Arrow (Fletched)
-20000511 Shattershard Arrow (Fletched)
+20000511 Shattershard Arrow (Fletched) - Mighty Shot
 20000515 Shattershard Arrow (Fletched)
 20000516 Shattershard Arrow (Fletched)
-20000520 Shattershard Arrow (Fletched)
+20000520 Shattershard Arrow (Fletched) - Barrage
 20000525 Shattershard Arrow (Fletched)
-20000530 Shattershard Arrow (Fletched)
+20000530 Shattershard Arrow (Fletched) - Enchanted Shot
 20000535 Shattershard Arrow (Fletched)
-20000540 Shattershard Arrow (Fletched)
+20000540 Shattershard Arrow (Fletched) - Sky Shot
 20000545 Shattershard Arrow (Fletched)
 20000550 Shattershard Arrow (Fletched)
 20000551 Shattershard Arrow (Fletched)
@@ -5083,20 +5086,20 @@
 20000557 Shattershard Arrow (Fletched)
 20000558 Shattershard Arrow (Fletched)
 20000559 Shattershard Arrow (Fletched)
-20000570 Shattershard Arrow (Fletched)
+20000570 Shattershard Arrow (Fletched) - Through and Through
 20000575 Shattershard Arrow (Fletched)
 20000600 Rainbow Stone Arrow (Fletched)
 20000601 Rainbow Stone Arrow (Fletched)
 20000605 Rainbow Stone Arrow (Fletched)
 20000610 Rainbow Stone Arrow (Fletched)
-20000611 Rainbow Stone Arrow (Fletched)
+20000611 Rainbow Stone Arrow (Fletched) - Mighty Shot
 20000615 Rainbow Stone Arrow (Fletched)
 20000616 Rainbow Stone Arrow (Fletched)
-20000620 Rainbow Stone Arrow (Fletched)
+20000620 Rainbow Stone Arrow (Fletched) - Barrage
 20000625 Rainbow Stone Arrow (Fletched)
-20000630 Rainbow Stone Arrow (Fletched)
+20000630 Rainbow Stone Arrow (Fletched) - Enchanted Shot
 20000635 Rainbow Stone Arrow (Fletched)
-20000640 Rainbow Stone Arrow (Fletched)
+20000640 Rainbow Stone Arrow (Fletched) - Sky Shot
 20000645 Rainbow Stone Arrow (Fletched)
 20000650 Rainbow Stone Arrow (Fletched)
 20000651 Rainbow Stone Arrow (Fletched)
@@ -5108,20 +5111,20 @@
 20000657 Rainbow Stone Arrow (Fletched)
 20000658 Rainbow Stone Arrow (Fletched)
 20000659 Rainbow Stone Arrow (Fletched)
-20000670 Rainbow Stone Arrow (Fletched)
+20000670 Rainbow Stone Arrow (Fletched) - Through and Through
 20000675 Rainbow Stone Arrow (Fletched)
 20000700 Golden Arrow
 20000701 Golden Arrow
 20000705 Golden Arrow
 20000710 Golden Arrow
-20000711 Golden Arrow
+20000711 Golden Arrow - Mighty Shot
 20000715 Golden Arrow
 20000716 Golden Arrow
-20000720 Golden Arrow
+20000720 Golden Arrow - Barrage
 20000725 Golden Arrow
-20000730 Golden Arrow
+20000730 Golden Arrow - Enchanted Shot
 20000735 Golden Arrow
-20000740 Golden Arrow
+20000740 Golden Arrow - Sky Shot
 20000745 Golden Arrow
 20000750 Golden Arrow
 20000751 Golden Arrow
@@ -5133,20 +5136,20 @@
 20000757 Golden Arrow
 20000758 Golden Arrow
 20000759 Golden Arrow
-20000770 Golden Arrow
+20000770 Golden Arrow - Through and Through
 20000775 Golden Arrow
 20000800 Dwelling Arrow
 20000801 Dwelling Arrow
 20000805 Dwelling Arrow
 20000810 Dwelling Arrow
-20000811 Dwelling Arrow
+20000811 Dwelling Arrow - Mighty Shot
 20000815 Dwelling Arrow
 20000816 Dwelling Arrow
-20000820 Dwelling Arrow
+20000820 Dwelling Arrow - Barrage
 20000825 Dwelling Arrow
-20000830 Dwelling Arrow
+20000830 Dwelling Arrow - Enchanted Shot
 20000835 Dwelling Arrow
-20000840 Dwelling Arrow
+20000840 Dwelling Arrow - Sky Shot
 20000845 Dwelling Arrow
 20000850 Dwelling Arrow
 20000851 Dwelling Arrow
@@ -5158,20 +5161,20 @@
 20000857 Dwelling Arrow
 20000858 Dwelling Arrow
 20000859 Dwelling Arrow
-20000870 Dwelling Arrow
+20000870 Dwelling Arrow - Through and Through
 20000875 Dwelling Arrow
 20000900 Bone Arrow
 20000901 Bone Arrow
 20000905 Bone Arrow
 20000910 Bone Arrow
-20000911 Bone Arrow
+20000911 Bone Arrow - Mighty Shot
 20000915 Bone Arrow
 20000916 Bone Arrow
-20000920 Bone Arrow
+20000920 Bone Arrow - Barrage
 20000925 Bone Arrow
-20000930 Bone Arrow
+20000930 Bone Arrow - Enchanted Shot
 20000935 Bone Arrow
-20000940 Bone Arrow
+20000940 Bone Arrow - Sky Shot
 20000945 Bone Arrow
 20000950 Bone Arrow
 20000951 Bone Arrow
@@ -5183,20 +5186,20 @@
 20000957 Bone Arrow
 20000958 Bone Arrow
 20000959 Bone Arrow
-20000970 Bone Arrow
+20000970 Bone Arrow - Through and Through
 20000975 Bone Arrow
 20001000 Firebone Arrow (Fletched)
 20001001 Firebone Arrow (Fletched)
 20001005 Firebone Arrow (Fletched)
 20001010 Firebone Arrow (Fletched)
-20001011 Firebone Arrow (Fletched)
+20001011 Firebone Arrow (Fletched) - Mighty Shot
 20001015 Firebone Arrow (Fletched)
 20001016 Firebone Arrow (Fletched)
-20001020 Firebone Arrow (Fletched)
+20001020 Firebone Arrow (Fletched) - Barrage
 20001025 Firebone Arrow (Fletched)
-20001030 Firebone Arrow (Fletched)
+20001030 Firebone Arrow (Fletched) - Enchanted Shot
 20001035 Firebone Arrow (Fletched)
-20001040 Firebone Arrow (Fletched)
+20001040 Firebone Arrow (Fletched) - Sky Shot
 20001045 Firebone Arrow (Fletched)
 20001050 Firebone Arrow (Fletched)
 20001051 Firebone Arrow (Fletched)
@@ -5208,20 +5211,20 @@
 20001057 Firebone Arrow (Fletched)
 20001058 Firebone Arrow (Fletched)
 20001059 Firebone Arrow (Fletched)
-20001070 Firebone Arrow (Fletched)
+20001070 Firebone Arrow (Fletched) - Through and Through
 20001075 Firebone Arrow (Fletched)
 20001100 Firebone Arrow
 20001101 Firebone Arrow
 20001105 Firebone Arrow
 20001110 Firebone Arrow
-20001111 Firebone Arrow
+20001111 Firebone Arrow - Mighty Shot
 20001115 Firebone Arrow
 20001116 Firebone Arrow
-20001120 Firebone Arrow
+20001120 Firebone Arrow - Barrage
 20001125 Firebone Arrow
-20001130 Firebone Arrow
+20001130 Firebone Arrow - Enchanted Shot
 20001135 Firebone Arrow
-20001140 Firebone Arrow
+20001140 Firebone Arrow - Sky Shot
 20001145 Firebone Arrow
 20001150 Firebone Arrow
 20001151 Firebone Arrow
@@ -5233,20 +5236,20 @@
 20001157 Firebone Arrow
 20001158 Firebone Arrow
 20001159 Firebone Arrow
-20001170 Firebone Arrow
+20001170 Firebone Arrow - Through and Through
 20001175 Firebone Arrow
 20001200 Poisonbone Arrow (Fletched)
 20001201 Poisonbone Arrow (Fletched)
 20001205 Poisonbone Arrow (Fletched)
 20001210 Poisonbone Arrow (Fletched)
-20001211 Poisonbone Arrow (Fletched)
+20001211 Poisonbone Arrow (Fletched) - Mighty Shot
 20001215 Poisonbone Arrow (Fletched)
 20001216 Poisonbone Arrow (Fletched)
-20001220 Poisonbone Arrow (Fletched)
+20001220 Poisonbone Arrow (Fletched) - Barrage
 20001225 Poisonbone Arrow (Fletched)
-20001230 Poisonbone Arrow (Fletched)
+20001230 Poisonbone Arrow (Fletched) - Enchanted Shot
 20001235 Poisonbone Arrow (Fletched)
-20001240 Poisonbone Arrow (Fletched)
+20001240 Poisonbone Arrow (Fletched) - Sky Shot
 20001245 Poisonbone Arrow (Fletched)
 20001250 Poisonbone Arrow (Fletched)
 20001251 Poisonbone Arrow (Fletched)
@@ -5258,20 +5261,20 @@
 20001257 Poisonbone Arrow (Fletched)
 20001258 Poisonbone Arrow (Fletched)
 20001259 Poisonbone Arrow (Fletched)
-20001270 Poisonbone Arrow (Fletched)
+20001270 Poisonbone Arrow (Fletched) - Through and Through
 20001275 Poisonbone Arrow (Fletched)
 20001300 Poisonbone Arrow
 20001301 Poisonbone Arrow
 20001305 Poisonbone Arrow
 20001310 Poisonbone Arrow
-20001311 Poisonbone Arrow
+20001311 Poisonbone Arrow - Mighty Shot
 20001315 Poisonbone Arrow
 20001316 Poisonbone Arrow
-20001320 Poisonbone Arrow
+20001320 Poisonbone Arrow - Barrage
 20001325 Poisonbone Arrow
-20001330 Poisonbone Arrow
+20001330 Poisonbone Arrow - Enchanted Shot
 20001335 Poisonbone Arrow
-20001340 Poisonbone Arrow
+20001340 Poisonbone Arrow - Sky Shot
 20001345 Poisonbone Arrow
 20001350 Poisonbone Arrow
 20001351 Poisonbone Arrow
@@ -5283,20 +5286,20 @@
 20001357 Poisonbone Arrow
 20001358 Poisonbone Arrow
 20001359 Poisonbone Arrow
-20001370 Poisonbone Arrow
+20001370 Poisonbone Arrow - Through and Through
 20001375 Poisonbone Arrow
 20001400 Sleepbone Arrow (Fletched)
 20001401 Sleepbone Arrow (Fletched)
 20001405 Sleepbone Arrow (Fletched)
 20001410 Sleepbone Arrow (Fletched)
-20001411 Sleepbone Arrow (Fletched)
+20001411 Sleepbone Arrow (Fletched) - Mighty Shot
 20001415 Sleepbone Arrow (Fletched)
 20001416 Sleepbone Arrow (Fletched)
-20001420 Sleepbone Arrow (Fletched)
+20001420 Sleepbone Arrow (Fletched) - Barrage
 20001425 Sleepbone Arrow (Fletched)
-20001430 Sleepbone Arrow (Fletched)
+20001430 Sleepbone Arrow (Fletched) - Enchanted Shot
 20001435 Sleepbone Arrow (Fletched)
-20001440 Sleepbone Arrow (Fletched)
+20001440 Sleepbone Arrow (Fletched) - Sky Shot
 20001445 Sleepbone Arrow (Fletched)
 20001450 Sleepbone Arrow (Fletched)
 20001451 Sleepbone Arrow (Fletched)
@@ -5308,20 +5311,20 @@
 20001457 Sleepbone Arrow (Fletched)
 20001458 Sleepbone Arrow (Fletched)
 20001459 Sleepbone Arrow (Fletched)
-20001470 Sleepbone Arrow (Fletched)
+20001470 Sleepbone Arrow (Fletched) - Through and Through
 20001475 Sleepbone Arrow (Fletched)
 20001500 Sleepbone Arrow
 20001501 Sleepbone Arrow
 20001505 Sleepbone Arrow
 20001510 Sleepbone Arrow
-20001511 Sleepbone Arrow
+20001511 Sleepbone Arrow - Mighty Shot
 20001515 Sleepbone Arrow
 20001516 Sleepbone Arrow
-20001520 Sleepbone Arrow
+20001520 Sleepbone Arrow - Barrage
 20001525 Sleepbone Arrow
-20001530 Sleepbone Arrow
+20001530 Sleepbone Arrow - Enchanted Shot
 20001535 Sleepbone Arrow
-20001540 Sleepbone Arrow
+20001540 Sleepbone Arrow - Sky Shot
 20001545 Sleepbone Arrow
 20001550 Sleepbone Arrow
 20001551 Sleepbone Arrow
@@ -5333,20 +5336,20 @@
 20001557 Sleepbone Arrow
 20001558 Sleepbone Arrow
 20001559 Sleepbone Arrow
-20001570 Sleepbone Arrow
+20001570 Sleepbone Arrow - Through and Through
 20001575 Sleepbone Arrow
 20001600 Stormwing Bone Arrow
 20001601 Stormwing Bone Arrow
 20001605 Stormwing Bone Arrow
 20001610 Stormwing Bone Arrow
-20001611 Stormwing Bone Arrow
+20001611 Stormwing Bone Arrow - Mighty Shot
 20001615 Stormwing Bone Arrow
 20001616 Stormwing Bone Arrow
-20001620 Stormwing Bone Arrow
+20001620 Stormwing Bone Arrow - Barrage
 20001625 Stormwing Bone Arrow
-20001630 Stormwing Bone Arrow
+20001630 Stormwing Bone Arrow - Enchanted Shot
 20001635 Stormwing Bone Arrow
-20001640 Stormwing Bone Arrow
+20001640 Stormwing Bone Arrow - Sky Shot
 20001645 Stormwing Bone Arrow
 20001650 Stormwing Bone Arrow
 20001651 Stormwing Bone Arrow
@@ -5358,20 +5361,20 @@
 20001657 Stormwing Bone Arrow
 20001658 Stormwing Bone Arrow
 20001659 Stormwing Bone Arrow
-20001670 Stormwing Bone Arrow
+20001670 Stormwing Bone Arrow - Through and Through
 20001675 Stormwing Bone Arrow
 20001700 Lightningbone Arrow (Fletched)
 20001701 Lightningbone Arrow (Fletched)
 20001705 Lightningbone Arrow (Fletched)
 20001710 Lightningbone Arrow (Fletched)
-20001711 Lightningbone Arrow (Fletched)
+20001711 Lightningbone Arrow (Fletched) - Mighty Shot
 20001715 Lightningbone Arrow (Fletched)
 20001716 Lightningbone Arrow (Fletched)
-20001720 Lightningbone Arrow (Fletched)
+20001720 Lightningbone Arrow (Fletched) - Barrage
 20001725 Lightningbone Arrow (Fletched)
-20001730 Lightningbone Arrow (Fletched)
+20001730 Lightningbone Arrow (Fletched) - Enchanted Shot
 20001735 Lightningbone Arrow (Fletched)
-20001740 Lightningbone Arrow (Fletched)
+20001740 Lightningbone Arrow (Fletched) - Sky Shot
 20001745 Lightningbone Arrow (Fletched)
 20001750 Lightningbone Arrow (Fletched)
 20001751 Lightningbone Arrow (Fletched)
@@ -5383,7 +5386,7 @@
 20001757 Lightningbone Arrow (Fletched)
 20001758 Lightningbone Arrow (Fletched)
 20001759 Lightningbone Arrow (Fletched)
-20001770 Lightningbone Arrow (Fletched)
+20001770 Lightningbone Arrow (Fletched) - Through and Through
 20001775 Lightningbone Arrow (Fletched)
 20001791 Lightningbone Arrow (Fletched)
 20001792 Lightningbone Arrow (Fletched)
@@ -5393,14 +5396,14 @@
 20001801 Lightningbone Arrow
 20001805 Lightningbone Arrow
 20001810 Lightningbone Arrow
-20001811 Lightningbone Arrow
+20001811 Lightningbone Arrow - Mighty Shot
 20001815 Lightningbone Arrow
 20001816 Lightningbone Arrow
-20001820 Lightningbone Arrow
+20001820 Lightningbone Arrow - Barrage
 20001825 Lightningbone Arrow
-20001830 Lightningbone Arrow
+20001830 Lightningbone Arrow - Enchanted Shot
 20001835 Lightningbone Arrow
-20001840 Lightningbone Arrow
+20001840 Lightningbone Arrow - Sky Shot
 20001845 Lightningbone Arrow
 20001850 Lightningbone Arrow
 20001851 Lightningbone Arrow
@@ -5412,7 +5415,7 @@
 20001857 Lightningbone Arrow
 20001858 Lightningbone Arrow
 20001859 Lightningbone Arrow
-20001870 Lightningbone Arrow
+20001870 Lightningbone Arrow - Through and Through
 20001875 Lightningbone Arrow
 20001891 Lightningbone Arrow
 20001892 Lightningbone Arrow
@@ -5422,14 +5425,14 @@
 20001901 Rainbow Stone Arrow
 20001905 Rainbow Stone Arrow
 20001910 Rainbow Stone Arrow
-20001911 Rainbow Stone Arrow
+20001911 Rainbow Stone Arrow - Mighty Shot
 20001915 Rainbow Stone Arrow
 20001916 Rainbow Stone Arrow
-20001920 Rainbow Stone Arrow
+20001920 Rainbow Stone Arrow - Barrage
 20001925 Rainbow Stone Arrow
-20001930 Rainbow Stone Arrow
+20001930 Rainbow Stone Arrow - Enchanted Shot
 20001935 Rainbow Stone Arrow
-20001940 Rainbow Stone Arrow
+20001940 Rainbow Stone Arrow - Sky Shot
 20001945 Rainbow Stone Arrow
 20001950 Rainbow Stone Arrow
 20001951 Rainbow Stone Arrow
@@ -5441,20 +5444,20 @@
 20001957 Rainbow Stone Arrow
 20001958 Rainbow Stone Arrow
 20001959 Rainbow Stone Arrow
-20001970 Rainbow Stone Arrow
+20001970 Rainbow Stone Arrow - Through and Through
 20001975 Rainbow Stone Arrow
 20002000 Shattershard Arrow
 20002001 Shattershard Arrow
 20002005 Shattershard Arrow
 20002010 Shattershard Arrow
-20002011 Shattershard Arrow
+20002011 Shattershard Arrow - Mighty Shot
 20002015 Shattershard Arrow
 20002016 Shattershard Arrow
-20002020 Shattershard Arrow
+20002020 Shattershard Arrow - Barrage
 20002025 Shattershard Arrow
-20002030 Shattershard Arrow
+20002030 Shattershard Arrow - Enchanted Shot
 20002035 Shattershard Arrow
-20002040 Shattershard Arrow
+20002040 Shattershard Arrow - Sky Shot
 20002045 Shattershard Arrow
 20002050 Shattershard Arrow
 20002051 Shattershard Arrow
@@ -5466,20 +5469,20 @@
 20002057 Shattershard Arrow
 20002058 Shattershard Arrow
 20002059 Shattershard Arrow
-20002070 Shattershard Arrow
+20002070 Shattershard Arrow - Through and Through
 20002075 Shattershard Arrow
 20002100 Spiritflame Arrow
 20002101 Spiritflame Arrow
 20002105 Spiritflame Arrow
 20002110 Spiritflame Arrow
-20002111 Spiritflame Arrow
+20002111 Spiritflame Arrow - Mighty Shot
 20002115 Spiritflame Arrow
 20002116 Spiritflame Arrow
-20002120 Spiritflame Arrow
+20002120 Spiritflame Arrow - Barrage
 20002125 Spiritflame Arrow
-20002130 Spiritflame Arrow
+20002130 Spiritflame Arrow - Enchanted Shot
 20002135 Spiritflame Arrow
-20002140 Spiritflame Arrow
+20002140 Spiritflame Arrow - Sky Shot
 20002145 Spiritflame Arrow
 20002150 Spiritflame Arrow
 20002151 Spiritflame Arrow
@@ -5491,20 +5494,20 @@
 20002157 Spiritflame Arrow
 20002158 Spiritflame Arrow
 20002159 Spiritflame Arrow
-20002170 Spiritflame Arrow
+20002170 Spiritflame Arrow - Through and Through
 20002175 Spiritflame Arrow
 20002300 Magicbone Arrow (Fletched)
 20002301 Magicbone Arrow (Fletched)
 20002305 Magicbone Arrow (Fletched)
 20002310 Magicbone Arrow (Fletched)
-20002311 Magicbone Arrow (Fletched)
+20002311 Magicbone Arrow (Fletched) - Mighty Shot
 20002315 Magicbone Arrow (Fletched)
 20002316 Magicbone Arrow (Fletched)
-20002320 Magicbone Arrow (Fletched)
+20002320 Magicbone Arrow (Fletched) - Barrage
 20002325 Magicbone Arrow (Fletched)
-20002330 Magicbone Arrow (Fletched)
+20002330 Magicbone Arrow (Fletched) - Enchanted Shot
 20002335 Magicbone Arrow (Fletched)
-20002340 Magicbone Arrow (Fletched)
+20002340 Magicbone Arrow (Fletched) - Sky Shot
 20002345 Magicbone Arrow (Fletched)
 20002350 Magicbone Arrow (Fletched)
 20002351 Magicbone Arrow (Fletched)
@@ -5516,20 +5519,20 @@
 20002357 Magicbone Arrow (Fletched)
 20002358 Magicbone Arrow (Fletched)
 20002359 Magicbone Arrow (Fletched)
-20002370 Magicbone Arrow (Fletched)
+20002370 Magicbone Arrow (Fletched) - Through and Through
 20002375 Magicbone Arrow (Fletched)
 20002400 Magicbone Arrow
 20002401 Magicbone Arrow
 20002405 Magicbone Arrow
 20002410 Magicbone Arrow
-20002411 Magicbone Arrow
+20002411 Magicbone Arrow - Mighty Shot
 20002415 Magicbone Arrow
 20002416 Magicbone Arrow
-20002420 Magicbone Arrow
+20002420 Magicbone Arrow - Barrage
 20002425 Magicbone Arrow
-20002430 Magicbone Arrow
+20002430 Magicbone Arrow - Enchanted Shot
 20002435 Magicbone Arrow
-20002440 Magicbone Arrow
+20002440 Magicbone Arrow - Sky Shot
 20002445 Magicbone Arrow
 20002450 Magicbone Arrow
 20002451 Magicbone Arrow
@@ -5541,20 +5544,20 @@
 20002457 Magicbone Arrow
 20002458 Magicbone Arrow
 20002459 Magicbone Arrow
-20002470 Magicbone Arrow
+20002470 Magicbone Arrow - Through and Through
 20002475 Magicbone Arrow
 20002500 Haligbone Arrow (Fletched)
 20002501 Haligbone Arrow (Fletched)
 20002505 Haligbone Arrow (Fletched)
 20002510 Haligbone Arrow (Fletched)
-20002511 Haligbone Arrow (Fletched)
+20002511 Haligbone Arrow (Fletched) - Mighty Shot
 20002515 Haligbone Arrow (Fletched)
 20002516 Haligbone Arrow (Fletched)
-20002520 Haligbone Arrow (Fletched)
+20002520 Haligbone Arrow (Fletched) - Barrage
 20002525 Haligbone Arrow (Fletched)
-20002530 Haligbone Arrow (Fletched)
+20002530 Haligbone Arrow (Fletched) - Enchanted Shot
 20002535 Haligbone Arrow (Fletched)
-20002540 Haligbone Arrow (Fletched)
+20002540 Haligbone Arrow (Fletched) - Sky Shot
 20002545 Haligbone Arrow (Fletched)
 20002550 Haligbone Arrow (Fletched)
 20002551 Haligbone Arrow (Fletched)
@@ -5566,20 +5569,20 @@
 20002557 Haligbone Arrow (Fletched)
 20002558 Haligbone Arrow (Fletched)
 20002559 Haligbone Arrow (Fletched)
-20002570 Haligbone Arrow (Fletched)
+20002570 Haligbone Arrow (Fletched) - Through and Through
 20002575 Haligbone Arrow (Fletched)
 20002600 Haligbone Arrow
 20002601 Haligbone Arrow
 20002605 Haligbone Arrow
 20002610 Haligbone Arrow
-20002611 Haligbone Arrow
+20002611 Haligbone Arrow - Mighty Shot
 20002615 Haligbone Arrow
 20002616 Haligbone Arrow
-20002620 Haligbone Arrow
+20002620 Haligbone Arrow - Barrage
 20002625 Haligbone Arrow
-20002630 Haligbone Arrow
+20002630 Haligbone Arrow - Enchanted Shot
 20002635 Haligbone Arrow
-20002640 Haligbone Arrow
+20002640 Haligbone Arrow - Sky Shot
 20002645 Haligbone Arrow
 20002650 Haligbone Arrow
 20002651 Haligbone Arrow
@@ -5591,20 +5594,20 @@
 20002657 Haligbone Arrow
 20002658 Haligbone Arrow
 20002659 Haligbone Arrow
-20002670 Haligbone Arrow
+20002670 Haligbone Arrow - Through and Through
 20002675 Haligbone Arrow
 20002700 Bloodbone Arrow (Fletched)
 20002701 Bloodbone Arrow (Fletched)
 20002705 Bloodbone Arrow (Fletched)
 20002710 Bloodbone Arrow (Fletched)
-20002711 Bloodbone Arrow (Fletched)
+20002711 Bloodbone Arrow (Fletched) - Mighty Shot
 20002715 Bloodbone Arrow (Fletched)
 20002716 Bloodbone Arrow (Fletched)
-20002720 Bloodbone Arrow (Fletched)
+20002720 Bloodbone Arrow (Fletched) - Barrage
 20002725 Bloodbone Arrow (Fletched)
-20002730 Bloodbone Arrow (Fletched)
+20002730 Bloodbone Arrow (Fletched) - Enchanted Shot
 20002735 Bloodbone Arrow (Fletched)
-20002740 Bloodbone Arrow (Fletched)
+20002740 Bloodbone Arrow (Fletched) - Sky Shot
 20002745 Bloodbone Arrow (Fletched)
 20002750 Bloodbone Arrow (Fletched)
 20002751 Bloodbone Arrow (Fletched)
@@ -5616,20 +5619,20 @@
 20002757 Bloodbone Arrow (Fletched)
 20002758 Bloodbone Arrow (Fletched)
 20002759 Bloodbone Arrow (Fletched)
-20002770 Bloodbone Arrow (Fletched)
+20002770 Bloodbone Arrow (Fletched) - Through and Through
 20002775 Bloodbone Arrow (Fletched)
 20002800 Bloodbone Arrow
 20002801 Bloodbone Arrow
 20002805 Bloodbone Arrow
 20002810 Bloodbone Arrow
-20002811 Bloodbone Arrow
+20002811 Bloodbone Arrow - Mighty Shot
 20002815 Bloodbone Arrow
 20002816 Bloodbone Arrow
-20002820 Bloodbone Arrow
+20002820 Bloodbone Arrow - Barrage
 20002825 Bloodbone Arrow
-20002830 Bloodbone Arrow
+20002830 Bloodbone Arrow - Enchanted Shot
 20002835 Bloodbone Arrow
-20002840 Bloodbone Arrow
+20002840 Bloodbone Arrow - Sky Shot
 20002845 Bloodbone Arrow
 20002850 Bloodbone Arrow
 20002851 Bloodbone Arrow
@@ -5641,20 +5644,20 @@
 20002857 Bloodbone Arrow
 20002858 Bloodbone Arrow
 20002859 Bloodbone Arrow
-20002870 Bloodbone Arrow
+20002870 Bloodbone Arrow - Through and Through
 20002875 Bloodbone Arrow
 20002900 Coldbone Arrow (Fletched)
 20002901 Coldbone Arrow (Fletched)
 20002905 Coldbone Arrow (Fletched)
 20002910 Coldbone Arrow (Fletched)
-20002911 Coldbone Arrow (Fletched)
+20002911 Coldbone Arrow (Fletched) - Mighty Shot
 20002915 Coldbone Arrow (Fletched)
 20002916 Coldbone Arrow (Fletched)
-20002920 Coldbone Arrow (Fletched)
+20002920 Coldbone Arrow (Fletched) - Barrage
 20002925 Coldbone Arrow (Fletched)
-20002930 Coldbone Arrow (Fletched)
+20002930 Coldbone Arrow (Fletched) - Enchanted Shot
 20002935 Coldbone Arrow (Fletched)
-20002940 Coldbone Arrow (Fletched)
+20002940 Coldbone Arrow (Fletched) - Sky Shot
 20002945 Coldbone Arrow (Fletched)
 20002950 Coldbone Arrow (Fletched)
 20002951 Coldbone Arrow (Fletched)
@@ -5666,20 +5669,20 @@
 20002957 Coldbone Arrow (Fletched)
 20002958 Coldbone Arrow (Fletched)
 20002959 Coldbone Arrow (Fletched)
-20002970 Coldbone Arrow (Fletched)
+20002970 Coldbone Arrow (Fletched) - Through and Through
 20002975 Coldbone Arrow (Fletched)
 20003000 Coldbone Arrow
 20003001 Coldbone Arrow
 20003005 Coldbone Arrow
 20003010 Coldbone Arrow
-20003011 Coldbone Arrow
+20003011 Coldbone Arrow - Mighty Shot
 20003015 Coldbone Arrow
 20003016 Coldbone Arrow
-20003020 Coldbone Arrow
+20003020 Coldbone Arrow - Barrage
 20003025 Coldbone Arrow
-20003030 Coldbone Arrow
+20003030 Coldbone Arrow - Enchanted Shot
 20003035 Coldbone Arrow
-20003040 Coldbone Arrow
+20003040 Coldbone Arrow - Sky Shot
 20003045 Coldbone Arrow
 20003050 Coldbone Arrow
 20003051 Coldbone Arrow
@@ -5691,20 +5694,20 @@
 20003057 Coldbone Arrow
 20003058 Coldbone Arrow
 20003059 Coldbone Arrow
-20003070 Coldbone Arrow
+20003070 Coldbone Arrow - Through and Through
 20003075 Coldbone Arrow
 20003100 Rotbone Arrow (Fletched)
 20003101 Rotbone Arrow (Fletched)
 20003105 Rotbone Arrow (Fletched)
 20003110 Rotbone Arrow (Fletched)
-20003111 Rotbone Arrow (Fletched)
+20003111 Rotbone Arrow (Fletched) - Mighty Shot
 20003115 Rotbone Arrow (Fletched)
 20003116 Rotbone Arrow (Fletched)
-20003120 Rotbone Arrow (Fletched)
+20003120 Rotbone Arrow (Fletched) - Barrage
 20003125 Rotbone Arrow (Fletched)
-20003130 Rotbone Arrow (Fletched)
+20003130 Rotbone Arrow (Fletched) - Enchanted Shot
 20003135 Rotbone Arrow (Fletched)
-20003140 Rotbone Arrow (Fletched)
+20003140 Rotbone Arrow (Fletched) - Sky Shot
 20003145 Rotbone Arrow (Fletched)
 20003150 Rotbone Arrow (Fletched)
 20003151 Rotbone Arrow (Fletched)
@@ -5716,20 +5719,20 @@
 20003157 Rotbone Arrow (Fletched)
 20003158 Rotbone Arrow (Fletched)
 20003159 Rotbone Arrow (Fletched)
-20003170 Rotbone Arrow (Fletched)
+20003170 Rotbone Arrow (Fletched) - Through and Through
 20003175 Rotbone Arrow (Fletched)
 20003200 Rotbone Arrow
 20003201 Rotbone Arrow
 20003205 Rotbone Arrow
 20003210 Rotbone Arrow
-20003211 Rotbone Arrow
+20003211 Rotbone Arrow - Mighty Shot
 20003215 Rotbone Arrow
 20003216 Rotbone Arrow
-20003220 Rotbone Arrow
+20003220 Rotbone Arrow - Barrage
 20003225 Rotbone Arrow
-20003230 Rotbone Arrow
+20003230 Rotbone Arrow - Enchanted Shot
 20003235 Rotbone Arrow
-20003240 Rotbone Arrow
+20003240 Rotbone Arrow - Sky Shot
 20003245 Rotbone Arrow
 20003250 Rotbone Arrow
 20003251 Rotbone Arrow
@@ -5741,7 +5744,7 @@
 20003257 Rotbone Arrow
 20003258 Rotbone Arrow
 20003259 Rotbone Arrow
-20003270 Rotbone Arrow
+20003270 Rotbone Arrow - Through and Through
 20003275 Rotbone Arrow
 20005000 Great Arrow
 20005050 Great Arrow
@@ -5754,7 +5757,7 @@
 20005057 Great Arrow
 20005058 Great Arrow
 20005059 Great Arrow
-20005070 Great Arrow
+20005070 Great Arrow - Through and Through
 20005075 Great Arrow
 20005080 Great Arrow
 20005081 Great Arrow
@@ -5783,7 +5786,7 @@
 20005157 Golem's Great Arrow
 20005158 Golem's Great Arrow
 20005159 Golem's Great Arrow
-20005170 Golem's Great Arrow
+20005170 Golem's Great Arrow - Through and Through
 20005175 Golem's Great Arrow
 20005180 Golem's Great Arrow
 20005181 Golem's Great Arrow
@@ -5807,7 +5810,7 @@
 20005257 Golden Great Arrow
 20005258 Golden Great Arrow
 20005259 Golden Great Arrow
-20005270 Golden Great Arrow
+20005270 Golden Great Arrow - Through and Through
 20005275 Golden Great Arrow
 20005280 Golden Great Arrow
 20005281 Golden Great Arrow
@@ -5830,7 +5833,7 @@
 20005357 Golem's Magic Arrow
 20005358 Golem's Magic Arrow
 20005359 Golem's Magic Arrow
-20005370 Golem's Magic Arrow
+20005370 Golem's Magic Arrow - Through and Through
 20005375 Golem's Magic Arrow
 20005380 Golem's Magic Arrow
 20005381 Golem's Magic Arrow
@@ -5853,7 +5856,7 @@
 20005457 Radahn's Spear
 20005458 Radahn's Spear
 20005459 Radahn's Spear
-20005470 Radahn's Spear
+20005470 Radahn's Spear - Through and Through
 20005475 Radahn's Spear
 20005480 Radahn's Spear
 20005481 Radahn's Spear
@@ -5876,7 +5879,7 @@
 20005557 Bone Great Arrow (Fletched)
 20005558 Bone Great Arrow (Fletched)
 20005559 Bone Great Arrow (Fletched)
-20005570 Bone Great Arrow (Fletched)
+20005570 Bone Great Arrow (Fletched) - Through and Through
 20005575 Bone Great Arrow (Fletched)
 20005580 Bone Great Arrow (Fletched)
 20005581 Bone Great Arrow (Fletched)
@@ -5899,7 +5902,7 @@
 20005657 Bone Great Arrow
 20005658 Bone Great Arrow
 20005659 Bone Great Arrow
-20005670 Bone Great Arrow
+20005670 Bone Great Arrow - Through and Through
 20005675 Bone Great Arrow
 20005680 Bone Great Arrow
 20005681 Bone Great Arrow
