@@ -5448,7 +5448,6 @@
 300000086 Kick (Lacking FP)
 300000102 Prayerful Strike
 300000103 Prayerful Strike (Lacking FP)
-300000105 Grafted Blade Greatsword
 300700110 [Default] Curved Sword - Bullet
 300700111 [Default] Curved Sword - Bullet
 300000120 War Cry - Roar
