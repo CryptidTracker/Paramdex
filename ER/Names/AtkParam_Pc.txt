@@ -2673,22 +2673,83 @@
 1601315 Short Spear - 2h Charged R2 #1 [1]
 1601316 Short Spear - 2h Charged R2 #1 [2]
 1601317 Short Spear - 2h Charged R2 #1 [3]
-1605100 Partisan | Spiked Spear - 1h R2 #1 [1]
-1605105 Partisan | Spiked Spear - 1h Charged R2 #1 [1]
-1605110 Partisan | Spiked Spear - 1h R2 #2 [1]
-1605115 Partisan | Spiked Spear - 1h Charged R2 #2 [1]
-1605300 Partisan | Spiked Spear - 2h R2 #1 [1]
-1605305 Partisan | Spiked Spear - 2h Charged R2 #1 [1]
-1605310 Partisan | Spiked Spear - 2h R2 #2 [1]
-1605315 Partisan | Spiked Spear - 2h Charged R2 #1 [1]
+1605100 Partisan - 1h R2 #1 [1]
+1605105 Partisan - 1h Charged R2 #1 [1]
+1605110 Partisan - 1h R2 #2 [1]
+1605115 Partisan - 1h Charged R2 #2 [1]
+1605300 Partisan - 2h R2 #1 [1]
+1605305 Partisan - 2h Charged R2 #1 [1]
+1605310 Partisan - 2h R2 #2 [1]
+1605315 Partisan - 2h Charged R2 #1 [1]
+1605320 Partisan - 2h Running R1 [1]
+1605330 Partisan - 2h Rolling R1 [1]
+1605340 Partisan - 2h Backstep R1 [1]
+1606000 Pike - 1h R1 #1 [1]
+1606010 Pike - 1h R1 #2 [1]
+1606020 Pike - 1h R1 #3 [1]
+1606030 Pike - 1h R1 #4 [1]
 1606100 Pike - 1h R2 #1 [1]
 1606105 Pike - 1h Charged R2 #1 [1]
 1606110 Pike - 1h R2 #2 [1]
 1606115 Pike - 1h Charged R2 #2 [1]
+1606120 Pike - 1h Running R1 [1]
+1606125 Pike - 1h Running R2 [1]
+1606130 Pike - 1h Rolling R1 [1]
+1606140 Pike - 1h Backstep R1 [1]
+1606150 Pike - 1h Jumping R1 [1]
+1606160 Pike - 1h Jumping R2 [1]
+1606170 Pike - Shieldpoke [1]
+1606180 Pike - 1h Guard Counter [1]
+1606200 Pike - 2h R1 #1 [1]
+1606210 Pike - 2h R1 #2 [1]
+1606220 Pike - 2h R1 #3 [1]
+1606230 Pike - 2h R1 #4 [1]
 1606300 Pike - 2h R2 #1 [1]
 1606305 Pike - 2h Charged R2 #1 [1]
 1606310 Pike - 2h R2 #2 [1]
 1606315 Pike - 2h Charged R2 #1 [1]
+1606320 Pike - 2h Running R1 [1]
+1606325 Pike - 2h Running R2 [1]
+1606330 Pike - 2h Rolling R1 [1]
+1606340 Pike - 2h Backstep R1 [1]
+1606350 Pike - 2h Jumping R1 [1]
+1606360 Pike - 2h Jumping R2 [1]
+1606380 Pike - 2h Guard Counter [1]
+1606400 Pike - Offhand R1 #1 [1]
+1606410 Pike - Offhand R1 #2 [1]
+1606420 Pike - Offhand R1 #3 [1]
+1606430 Pike - Offhand R1 #4 [1]
+1606600 Pike - Mounted R1 #1 [1]
+1606605 Pike - Mounted R1 #2 [1]
+1606610 Pike - Mounted R1 #3 [1]
+1606630 Pike - Mounted Charged R2 (Charging)
+1606632 Pike - Mounted R2 [1]
+1606635 Pike - Mounted Charged R2 [1]
+1606650 Pike
+1606660 Pike
+1606700 Pike - Mounted L1 #1 [1]
+1606705 Pike - Mounted L1 #2 [1]
+1606710 Pike - Mounted L1 #3 [1]
+1606730 Pike - Mounted Charged L2 (Charging)
+1606732 Pike - Mounted L2 [1]
+1606735 Pike - Mounted Charged L2 [1]
+1606750 Pike
+1606760 Pike
+1606800 Pike - Paired L1 #1 [1] (Right)
+1606805 Pike - Paired L1 #1 [1] (Left)
+1606810 Pike - Paired L1 #2 [1] (Right)
+1606815 Pike - Paired L1 #2 [1] (Left)
+1606820 Pike - Paired L1 #3 [1] (Right)
+1606825 Pike - Paired L1 #3 [1] (Left)
+1606860 Pike - Paired Running L1 [1] (Right)
+1606865 Pike - Paired Running L1 [1] (Left)
+1606870 Pike - Paired Rolling L1 [1] (Right)
+1606875 Pike - Paired Rolling L1 [1] (Left)
+1606880 Pike - Paired Backstep L1 [1] (Right)
+1606881 Pike - Paired Backstep L1 [2] (Right)
+1606885 Pike - Paired Backstep L1 [1] (Left)
+1606890 Pike - Paired Jumping L1 [1] (Right)
+1606895 Pike - Paired Jumping L1 [1] (Left)
 1611000 Cross-Naginata - 1h R1 #1 [1]
 1611010 Cross-Naginata - 1h R1 #2 [1]
 1611020 Cross-Naginata - 1h R1 #3 [1]
@@ -2702,6 +2763,88 @@
 1611420 Cross-Naginata - Offhand R1 #3 [1]
 1611430 Cross-Naginata - Offhand R1 #4 [1]
 1612000 ? Death Ritual Spear - 1H R1 #1
+1612100 Death Ritual Spear - 1h R2 #1 [1]
+1612105 Death Ritual Spear - 1h Charged R2 #1 [1]
+1612110 Death Ritual Spear - 1h R2 #2 [1]
+1612115 Death Ritual Spear - 1h Charged R2 #2 [1]
+1612300 Death Ritual Spear - 2h R2 #1 [1]
+1612305 Death Ritual Spear - 2h Charged R2 #1 [1]
+1612310 Death Ritual Spear - 2h R2 #2 [1]
+1612315 Death Ritual Spear - 2h Charged R2 #1 [1]
+1615000 Spear - 1h R1 #1 [1]
+1615010 Spear - 1h R1 #2 [1]
+1615020 Spear - 1h R1 #3 [1]
+1615030 Spear - 1h R1 #4 [1]
+1615100 Spear - 1h R2 #1 [1]
+1615105 Spear - 1h Charged R2 #1 [1]
+1615110 Spear - 1h R2 #2 [1]
+1615115 Spear - 1h Charged R2 #2 [1]
+1615120 Spear - 1h Running R1 [1]
+1615125 Spear - 1h Running R2 [1]
+1615130 Spear - 1h Rolling R1 [1]
+1615140 Spear - 1h Backstep R1 [1]
+1615150 Spear - 1h Jumping R1 [1]
+1615160 Spear - 1h Jumping R2 [1]
+1615170 Spear - Shieldpoke [1]
+1615180 Spear - 1h Guard Counter [1]
+1615200 Spear - 2h R1 #1 [1]
+1615210 Spear - 2h R1 #2 [1]
+1615220 Spear - 2h R1 #3 [1]
+1615230 Spear - 2h R1 #4 [1]
+1615300 Spear - 2h R2 #1 [1]
+1615305 Spear - 2h Charged R2 #1 [1]
+1615310 Spear - 2h R2 #2 [1]
+1615315 Spear - 2h Charged R2 #1 [1]
+1615320 Spear - 2h Running R1 [1]
+1615325 Spear - 2h Running R2 [1]
+1615330 Spear - 2h Rolling R1 [1]
+1615340 Spear - 2h Backstep R1 [1]
+1615350 Spear - 2h Jumping R1 [1]
+1615360 Spear - 2h Jumping R2 [1]
+1615380 Spear - 2h Guard Counter [1]
+1615400 Spear - Offhand R1 #1 [1]
+1615410 Spear - Offhand R1 #2 [1]
+1615420 Spear - Offhand R1 #3 [1]
+1615430 Spear - Offhand R1 #4 [1]
+1615600 Spear - Mounted R1 #1 [1]
+1615605 Spear - Mounted R1 #2 [1]
+1615610 Spear - Mounted R1 #3 [1]
+1615630 Spear - Mounted Charged R2 (Charging)
+1615632 Spear - Mounted R2 [1]
+1615635 Spear - Mounted Charged R2 [1]
+1615650 Spear
+1615660 Spear
+1615700 Spear - Mounted L1 #1 [1]
+1615705 Spear - Mounted L1 #2 [1]
+1615710 Spear - Mounted L1 #3 [1]
+1615730 Spear - Mounted Charged L2 (Charging)
+1615732 Spear - Mounted L2 [1]
+1615735 Spear - Mounted Charged L2 [1]
+1615750 Spear
+1615760 Spear
+1615800 Spear - Paired L1 #1 [1] (Right)
+1615805 Spear - Paired L1 #1 [1] (Left)
+1615810 Spear - Paired L1 #2 [1] (Right)
+1615815 Spear - Paired L1 #2 [1] (Left)
+1615820 Spear - Paired L1 #3 [1] (Right)
+1615825 Spear - Paired L1 #3 [1] (Left)
+1615860 Spear - Paired Running L1 [1] (Right)
+1615865 Spear - Paired Running L1 [1] (Left)
+1615870 Spear - Paired Rolling L1 [1] (Right)
+1615875 Spear - Paired Rolling L1 [1] (Left)
+1615880 Spear - Paired Backstep L1 [1] (Right)
+1615881 Spear - Paired Backstep L1 [2] (Right)
+1615885 Spear - Paired Backstep L1 [1] (Left)
+1615890 Spear - Paired Jumping L1 [1] (Right)
+1615895 Spear - Paired Jumping L1 [1] (Left)
+1617100 Spiked Spear - 1h R2 #1 [1]
+1617105 Spiked Spear - 1h Charged R2 #1 [1]
+1617110 Spiked Spear - 1h R2 #2 [1]
+1617115 Spiked Spear - 1h Charged R2 #2 [1]
+1617300 Spiked Spear - 2h R2 #1 [1]
+1617305 Spiked Spear - 2h Charged R2 #1 [1]
+1617310 Spiked Spear - 2h R2 #2 [1]
+1617315 Spiked Spear - 2h Charged R2 #1 [1]
 1700000 [Default] Great Spear - 1h R1 #1 [1]
 1700001 [Default] Great Spear
 1700010 [Default] Great Spear - 1h R1 #2 [1]
@@ -2855,6 +2998,79 @@
 1707310 Treespear - 2h R2 #2 [1]
 1707315 Treespear - 2h Charged R2 #1 [1]
 1707316 Treespear - 2h Charged R2 #1 [2]
+1708000 Lance - 1h R1 #1 [1]
+1708001 Lance
+1708010 Lance - 1h R1 #2 [1]
+1708020 Lance - 1h R1 #3 [1]
+1708100 Lance - 1h R2 #1 [1]
+1708105 Lance - 1h Charged R2 #1 [1]
+1708110 Lance - 1h R2 #2 [1]
+1708115 Lance - 1h Charged R2 #2 [1]
+1708120 Lance - 1h Running R1 [1]
+1708125 Lance - 1h Running R2 [1]
+1708126 Lance - 1h Running R2 [2]
+1708129 Lance - 1h Running R2 [5]
+1708130 Lance - 1h Rolling R1 [1]
+1708140 Lance - 1h Backstep R1 [1]
+1708150 Lance - 1h Jumping R1 [1]
+1708160 Lance - 1h Jumping R2 [1]
+1708170 Lance - Shieldpoke [1]
+1708180 Lance - 1h Guard Counter [1]
+1708200 Lance - 2h R1 #1 [1]
+1708210 Lance - 2h R1 #2 [1]
+1708220 Lance - 2h R1 #3 [1]
+1708300 Lance - 2h R2 #1 [1]
+1708305 Lance - 2h Charged R2 #1 [1]
+1708310 Lance - 2h R2 #2 [1]
+1708315 Lance - 2h Charged R2 #1 [1]
+1708320 Lance - 2h Running R1 [1]
+1708325 Lance - 2h Running R2 [1]
+1708326 Lance - 2h Running R2 [2]
+1708329 Lance - 2h Running R2 [5]
+1708330 Lance - 2h Rolling R1 [1]
+1708340 Lance - 2h Backstep R1 [1]
+1708350 Lance - 2h Jumping R1 [1]
+1708360 Lance - 2h Jumping R2 [1]
+1708380 Lance - 2h Guard Counter [1]
+1708400 Lance - Offhand R1 #1 [1]
+1708410 Lance - Offhand R1 #2 [1]
+1708420 Lance - Offhand R1 #3 [1]
+1708600 Lance - Mounted R1 #1 [1]
+1708605 Lance - Mounted R1 #2 [1]
+1708610 Lance - Mounted R1 #3 [1]
+1708630 Lance - Mounted Charged R2 (Charging)
+1708631 Lance
+1708632 Lance - Mounted R2 [1]
+1708635 Lance - Mounted Charged R2 [1]
+1708650 Lance
+1708660 Lance
+1708700 Lance - Mounted L1 #1 [1]
+1708705 Lance - Mounted L1 #2 [1]
+1708710 Lance - Mounted L1 #3 [1]
+1708730 Lance - Mounted Charged L2 (Charging)
+1708731 Lance
+1708732 Lance - Mounted L2 [1]
+1708735 Lance - Mounted Charged L2 [1]
+1708750 Lance
+1708760 Lance
+1708800 Lance - Paired L1 #1 [1] (Right)
+1708805 Lance - Paired L1 #1 [1] (Left)
+1708810 Lance - Paired L1 #2 [1] (Right)
+1708815 Lance - Paired L1 #2 [1] (Left)
+1708820 Lance - Paired L1 #3 [1] (Right)
+1708825 Lance - Paired L1 #3 [1] (Left)
+1708860 Lance - Paired Running L1 [1] (Right)
+1708861 Lance - Paired Running L1 [2] (Right)
+1708864 Lance - Paired Running L1 [5] (Right)
+1708865 Lance - Paired Running L1 [1] (Left)
+1708866 Lance - Paired Running L1 [2] (Left)
+1708869 Lance - Paired Running L1 [5] (Left)
+1708870 Lance - Paired Rolling L1 [1] (Right)
+1708875 Lance - Paired Rolling L1 [1] (Left)
+1708880 Lance - Paired Backstep L1 [1] (Right)
+1708885 Lance - Paired Backstep L1 [1] (Left)
+1708890 Lance - Paired Jumping L1 [1] (Right)
+1708895 Lance - Paired Jumping L1 [1] (Left)
 1800000 [Default] Halberd - 1h R1 #1 [1]
 1800010 [Default] Halberd - 1h R1 #2 [1]
 1800020 [Default] Halberd - 1h R1 #3 [1]
@@ -3032,14 +3248,22 @@
 1802885 Lucerne - Paired Backstep L1 [1] (Left)
 1802890 Lucerne - Paired Jumping L1 [1] (Right)
 1802895 Lucerne - Paired Jumping L1 [1] (Left)
-1813100 Nightrider Glaive | Golden Halberd - 1h R2 #1 [1]
-1813105 Nightrider Glaive | Golden Halberd - 1h Charged R2 #1 [1]
-1813110 Nightrider Glaive | Golden Halberd - 1h R2 #2 [1]
-1813115 Nightrider Glaive | Golden Halberd - 1h Charged R2 #2 [1]
-1813300 Nightrider Glaive | Golden Halberd - 2h R2 #1 [1]
-1813305 Nightrider Glaive | Golden Halberd - 2h Charged R2 #1 [1]
-1813310 Nightrider Glaive | Golden Halberd - 2h R2 #2 [1]
-1813315 Nightrider Glaive | Golden Halberd - 2h Charged R2 #1 [1]
+1813100 Golden Halberd - 1h R2 #1 [1]
+1813105 Golden Halberd - 1h Charged R2 #1 [1]
+1813110 Golden Halberd - 1h R2 #2 [1]
+1813115 Golden Halberd - 1h Charged R2 #2 [1]
+1813300 Golden Halberd - 2h R2 #1 [1]
+1813305 Golden Halberd - 2h Charged R2 #1 [1]
+1813310 Golden Halberd - 2h R2 #2 [1]
+1813315 Golden Halberd - 2h Charged R2 #1 [1]
+1814100 Nightrider Glaive - 1h R2 #1 [1]
+1814105 Nightrider Glaive - 1h Charged R2 #1 [1]
+1814110 Nightrider Glaive - 1h R2 #2 [1]
+1814115 Nightrider Glaive - 1h Charged R2 #2 [1]
+1814300 Nightrider Glaive - 2h R2 #1 [1]
+1814305 Nightrider Glaive - 2h Charged R2 #1 [1]
+1814310 Nightrider Glaive - 2h R2 #2 [1]
+1814315 Nightrider Glaive - 2h Charged R2 #1 [1]
 1900000 [Default] Reaper - 1h R1 #1 [1]
 1900010 [Default] Reaper - 1h R1 #2 [1]
 1900020 [Default] Reaper - 1h R1 #3 [1]
@@ -3770,6 +3994,12 @@
 2311380 Watchdog's Staff - 2h Guard Counter [1]
 2311890 Watchdog's Staff - Paired Jumping L1 [1] (Right)
 2311895 Watchdog's Staff - Paired Jumping L1 [1] (Left)
+2312105 Duelist Greataxe | Rotten Greataxe - 1h Charged R2 #1 [1]
+2312115 Duelist Greataxe | Rotten Greataxe - 1h Charged R2 #2 [1]
+2312305 Duelist Greataxe | Rotten Greataxe - 2h Charged R2 #1 [1]
+2312315 Duelist Greataxe | Rotten Greataxe - 2h Charged R2 #1 [1]
+2312635 Duelist Greataxe | Rotten Greataxe - Mounted Charged R2 [1]
+2312735 Duelist Greataxe | Rotten Greataxe - Mounted Charged L2 [1]
 2400000 [Default] Torch - 1h R1 #1 [1]
 2400010 [Default] Torch - 1h R1 #2 [1]
 2400020 [Default] Torch - 1h R1 #3 [1]
@@ -5097,12 +5327,12 @@
 300000462 Storm Assault - Bullet (Land)
 300000463 Storm Assault ?
 300000465 Storm Assault - Weapon (Lacking FP)
-300000470 [Dagger/SS/Katana/Axe] Sword Dance #1 [1]
-300000471 [Dagger/SS/Katana/Axe] Sword Dance #1 [2]
-300000472 [Dagger/SS/Katana/Axe] Sword Dance #2
-300000475 [Dagger/SS/Katana/Axe] Sword Dance #1 [1] (Lacking FP)
-300000476 [Dagger/SS/Katana/Axe] Sword Dance #1 [2] (Lacking FP)
-300000477 [Dagger/SS/Katana/Axe] Sword Dance #2 (Lacking FP)
+300000470 [Dagger/SS/CS/Katana/Axe] Sword Dance #1 [1]
+300000471 [Dagger/SS/CS/Katana/Axe] Sword Dance #1 [2]
+300000472 [Dagger/SS/CS/Katana/Axe] Sword Dance #2
+300000475 [Dagger/SS/CS/Katana/Axe] Sword Dance #1 [1] (Lacking FP)
+300000476 [Dagger/SS/CS/Katana/Axe] Sword Dance #1 [2] (Lacking FP)
+300000477 [Dagger/SS/CS/Katana/Axe] Sword Dance #2 (Lacking FP)
 300000480 [GS/CGS/GA] Sword Dance #1 [1]
 300000481 [GS/CGS/GA] Sword Dance #1 [2]
 300000482 [GS/CGS/GA] Sword Dance #2
@@ -5390,6 +5620,8 @@
 300310901 Wave of Gold (Lacking FP)
 300310905 Wave of Gold - Bullet
 300310906 Wave of Gold - Bullet
+300310907 Wave of Gold - Bullet
+300310908 Wave of Gold - Bullet
 300314902 Taker's Flames - Bullet
 300314905 Taker's Flames (Lacking FP)
 300314906 Taker's Flames - Weapon
@@ -5918,6 +6150,8 @@
 303401007 Golden Tempering Charged R2 - Final (Right)
 303401008 Golden Tempering Charged R2 - Final (Left)
 303401100 Shriek of Milos - Bullet (Shriek)
+303401101 Shriek of Milos
+303401102 Shriek of Milos
 303401200 Thundercloud Form [2]
 303401201 Thundercloud Form [1] - Uncharged/Partial Loop 1-3x
 303401202 Thundercloud Form (Lacking FP)
