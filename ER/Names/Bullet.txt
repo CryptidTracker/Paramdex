@@ -4928,9 +4928,9 @@
 10753021 Black Blade [Emitted]
 10753030 Black Blade
 10753031 Black Blade [Emitted]
-10790000 Golden Lightning Fortification
+10790000 Fire's Deadly Sin
 10790001 Fire's Deadly Sin
-10790050 Arrow
+10790050 Fire's Deadly Sin
 10790051 Fire's Deadly Sin
 10790099 Fire's Deadly Sin
 10790300 Golden Lightning Fortification

@@ -98,7 +98,7 @@
 44205 Freezing Mist - Charged
 44300 Carian Greatsword
 44301 Carian Greatsword
-44305 Carian Greatsword - Running
+44305 Carian Greatsword
 44306 Carian Greatsword - Rolling
 44307 Carian Greatsword - Mounted
 44308 Carian Greatsword - Mounted
@@ -271,6 +271,7 @@
 67300 Law of Regression
 67301 Law of Regression
 67500 Litany of Proper Death
+67600 Law of Causality
 67601 Law of Causality
 67800 Order Healing
 68000 Bestial Sling
@@ -338,6 +339,7 @@
 72401 Scarlet Aeonia
 72402 Scarlet Aeonia
 73000 Inescapable Frenzy
+73001 Inescapable Frenzy - Confirmed Grab
 73002 Inescapable Frenzy
 73010 Inescapable Frenzy - Self-Madness
 73100 The Flame of Frenzy
@@ -367,6 +369,11 @@
 75305 Black Blade (Bullet)
 75306 Black Blade
 75307 Black Blade (Bullet)
+79000 Fire's Deadly Sin (Lingering Ticks)
+79001 Fire's Deadly Sin (AoE on Cast)
+79005 Fire's Deadly Sin - Charged (Lingering Ticks)
+79006 Fire's Deadly Sin - Charged (AoE on Cast)
+79009 Fire's Deadly Sin
 79030 Golden Lightning Fortification
 79031 Golden Lightning Fortification (AoE)
 79982 Eternal Darkness
@@ -1714,7 +1721,7 @@
 1000240 [Default] Twinblade - 2h R1 #5 [1]
 1000241 [Default] Twinblade - 2h R1 #5 [2]
 1000242 [Default] Twinblade - 2h R1 #5 [3]
-1000300 [Default] Twinblade - 2h R2 #1 [1]
+1000300 [Default] Twinblade
 1000301 [Default] Twinblade - 2h R2 #1 [2]
 1000302 [Default] Twinblade - 2h R2 #1 [3]
 1000305 [Default] Twinblade - 2h Charged R2 #1 [1]
@@ -1797,7 +1804,7 @@
 1001115 Godskin Peeler - 1h Charged R2 #2 [1]
 1001125 Godskin Peeler - 1h Running R2 [1]
 1001126 Godskin Peeler - 1h Running R2 [2]
-1001300 Godskin Peeler - 2h R2 #1 [1]
+1001300 Godskin Peeler
 1001301 Godskin Peeler - 2h R2 #1 [2]
 1001305 Godskin Peeler - 2h Charged R2 #1 [1]
 1001306 Godskin Peeler - 2h Charged R2 #1 [2]
@@ -5439,13 +5446,13 @@
 300000660 Stormcaller #3 [2] - Weapon (Lacking FP)
 300000670 Shield Bash
 300000671 Shield Bash (Lacking FP)
-300000680 Carian Retaliation - Bullet (Parry?)
-300000681 Carian Retaliation - Bullet (Parry?)
+300000680 Carian Retaliation - Bullet (Parry)
+300000681 Carian Retaliation - Bullet ?
 300000682 Carian Retaliation - Bullet (Swords)
 300000683 Carian Retaliation - Bullet AoE (Swords)
 300000685 Carian Retaliation - Bullet ?
-300000690 Carian Retalitaion - Parry? (Lacking FP)
-300000695 Carian Retaliation - Bullet ?
+300000690 Golden Parry
+300000695 Golden Parry - Bullet (Parry)
 300000700 Square Off R1
 300000701 Square Off R1 (Lacking FP)
 300000705 Square Off R2
@@ -5478,6 +5485,7 @@
 300000815 Waves of Darkness - Weapon [1] (Lacking FP)
 300000816 Waves of Darkness - Weapon [2] (Lacking FP)
 300000818 Waves of Darkness R2 (Lacking FP)
+300000820 Shared Order
 300000830 Prelate's Charge - Initial Attack
 30000831 Prelate's Charge - Bullet (Explosion)
 300000832 Prelate's Charge - Charge Tick [1]
@@ -5514,6 +5522,16 @@
 300000892 Stamp (Sweep) [2]
 300000895 Stamp (Sweep) [1] (Lacking FP)
 300000896 Stamp (Sweep) [2] (Lacking FP)
+300000900 Spinning Chain - R1 [1]
+300000901 Spinning Chain - R1 [2]
+300000902 Spinning Chain - R2 [1]
+300000903 Spinning Chain - R2 [2]
+300000904 Spinning Chain - Loop
+300000905 Spinning Chain - R1 [1] (Lacking FP)
+300000906 Spinning Chain - R1 [2] (Lacking FP)
+300000907 Spinning Chain - R2 [1] (Lacking FP)
+300000908 Spinning Chain - R2 [2] (Lacking FP)
+300000909 Spinning Chain - Loop (Lacking FP)
 300000910 Spinning Strikes - Loop
 300000911 Spinning Strikes R1 [1]
 300000912 Spinning Strikes R1 [2]
@@ -5708,12 +5726,12 @@
 300804905 Bloodhound's Finesse (Lacking FP)
 300804906 Bloodhound's Finesse R2 (Lacking FP)
 300810900 Cursed-Blood Slice ?
-300810905 Cursed-Blood Slice #1 - Weapon (Lacking FP)
-300810906 Cursed-Blood Slice #2 - Weapon (Lacking FP)
+300810905 Cursed-Blood Slice #1 - Weapon
+300810906 Cursed-Blood Slice #2 - Weapon
 300810907 Cursed-Blood Slice - Bullet ?
 300810908 Cursed-Blood Slice - Bullet
-300810910 Cursed-Blood Slice #1 - Weapon
-300810911 Cursed-Blood Slice #2 - Weapon
+300810910 Cursed-Blood Slice #1 - Weapon (Lacking FP)
+300810911 Cursed-Blood Slice #2 - Weapon (Lacking FP)
 300900100 Ice Lightning Sword - Sword
 30090011 Ice Lightning Sword - Bullet
 30090012 Ice Lightning Sword - Bullet (Water AoE)
@@ -5993,34 +6011,34 @@
 302006912 Flame Dance [3] (Lacking FP)
 302006913 Flame Dance [4] (Lacking FP)
 302006914 Flame Dance [5] (Lacking FP)
-302106900 Bear Witness! - Bullet
-302106901 Bear Witness! - Bullet
-302106902 Bear Witness! - Bullet
-302106903 Bear Witness! - Bullet
-302106904 Bear Witness! - Bullet
-302106905 Bear Witness! - Bullet
-302106906 Bear Witness! - Bullet
+302106900 Bear Witness! [1] - Bullet
+302106901 Bear Witness! [2] - Bullet
+302106902 Bear Witness! [3] - Bullet (Explosion)
+302106903 Bear Witness! [4] - Bullet (Projectile)
+302106904 Bear Witness! [4] - Bullet (Projectile)
+302106905 Bear Witness! [4] - Bullet (Projectile)
+302106906 Bear Witness! [4] - Bullet (Lingering Fire)
 302106910 Bear Witness! (Lacking FP)
-302112900 Storm Kick
-302112901 Storm Kick
-302112902 Storm Kick
-302112903 Storm Kick
-302112904 Storm Kick
-302112905 Storm Kick
-302112906 Storm Kick
-302112907 Storm Kick
-302112908 Storm Kick
-302112909 Storm Kick
-302112910 Storm Kick
-302112911 Storm Kick
-302112912 Storm Kick
-302112913 Storm Kick
-302112914 Storm Kick
-302112915 Storm Kick
-302112916 Storm Kick
-302112917 Storm Kick
-302112918 Storm Kick
-302112919 Storm Kick
+302112900 Storm Kick [1]
+302112901 Storm Kick [2]
+302112902 Storm Kick R2 [1]
+302112903 Storm Kick R2 [2]
+302112904 Storm Kick R2 [3]
+302112905 Storm Kick [1] (Lacking FP)
+302112906 Storm Kick [2] (Lacking FP)
+302112907 Storm Kick R2 [1] (Lacking FP)
+302112908 Storm Kick R2 [2] (Lacking FP)
+302112909 Storm Kick R2 [3] (Lacking FP)
+302112910 Storm Kick (Left) [1]
+302112911 Storm Kick (Left) [2]
+302112912 Storm Kick R2 (Left) [1]
+302112913 Storm Kick R2 (Left) [2]
+302112914 Storm Kick R2 (Left) [3]
+302112915 Storm Kick (Left) [1] (Lacking FP)
+302112916 Storm Kick (Left) [2] (Lacking FP)
+302112917 Storm Kick R2 (Left) [1]  (Lacking FP)
+302112918 Storm Kick R2 (Left) [2] (Lacking FP)
+302112919 Storm Kick R2 (Left) [3] (Lacking FP)
 302113900 Unblockable Blade
 302113905 Unblockable Blade (Lacking FP)
 302301901 Sorcery of the Crozier - Bullet

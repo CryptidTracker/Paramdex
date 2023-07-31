@@ -15,6 +15,9 @@
 2105 Poison/Scarlet Rot - Bullet
 2201 Ruptured Crystal Tear - Bullet
 2202 Ruptured Crystal Tear - Bullet
+3000 Fire's Deadly Sin
+3005 Fire's Deadly Sin
+3020 Law of Causality
 5010 Gravity Stone Fan
 5011 Gravity Stone Fan
 5012 Gravity Stone Fan
@@ -1432,7 +1435,7 @@
 101000240 [Default] Twinblade - 2h R1 #5 [1]
 101000241 [Default] Twinblade - 2h R1 #5 [2]
 101000242 [Default] Twinblade - 2h R1 #5 [3]
-101000300 [Default] Twinblade - 2h R2 #1 [1]
+101000300 [Default] Twinblade
 101000301 [Default] Twinblade - 2h R2 #1 [2]
 101000302 [Default] Twinblade - 2h R2 #1 [3]
 101000305 [Default] Twinblade - 2h Charged R2 #1 [1]
@@ -1515,7 +1518,7 @@
 101001115 Godskin Peeler - 1h Charged R2 #2 [1]
 101001125 Godskin Peeler - 1h Running R2 [1]
 101001126 Godskin Peeler - 1h Running R2 [2]
-101001300 Godskin Peeler - 2h R2 #1 [1]
+101001300 Godskin Peeler
 101001301 Godskin Peeler - 2h R2 #1 [2]
 101001305 Godskin Peeler - 2h Charged R2 #1 [1]
 101001306 Godskin Peeler - 2h Charged R2 #1 [2]
@@ -5696,6 +5699,7 @@
 300000086 Kick (Lacking FP)
 300000102 Prayerful Strike
 300000103 Prayerful Strike (Lacking FP)
+300000105 Endure
 300700110 [Default] Curved Sword - Bullet
 300700111 [Default] Curved Sword - Bullet
 300000120 War Cry - Roar
@@ -6045,7 +6049,8 @@
 300000680 Carian Retaliation - Bullet
 300000681 Carian Retaliation - Bullet
 300000685 Carian Retaliation - Bullet
-300000690 Carian Retalitaion - Parry? (Lacking FP)
+300000690 Carian Retalitaion | Golden Parry - Parry
+300000695 Golden Parry - Bullet
 300000700 Square Off R1
 300000701 Square Off R1 (Lacking FP)
 300000705 Square Off R2
@@ -6096,6 +6101,7 @@
 300000815 Waves of Darkness - Weapon [1] (Lacking FP)
 300000816 Waves of Darkness - Weapon [2] (Lacking FP)
 300000818 Waves of Darkness R2 (Lacking FP)
+300000820 Shared Order | Golden Vow
 300000830 Prelate's Charge - Initial Attack
 300000831 Prelate's Charge - Final - Bullet
 300000832 Prelate's Charge - Charge Tick [1]
@@ -6375,12 +6381,12 @@
 300804905 Bloodhound's Fang - Bloodhound's Finesse (Lacking FP)
 300804906 Bloodhound's Fang - Bloodhound's Finesse R2 (Lacking FP)
 300810900 Morgott's Cursed Sword - Cursed-Blood Slice ?
-300810905 Morgott's Cursed Sword - Cursed-Blood Slice #1 - Weapon (Lacking FP)
-300810906 Morgott's Cursed Sword - Cursed-Blood Slice #2 - Weapon (Lacking FP)
+300810905 Morgott's Cursed Sword - Cursed-Blood Slice #1 - Weapon
+300810906 Morgott's Cursed Sword - Cursed-Blood Slice #2 - Weapon
 300810907 Morgott's Cursed Sword - Cursed-Blood Slice #1 - Bullet
 300810908 Morgott's Cursed Sword - Cursed-Blood Slice #1 - Bullet
-300810910 Morgott's Cursed Sword - Cursed-Blood Slice #1 - Weapon
-300810911 Morgott's Cursed Sword - Cursed-Blood Slice #2 - Weapon
+300810910 Morgott's Cursed Sword - Cursed-Blood Slice #1 - Weapon (Lacking FP)
+300810911 Morgott's Cursed Sword - Cursed-Blood Slice #2 - Weapon (Lacking FP)
 300910900 Dragonscale Blade - Ice Lightning Sword - Sword
 300910901 Dragonscale Blade - Ice Lightning Sword - Bullet
 300910902 Dragonscale Blade - Ice Lightning Sword - Sword (Lacking FP)
@@ -6643,42 +6649,42 @@
 302006912 Giant's Red Braid - Flame Dance [3] (Lacking FP)
 302006913 Giant's Red Braid - Flame Dance [4] (Lacking FP)
 302006914 Giant's Red Braid - Flame Dance [5] (Lacking FP)
-302106900 Grafted Dragon - Bear Witness! - Bullet
-302106901 Grafted Dragon - Bear Witness! - Bullet
-302106902 Grafted Dragon - Bear Witness! - Bullet
-302106903 Grafted Dragon - Bear Witness! - Bullet
-302106904 Grafted Dragon - Bear Witness! - Bullet
-302106905 Grafted Dragon - Bear Witness! - Bullet
-302106906 Grafted Dragon - Bear Witness! - Bullet
+302106900 Grafted Dragon - Bear Witness! [1] - Bullet
+302106901 Grafted Dragon - Bear Witness! [2] - Bullet
+302106902 Grafted Dragon - Bear Witness! [3] - Bullet (Explosion)
+302106903 Grafted Dragon - Bear Witness! [4] - Bullet (Projectile)
+302106904 Grafted Dragon - Bear Witness! [4] - Bullet (Projectile)
+302106905 Grafted Dragon - Bear Witness! [4] - Bullet (Projectile)
+302106906 Grafted Dragon - Bear Witness! [4] - Bullet (Lingering Fire)
 302106910 Grafted Dragon - Bear Witness! (Lacking FP)
-302106920 Grafted Dragon - Bear Witness! - Bullet
-302106921 Grafted Dragon - Bear Witness! - Bullet
-302106922 Grafted Dragon - Bear Witness! - Bullet
-302106923 Grafted Dragon - Bear Witness! - Bullet
-302106924 Grafted Dragon - Bear Witness! - Bullet
-302106925 Grafted Dragon - Bear Witness! - Bullet
-302106926 Grafted Dragon - Bear Witness! - Bullet
-302106930 Grafted Dragon - Bear Witness! (Lacking FP)
-302112900 Veteran's Prosthesis - Storm Kick
-302112901 Veteran's Prosthesis - Storm Kick
-302112902 Veteran's Prosthesis - Storm Kick
-302112903 Veteran's Prosthesis - Storm Kick
-302112904 Veteran's Prosthesis - Storm Kick
-302112905 Veteran's Prosthesis - Storm Kick
-302112906 Veteran's Prosthesis - Storm Kick
-302112907 Veteran's Prosthesis - Storm Kick
-302112908 Veteran's Prosthesis - Storm Kick
-302112909 Veteran's Prosthesis - Storm Kick
-302112910 Veteran's Prosthesis - Storm Kick
-302112911 Veteran's Prosthesis - Storm Kick
-302112912 Veteran's Prosthesis - Storm Kick
-302112913 Veteran's Prosthesis - Storm Kick
-302112914 Veteran's Prosthesis - Storm Kick
-302112915 Veteran's Prosthesis - Storm Kick
-302112916 Veteran's Prosthesis - Storm Kick
-302112917 Veteran's Prosthesis - Storm Kick
-302112918 Veteran's Prosthesis - Storm Kick
-302112919 Veteran's Prosthesis - Storm Kick
+302106920 Grafted Dragon - Bear Witness! (Left) [1] - Bullet
+302106921 Grafted Dragon - Bear Witness! (Left) [2] - Bullet
+302106922 Grafted Dragon - Bear Witness! (Left) [3] - Bullet (Explosion)
+302106923 Grafted Dragon - Bear Witness! (Left) [4] - Bullet (Projectile)
+302106924 Grafted Dragon - Bear Witness! (Left) [4] - Bullet (Projectile)
+302106925 Grafted Dragon - Bear Witness! (Left) [4] - Bullet (Projectile)
+302106926 Grafted Dragon - Bear Witness! (Left) [4] - Bullet (Lingering Fire)
+302106930 Grafted Dragon - Bear Witness! (Left) (Lacking FP)
+302112900 Veteran's Prosthesis - Storm Kick [1]
+302112901 Veteran's Prosthesis - Storm Kick [2]
+302112902 Veteran's Prosthesis - Storm Kick R2 [1]
+302112903 Veteran's Prosthesis - Storm Kick R2 [2]
+302112904 Veteran's Prosthesis - Storm Kick R2 [3]
+302112905 Veteran's Prosthesis - Storm Kick [1] (Lacking FP)
+302112906 Veteran's Prosthesis - Storm Kick [2] (Lacking FP)
+302112907 Veteran's Prosthesis - Storm Kick R2 [1] (Lacking FP)
+302112908 Veteran's Prosthesis - Storm Kick R2 [2] (Lacking FP)
+302112909 Veteran's Prosthesis - Storm Kick R2 [3] (Lacking FP)
+302112910 Veteran's Prosthesis - Storm Kick (Left) [1]
+302112911 Veteran's Prosthesis - Storm Kick (Left) [2]
+302112912 Veteran's Prosthesis - Storm Kick R2 (Left) [1]
+302112913 Veteran's Prosthesis - Storm Kick R2 (Left) [2]
+302112914 Veteran's Prosthesis - Storm Kick R2 (Left) [3]
+302112915 Veteran's Prosthesis - Storm Kick (Left) [1] (Lacking FP)
+302112916 Veteran's Prosthesis - Storm Kick (Left) [2] (Lacking FP)
+302112917 Veteran's Prosthesis - Storm Kick R2 (Left) [1]  (Lacking FP)
+302112918 Veteran's Prosthesis - Storm Kick R2 (Left) [2] (Lacking FP)
+302112919 Veteran's Prosthesis - Storm Kick R2 (Left) [3] (Lacking FP)
 302113900 Cipher Pata - Unblockable Blade
 302113905 Cipher Pata - Unblockable Blade (Lacking FP)
 302301900 Watchdog's Staff - Sorcery of the Crozier - Bullet
