@@ -97,28 +97,28 @@
 44200 Freezing Mist
 44205 Freezing Mist - Charged
 44300 Carian Greatsword
-44301 Carian Greatsword
-44305 Carian Greatsword
-44306 Carian Greatsword - Rolling
-44307 Carian Greatsword - Mounted
-44308 Carian Greatsword - Mounted
+44301 Carian Greatsword - 2nd in Chain
+44305 Carian Greatsword (Offhand) - 2nd in Chain
+44306 Carian Greatsword (Offhand)
+44307 Carian Greatsword (Mounted)
+44308 Carian Greatsword (Mounted) - 2nd in Chain
 44310 Adula's Moonblade
-44311 Adula's Moonblade
-44315 Adula's Moonblade
-44316 Adula's Moonblade
-44317 Adula's Moonblade - Mounted
-44318 Adula's Moonblade - Mounted
+44311 Adula's Moonblade - 2nd in Chain
+44315 Adula's Moonblade (Offhand) - 2nd in Chain
+44316 Adula's Moonblade (Offhand)
+44317 Adula's Moonblade (Mounted)
+44318 Adula's Moonblade (Mounted) - 2nd in Chain
 44319 Adula's Moonblade (Projectile)
-44400 Carian Slicer
+44400 Carian Slicer - 2nd in Neutral Chain
 44401 Carian Slicer
-44405 Carian Slicer - Running
-44406 Carian Slicer - Rolling
-44407 Carian Slicer - Mounted
-44408 Carian Slicer - Mounted
+44405 Carian Slicer (Offhand)
+44406 Carian Slicer (Offhand) - 2nd in Neutral Chain
+44407 Carian Slicer (Mounted)
+44408 Carian Slicer (Mounted) - 2nd in Chain
 44500 Carian Piercer
-44501 Carian Piercer
+44501 Carian Piercer (Offhand)
 44505 Carian Piercer - Charged
-44506 Carian Piercer - Charged
+44506 Carian Piercer (Offhand) - Charged
 44800 Lucidity
 45000 Shattering Crystal
 45001 Shattering Crystal
@@ -297,15 +297,15 @@
 69400 Ancient Dragons' Lightning Spear
 69401 Ancient Dragons' Lightning Spear
 69402 Ancient Dragons' Lightning Spear
-69410 Fortissax's Lightning Spear 1
-69411 Fortissax's Lightning Spear 1
-69412 Fortissax's Lightning Spear 1
-69415 Fortissax's Lightning Spear 2
-69416 Fortissax's Lightning Spear 2
-69417 Fortissax's Lightning Spear 2
+69410 Fortissax's Lightning Spear [1] - Direct
+69411 Fortissax's Lightning Spear [1] - Outer
+69412 Fortissax's Lightning Spear [1] - Inner
+69415 Fortissax's Lightning Spear [2] - Direct
+69416 Fortissax's Lightning Spear [2] - Outer
+69417 Fortissax's Lightning Spear [2] - Inner
 69500 Lansseax's Glaive
-69501 Lansseax's Glaive
-69502 Lansseax's Glaive (Bullet)
+69501 Lansseax's Glaive (Offhand)
+69502 Lansseax's Glaive - Bullet
 70000 Dragonfire
 70010 Agheel's Flame
 70100 Magma Breath
@@ -320,15 +320,15 @@
 70310 Ekzykes's Decay
 70400 Glintstone Breath
 70410 Smarag's Glintstone Breath
-70500 Placidusax's Ruin
-70501 Placidusax's Ruin
-70502 Placidusax's Ruin (Startup AoE)
-70600 Dragonclaw
-70601 Dragonclaw
-70602 Dragonclaw
-70603 Dragonclaw
-70605 Dragonclaw
-70606 Dragonclaw
+70500 Placidusax's Ruin - Laser [1]
+70501 Placidusax's Ruin - Laser [2]
+70502 Placidusax's Ruin - Startup AoE
+70600 Dragonclaw #1 - Direct
+70601 Dragonclaw #2 - Direct
+70602 Dragonclaw #1 - DIrect (Offhand)
+70603 Dragonclaw #2 - Direct (Offhand)
+70605 Dragonclaw #1 - Indirect
+70606 Dragonclaw #2 - Indirect
 70800 Dragonmaw
 70900 Greyoll's Roar
 72000 Pest Threads
@@ -354,12 +354,12 @@
 73205 Frenzied Burst - Charged
 73300 Howl of Shabriri
 73301 Howl of Shabriri - Self-Madness
-75000 Aspects of the Crucible: Tail
-75005 Aspects of the Crucible: Tail
+75000 Aspects of the Crucible: Tail - Charged 1st Hit/Uncharged
+75005 Aspects of the Crucible: Tail - Charged 2nd Hit
 75100 Aspects of the Crucible: Horns
-75101 Aspects of the Crucible: Horns
+75101 Aspects of the Crucible: Horns (Offhand)
 75105 Aspects of the Crucible: Horns - Charged
-75106 Aspects of the Crucible: Horns - Charged
+75106 Aspects of the Crucible: Horns (Offhand) - Charged
 75200 Aspects of the Crucible: Breath
 75300 Black Blade
 75301 Black Blade (Bullet)

@@ -283,7 +283,7 @@
 4100 Shatter Earth
 4110 Rock Blaster
 4120 Gavel of Haima
-4130 Terra Magicus
+4130 Terra Magica
 4140 Starlight
 4200 Comet Azur
 4210 Founding Rain of Stars
@@ -1447,7 +1447,7 @@
 244009 Land Squirt Ashes +9
 244010 Land Squirt Ashes +10
 245000 Miranda Sprout Ashes
-245001 Miranda Sprout Ashes +1 
+245001 Miranda Sprout Ashes +1
 245002 Miranda Sprout Ashes +2
 245003 Miranda Sprout Ashes +3
 245004 Miranda Sprout Ashes +4
