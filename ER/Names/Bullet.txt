@@ -290,12 +290,12 @@
 2747 Vyke's War Spear - Frenzyflame Thrust
 2748 Vyke's War Spear - Frenzyflame Thrust [Emitted]
 2749 Vyke's War Spear - Frenzyflame Thrust [Hit]
-2760 Halo Scythe - Sacred Ring of Light [1]
-2761 Halo Scythe - Sacred Ring of Light [1] [Hit]
-2762 Halo Scythe - Sacred Ring of Light [2]
-2763 Halo Scythe - Sacred Ring of Light [2] [Hit]
-2764 Halo Scythe - Sacred Ring of Light [3]
-2765 Halo Scythe - Sacred Ring of Light [3] [Hit]
+2760 Halo Scythe - Miquella's Ring of Light [1]
+2761 Halo Scythe - Miquella's Ring of Light [1] [Hit]
+2762 Halo Scythe - Miquella's Ring of Light [2]
+2763 Halo Scythe - Miquella's Ring of Light [2] [Hit]
+2764 Halo Scythe - Miquella's Ring of Light [3]
+2765 Halo Scythe - Miquella's Ring of Light [3] [Hit]
 2770 Wing of Astel - Nebula
 2771 Wing of Astel - Nebula [Hit]
 2772 Wing of Astel - Nebula [Hit]

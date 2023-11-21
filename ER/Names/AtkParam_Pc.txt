@@ -5972,18 +5972,18 @@
 301810906 Loretta's Slash [2]
 301810910 Loretta's Slash [1] (Lacking FP)
 301810911 Loretta's Slash [2] (Lacking FP)
-301902900 Sacred Ring of Light #1 - Weapon
-301902901 Sacred Ring of Light #1 - Bullet
-301902902 Sacred Ring of Light #1 - Bullet AoE
-301902905 Sacred Ring of Light #1 - Weapon (Lacking FP)
-301902910 Sacred Ring of Light #2 - Weapon
-301902911 Sacred Ring of Light #2 - Bullet
-301902912 Sacred Ring of Light #2 - Bullet AoE
-301902915 Sacred Ring of Light #2 - Weapon (Lacking FP)
-301902920 Sacred Ring of Light #3 - Weapon
-301902921 Sacred Ring of Light #3 - Bullet
-301902922 Sacred Ring of Light #3 - Bullet AoE
-301902925 Sacred Ring of Light #3 - Weapon (Lacking FP)
+301902900 Miquella's Ring of Light #1 - Weapon
+301902901 Miquella's Ring of Light #1 - Bullet
+301902902 Miquella's Ring of Light #1 - Bullet AoE
+301902905 Miquella's Ring of Light #1 - Weapon (Lacking FP)
+301902910 Miquella's Ring of Light #2 - Weapon
+301902911 Miquella's Ring of Light #2 - Bullet
+301902912 Miquella's Ring of Light #2 - Bullet AoE
+301902915 Miquella's Ring of Light #2 - Weapon (Lacking FP)
+301902920 Miquella's Ring of Light #3 - Weapon
+301902921 Miquella's Ring of Light #3 - Bullet
+301902922 Miquella's Ring of Light #3 - Bullet AoE
+301902925 Miquella's Ring of Light #3 - Weapon (Lacking FP)
 301906900 Angel's Wings [1]
 301906901 Angel's Wings [2]
 301906902 Angel's Wings ?
