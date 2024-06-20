@@ -13,6 +13,7 @@
 1512 Flask of Crimson Tears +12
 2100 Hemorrhage - Bullet
 2105 Poison/Scarlet Rot - Bullet
+2120 Prayerful Strike (HP Restore) - Bullet
 2201 Ruptured Crystal Tear - Bullet
 2202 Ruptured Crystal Tear - Bullet
 3000 Fire's Deadly Sin
@@ -6391,7 +6392,7 @@
 300910901 Dragonscale Blade - Ice Lightning Sword - Bullet
 300910902 Dragonscale Blade - Ice Lightning Sword - Sword (Lacking FP)
 300910903 Dragonscale Blade - Ice Lightning Sword - Stomp Lightning
-300902900 Hand of Malenia - Waterfowl Dance #3 [4] (Lacking FP)
+300902900 Hand of Malenia - Waterfowl Dance
 300902901 Hand of Malenia - Waterfowl Dance #1 [1]
 300902902 Hand of Malenia - Waterfowl Dance #1 [2]
 300902903 Hand of Malenia - Waterfowl Dance #1 [3]

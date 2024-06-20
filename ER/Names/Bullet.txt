@@ -89,6 +89,8 @@
 2136 Morgott's Cursed Sword - Cursed-Blood Slice #1 [Hit]
 2145 Eclipse Shotel - Death Flare
 2146 Eclipse Shotel - Death Flare [Hit]
+2150 Prayerful Strike (HP Restore) - Bullet
+2151 Prayerful Strike (HP Restore) - Bullet [Hit]
 2190 Gravitas - Inner
 2191 Gravitas - Middle
 2192 Gravitas - Outer
@@ -159,15 +161,15 @@
 2329 Death Ritual Spear - Spearcall Ritual [Hit]
 2330 Death Ritual Spear - Spearcall Ritual [Hit]
 2331 Death Ritual Spear - Spearcall Ritual [Hit]
-2335 Mohgwyn's Sacred Spear - Bloodboon Ritual
-2336 Mohgwyn's Sacred Spear - Bloodboon Ritual [Hit]
-2337 Mohgwyn's Sacred Spear - Bloodboon Ritual
-2338 Mohgwyn's Sacred Spear - Bloodboon Ritual [Hit]
-2339 Mohgwyn's Sacred Spear - Bloodboon Ritual
-2340 Mohgwyn's Sacred Spear - Bloodboon Ritual [Hit]
-2341 Mohgwyn's Sacred Spear - Bloodboon Ritual
-2342 Mohgwyn's Sacred Spear - Bloodboon Ritual
-2343 Mohgwyn's Sacred Spear - Bloodboon Ritual
+2335 Mohgwyn's Sacred Spear - Bloodboon Ritual #1
+2336 Mohgwyn's Sacred Spear - Bloodboon Ritual #1 [Hit]
+2337 Mohgwyn's Sacred Spear - Bloodboon Ritual #2
+2338 Mohgwyn's Sacred Spear - Bloodboon Ritual #2 [Hit]
+2339 Mohgwyn's Sacred Spear - Bloodboon Ritual #3
+2340 Mohgwyn's Sacred Spear - Bloodboon Ritual #3 [Hit]
+2341 Mohgwyn's Sacred Spear - Bloodboon Ritual #1
+2342 Mohgwyn's Sacred Spear - Bloodboon Ritual #2
+2343 Mohgwyn's Sacred Spear - Bloodboon Ritual #3
 2345 Fallingstar Beast Jaw - Gravity Bolt
 2346 Fallingstar Beast Jaw - Gravity Bolt
 2347 Fallingstar Beast Jaw - Gravity Bolt [Hit]

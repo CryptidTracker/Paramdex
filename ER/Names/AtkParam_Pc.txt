@@ -43,10 +43,10 @@
 41101 Rock Blaster
 41102 Rock Blaster
 41103 Rock Blaster
-41200 Gavel of Haima 1
-41201 Gavel of Haima 2
-41205 Gavel of Haima 1 (AoE)
-41206 Gavel of Haima 2 (AoE)
+41200 Gavel of Haima
+41201 Gavel of Haima (AoE)
+41205 Gavel of Haima Offhand
+41206 Gavel of Haima Offhand (AoE)
 41300 Terra Magica
 42000 Comet Azur
 42001 Comet Azur
@@ -2103,9 +2103,9 @@
 1201305 Beastclaw Greathammer - 2h Charged R2 #1 [1]
 1201310 Beastclaw Greathammer - 2h R2 #2 [1]
 1201315 Beastclaw Greathammer - 2h Charged R2 #1 [1]
-1202100 ? Devourer's Scepter - 1H R2 #1
+1202100 Prayerful Strike Healing - Bullet
 1202105 ? Devourer's Scepter - 1H Charged R2 #1
-1202110 ? Devourer's Scepter - 1H R2 #2
+1202110 Prayerful Strike Healing - Bullet
 1203000 Pickaxe - 1h R1 #1 [1]
 1203001 Pickaxe
 1203002 Pickaxe
@@ -4127,7 +4127,7 @@
 3000470 [Default] Small Shield
 3000480 [Default] Small Shield
 3000590 [Default] Small Shield - Backstab Grab
-3000591 [Default] Small Shield
+3000591 Small Shield Parry
 3000600 [Default] Small Shield - Mounted R1 #1 [1]
 3000605 [Default] Small Shield - Mounted R1 #2 [1]
 3000610 [Default] Small Shield - Mounted R1 #3 [1]
@@ -4194,7 +4194,7 @@
 3100470 [Default] Medium Shield
 3100480 [Default] Medium Shield
 3100590 [Default] Medium Shield - Backstab Grab
-3100591 [Default] Medium Shield
+3100591 Medium Shield Parry
 3100600 [Default] Medium Shield - Mounted R1 #1 [1]
 3100605 [Default] Medium Shield - Mounted R1 #2 [1]
 3100610 [Default] Medium Shield - Mounted R1 #3 [1]
@@ -4414,7 +4414,7 @@
 5000835 Arrow
 5000840 Sky Shot - Arrow
 5000845 Arrow
-5000850 Arrow
+5000850 Rain of Arrows (?) - Arrow
 5000855 Arrow
 5000870 Through and Through - Arrow
 5000875 Arrow
@@ -4431,7 +4431,7 @@
 5001835 Fire Arrow
 5001840 Sky Shot - Fire Arrow
 5001845 Fire Arrow
-5001850 Fire Arrow
+5001850 Rain of Arrows (?) - Fire Arrow
 5001855 Fire Arrow
 5001870 Through and Through - Fire Arrow
 5002300 Serpent Arrow
@@ -4447,7 +4447,7 @@
 5002835 Serpent Arrow
 5002840 Sky Shot - Serpent Arrow
 5002845 Serpent Arrow
-5002850 Serpent Arrow
+5002850 Rain of Arrows (?) - Serpent Arrow
 5002855 Serpent Arrow
 5002870 Through and Through - Serpent Arrow
 5002875 Serpent Arrow
@@ -4464,7 +4464,7 @@
 5003835 Bone Arrow (Fletched)
 5003840 Sky Shot - Bone Arrow (Fletched)
 5003845 Bone Arrow (Fletched)
-5003850 Bone Arrow (Fletched)
+5003850 Rain of Arrows (?) - Bone Arrow (Fletched)
 5003855 Bone Arrow (Fletched)
 5003870 Through and Through - Bone Arrow (Fletched)
 5003875 Bone Arrow (Fletched)
@@ -4481,7 +4481,7 @@
 5004835 St. Trina's Arrow
 5004840 Sky Shot - St. Trina's Arrow
 5004845 St. Trina's Arrow
-5004850 St. Trina's Arrow
+5004850 Rain of Arrows (?) - St. Trina's Arrow
 5004855 St. Trina's Arrow
 5004870 Through and Through - St. Trina's Arrow
 5004875 St. Trina's Arrow
@@ -4498,7 +4498,7 @@
 5006835 Shattershard Arrow (Fletched)
 5006840 Sky Shot - Shattershard Arrow (Fletched)
 5006845 Shattershard Arrow (Fletched)
-5006850 Shattershard Arrow (Fletched)
+5006850 Rain of Arrows (?) - Shattershard Arrow (Fletched)
 5006855 Shattershard Arrow (Fletched)
 5006870 Through and Through - Shattershard Arrow (Fletched)
 5006875 Shattershard Arrow (Fletched)
@@ -4515,7 +4515,7 @@
 5008835 Rainbow Stone Arrow (Fletched)
 5008840 Sky Shot - Rainbow Stone Arrow (Fletched)
 5008845 Rainbow Stone Arrow (Fletched)
-5008850 Rainbow Stone Arrow (Fletched)
+5008850 Rain of Arrows (?) - Rainbow Stone Arrow (Fletched)
 5008855 Rainbow Stone Arrow (Fletched)
 5008870 Through and Through - Rainbow Stone Arrow (Fletched)
 5008875 Rainbow Stone Arrow (Fletched)
@@ -4532,7 +4532,7 @@
 5009835 Golden Arrow
 5009840 Sky Shot - Golden Arrow
 5009845 Golden Arrow
-5009850 Golden Arrow
+5009850 Rain of Arrows (?) - Golden Arrow
 5009855 Golden Arrow
 5009870 Through and Through - Golden Arrow
 5009875 Golden Arrow
@@ -4549,7 +4549,7 @@
 5010835 Dwelling Arrow
 5010840 Sky Shot - Dwelling Arrow
 5010845 Dwelling Arrow
-5010850 Dwelling Arrow
+5010850 Rain of Arrows (?) - Dwelling Arrow
 5010855 Dwelling Arrow
 5010870 Through and Through - Dwelling Arrow
 5010875 Dwelling Arrow
@@ -4566,7 +4566,7 @@
 5011835 Bone Arrow
 5011840 Sky Shot - Bone Arrow
 5011845 Bone Arrow
-5011850 Bone Arrow
+5011850 Rain of Arrows (?) - Bone Arrow
 5011855 Bone Arrow
 5011870 Through and Through - Bone Arrow
 5011875 Bone Arrow
@@ -4583,7 +4583,7 @@
 5013835 Firebone Arrow (Fletched)
 5013840 Sky Shot - Firebone Arrow (Fletched)
 5013845 Firebone Arrow (Fletched)
-5013850 Firebone Arrow (Fletched)
+5013850 Rain of Arrows (?) - Firebone Arrow (Fletched)
 5013855 Firebone Arrow (Fletched)
 5013870 Through and Through - Firebone Arrow (Fletched)
 5013875 Firebone Arrow (Fletched)
@@ -4600,7 +4600,7 @@
 5014835 Firebone Arrow
 5014840 Sky Shot - Firebone Arrow
 5014845 Firebone Arrow
-5014850 Firebone Arrow
+5014850 Rain of Arrows (?) - Firebone Arrow
 5014855 Firebone Arrow
 5014870 Through and Through - Firebone Arrow
 5014875 Firebone Arrow
@@ -4617,7 +4617,7 @@
 5015835 Poisonbone Arrow (Fletched)
 5015840 Sky Shot - Poisonbone Arrow (Fletched)
 5015845 Poisonbone Arrow (Fletched)
-5015850 Poisonbone Arrow (Fletched)
+5015850 Rain of Arrows (?) - Poisonbone Arrow (Fletched)
 5015855 Poisonbone Arrow (Fletched)
 5015870 Through and Through - Poisonbone Arrow (Fletched)
 5015875 Poisonbone Arrow (Fletched)
@@ -4634,7 +4634,7 @@
 5016835 Poisonbone Arrow
 5016840 Sky Shot - Poisonbone Arrow
 5016845 Poisonbone Arrow
-5016850 Poisonbone Arrow
+5016850 Rain of Arrows (?) - Poisonbone Arrow
 5016855 Poisonbone Arrow
 5016870 Through and Through - Poisonbone Arrow
 5016875 Poisonbone Arrow
@@ -4651,7 +4651,7 @@
 5017835 Sleepbone Arrow (Fletched)
 5017840 Sky Shot - Sleepbone Arrow (Fletched)
 5017845 Sleepbone Arrow (Fletched)
-5017850 Sleepbone Arrow (Fletched)
+5017850 Rain of Arrows (?) - Sleepbone Arrow (Fletched)
 5017855 Sleepbone Arrow (Fletched)
 5017870 Through and Through - Sleepbone Arrow (Fletched)
 5017875 Sleepbone Arrow (Fletched)
@@ -4668,7 +4668,7 @@
 5018835 Sleepbone Arrow
 5018840 Sky Shot - Sleepbone Arrow
 5018845 Sleepbone Arrow
-5018850 Sleepbone Arrow
+5018850 Rain of Arrows (?) - Sleepbone Arrow
 5018855 Sleepbone Arrow
 5018870 Through and Through - Sleepbone Arrow
 5018875 Sleepbone Arrow
@@ -4684,7 +4684,7 @@
 5019835 Stormwing Bone Arrow
 5019840 Sky Shot - Stormwing Bone Arrow
 5019845 Stormwing Bone Arrow
-5019850 Stormwing Bone Arrow
+5019850 Rain of Arrows (?) - Stormwing Bone Arrow
 5019855 Stormwing Bone Arrow
 5019870 Through and Through - Stormwing Bone Arrow
 5019875 Stormwing Bone Arrow
@@ -4700,7 +4700,7 @@
 5020835 Lightningbone Arrow (Fletched)
 5020840 Sky Shot - Lightningbone Arrow (Fletched)
 5020845 Lightningbone Arrow (Fletched)
-5020850 Lightningbone Arrow (Fletched)
+5020850 Rain of Arrows (?) - Lightningbone Arrow (Fletched)
 5020855 Lightningbone Arrow (Fletched)
 5020870 Through and Through - Lightningbone Arrow (Fletched)
 5020875 Lightningbone Arrow (Fletched)
@@ -4718,7 +4718,7 @@
 5021835 Lightningbone Arrow
 5021840 Sky Shot - Lightningbone Arrow
 5021845 Lightningbone Arrow
-5021850 Lightningbone Arrow
+5021850 Rain of Arrows (?) - Lightningbone Arrow
 5021855 Lightningbone Arrow
 5021870 Through and Through - Lightningbone Arrow
 5021875 Lightningbone Arrow
@@ -4735,7 +4735,7 @@
 5022835 Rainbow Stone Arrow
 5022840 Sky Shot - Rainbow Stone Arrow
 5022845 Rainbow Stone Arrow
-5022850 Rainbow Stone Arrow
+5022850 Rain of Arrows (?) - Rainbow Stone Arrow
 5022855 Rainbow Stone Arrow
 5022870 Through and Through - Rainbow Stone Arrow
 5022875 Rainbow Stone Arrow
@@ -4752,7 +4752,7 @@
 5023835 Shattershard Arrow
 5023840 Sky Shot - Shattershard Arrow
 5023845 Shattershard Arrow
-5023850 Shattershard Arrow
+5023850 Rain of Arrows (?) - Shattershard Arrow
 5023855 Shattershard Arrow
 5023870 Through and Through - Shattershard Arrow
 5023875 Shattershard Arrow
@@ -4769,7 +4769,7 @@
 5024835 Spiritflame Arrow
 5024840 Sky Shot - Spiritflame Arrow
 5024845 Spiritflame Arrow
-5024850 Spiritflame Arrow
+5024850 Rain of Arrows (?) - Spiritflame Arrow
 5024855 Spiritflame Arrow
 5024870 Through and Through - Spiritflame Arrow
 5024875 Spiritflame Arrow
@@ -4778,6 +4778,7 @@
 5025820 Barrage - ?
 5025830 Enchanted Shot - ?
 5025840 Sky Shot - ?
+5025850 Rain of Arrows (?) - ?
 5025870 Through and Through - ?
 5026300 Magicbone Arrow (Fletched)
 5026310 Magicbone Arrow (Fletched)
@@ -4792,7 +4793,7 @@
 5026835 Magicbone Arrow (Fletched)
 5026840 Sky Shot - Magicbone Arrow (Fletched)
 5026845 Magicbone Arrow (Fletched)
-5026850 Magicbone Arrow (Fletched)
+5026850 Rain of Arrows (?) - Magicbone Arrow (Fletched)
 5026855 Magicbone Arrow (Fletched)
 5026870 Through and Through - Magicbone Arrow (Fletched)
 5026875 Magicbone Arrow (Fletched)
@@ -4809,7 +4810,7 @@
 5027835 Magicbone Arrow
 5027840 Sky Shot - Magicbone Arrow
 5027845 Magicbone Arrow
-5027850 Magicbone Arrow
+5027850 Rain of Arrows (?) - Magicbone Arrow
 5027855 Magicbone Arrow
 5027870 Through and Through - Magicbone Arrow
 5027875 Magicbone Arrow
@@ -4826,7 +4827,7 @@
 5028835 Haligbone Arrow (Fletched)
 5028840 Sky Shot - Haligbone Arrow (Fletched)
 5028845 Haligbone Arrow (Fletched)
-5028850 Haligbone Arrow (Fletched)
+5028850 Rain of Arrows (?) - Haligbone Arrow (Fletched)
 5028855 Haligbone Arrow (Fletched)
 5028870 Through and Through - Haligbone Arrow (Fletched)
 5028875 Haligbone Arrow (Fletched)
@@ -4843,7 +4844,7 @@
 5029835 Haligbone Arrow
 5029840 Sky Shot - Haligbone Arrow
 5029845 Haligbone Arrow
-5029850 Haligbone Arrow
+5029850 Rain of Arrows (?) - Haligbone Arrow
 5029855 Haligbone Arrow
 5029870 Through and Through - Haligbone Arrow
 5029875 Haligbone Arrow
@@ -4860,7 +4861,7 @@
 5030835 Bloodbone Arrow (Fletched)
 5030840 Sky Shot - Bloodbone Arrow (Fletched)
 5030845 Bloodbone Arrow (Fletched)
-5030850 Bloodbone Arrow (Fletched)
+5030850 Rain of Arrows (?) - Bloodbone Arrow (Fletched)
 5030855 Bloodbone Arrow (Fletched)
 5030870 Through and Through - Bloodbone Arrow (Fletched)
 5030875 Bloodbone Arrow (Fletched)
@@ -4877,7 +4878,7 @@
 5031835 Bloodbone Arrow
 5031840 Sky Shot - Bloodbone Arrow
 5031845 Bloodbone Arrow
-5031850 Bloodbone Arrow
+5031850 Rain of Arrows (?) - Bloodbone Arrow
 5031855 Bloodbone Arrow
 5031870 Through and Through - Bloodbone Arrow
 5031875 Bloodbone Arrow
@@ -4894,7 +4895,7 @@
 5032835 Coldbone Arrow (Fletched)
 5032840 Sky Shot - Coldbone Arrow (Fletched)
 5032845 Coldbone Arrow (Fletched)
-5032850 Coldbone Arrow (Fletched)
+5032850 Rain of Arrows (?) - Coldbone Arrow (Fletched)
 5032855 Coldbone Arrow (Fletched)
 5032870 Through and Through - Coldbone Arrow (Fletched)
 5032875 Coldbone Arrow (Fletched)
@@ -4911,7 +4912,7 @@
 5033835 Coldbone Arrow
 5033840 Sky Shot - Coldbone Arrow
 5033845 Coldbone Arrow
-5033850 Coldbone Arrow
+5033850 Rain of Arrows (?) - Coldbone Arrow
 5033855 Coldbone Arrow
 5033870 Through and Through - Coldbone Arrow
 5033875 Coldbone Arrow
@@ -4928,7 +4929,7 @@
 5034835 Rotbone Arrow (Fletched)
 5034840 Sky Shot - Rotbone Arrow (Fletched)
 5034845 Rotbone Arrow (Fletched)
-5034850 Rotbone Arrow (Fletched)
+5034850 Rain of Arrows (?) - Rotbone Arrow (Fletched)
 5034855 Rotbone Arrow (Fletched)
 5034870 Through and Through - Rotbone Arrow (Fletched)
 5034875 Rotbone Arrow (Fletched)
@@ -4945,65 +4946,66 @@
 5035835 Rotbone Arrow
 5035840 Sky Shot - Rotbone Arrow
 5035845 Rotbone Arrow
-5035850 Rotbone Arrow
+5035850 Rain of Arrows (?) - Rotbone Arrow
 5035855 Rotbone Arrow
 5035870 Through and Through - Rotbone Arrow
 5035875 Rotbone Arrow
 5099999 Rotbone Arrow
 5100300 Great Arrow
-5100850 Great Arrow
+5100850 Rain of Arrows (?) - Great Arrow
 5100855 Great Arrow
 5100870 Through and Through - Great Arrow
 5100875 Great Arrow
-5100880 Great Arrow
+5100880 Radahn's Rain (?) - Great Arrow
 5100885 Great Arrow
 5101300 Golem's Great Arrow
 5101301 Golem's Great Arrow
-5101302 Golem's Great Arrow
-5101303 Golem's Great Arrow
-5101304 Golem's Great Arrow
+5101302 Rain of Arrows (?) - Golem's Great Arrow (Impact AoE)
+5101303 Radahn's Rain (?) - Golem's Great Arrow (Impact AoE)
+5101304 Through and Through - Golem's Great Arrow (Impact AoE)
 5101305 Golem's Great Arrow
 5101306 Golem's Great Arrow
-5101850 Golem's Great Arrow
+5101850 Rain of Arrows (?) - Golem's Great Arrow
 5101855 Golem's Great Arrow
 5101870 Through and Through - Golem's Great Arrow
 5101875 Golem's Great Arrow
-5101880 Golem's Great Arrow
+5101880 Radahn's Rain (?) - Golem's Great Arrow
 5101885 Golem's Great Arrow
 5102300 Golden Great Arrow
-5102850 Golden Great Arrow
+5102301 Through and Through - Golden Great Arrow (Buff AoE)
+5102850 Rain of Arrows (?) - Golden Great Arrow
 5102855 Golden Great Arrow
 5102870 Through and Through - Golden Great Arrow
 5102875 Golden Great Arrow
-5102880 Golden Great Arrow
+5102880 Radahn's Rain (?) - Golden Great Arrow
 5102885 Golden Great Arrow
 5103300 Golem's Magic Arrow
-5103850 Golem's Magic Arrow
+5103850 Rain of Arrows (?) - Golem's Magic Arrow
 5103855 Golem's Magic Arrow
 5103870 Through and Through - Golem's Magic Arrow
 5103875 Golem's Magic Arrow
-5103880 Golem's Magic Arrow
+5103880 Radahn's Rain (?) - Golem's Magic Arrow
 5103885 Golem's Magic Arrow
 5104300 Radahn's Spear
-5104850 Radahn's Spear
+5104850 Rain of Arrows (?) - Radahn's Spear
 5104855 Radahn's Spear
 5104870 Through and Through - Radahn's Spear
 5104875 Radahn's Spear
-5104880 Radahn's Spear
+5104880 Radahn's Rain (?) - Radahn's Spear
 5104885 Radahn's Spear
 5105300 Bone Great Arrow (Fletched)
-5105850 Bone Great Arrow (Fletched)
+5105850 Rain of Arrows (?) - Bone Great Arrow (Fletched)
 5105855 Bone Great Arrow (Fletched)
 5105870 Through and Through - Bone Great Arrow (Fletched)
 5105875 Bone Great Arrow (Fletched)
-5105880 Bone Great Arrow (Fletched)
+5105880 Radahn's Rain (?) - Bone Great Arrow (Fletched)
 5105885 Bone Great Arrow (Fletched)
 5106300 Bone Great Arrow
-5106850 Bone Great Arrow
+5106850 Rain of Arrows (?) - Bone Great Arrow
 5106855 Bone Great Arrow
 5106870 Through and Through - Bone Great Arrow
 5106875 Bone Great Arrow
-5106880 Bone Great Arrow
+5106880 Radahn's Rain (?) - Bone Great Arrow
 5106885 Bone Great Arrow
 5199999 Bone Great Arrow
 5200300 Bolt
@@ -5208,9 +5210,9 @@
 300000160 Sacred Blade - Bullet
 300000161 Chilling Mist - Bullet
 300000162 Poisonous Mist - Bullet
-300000165 Poisonous Mist - Weapon
-300000166 Poisonous Mist ?
-300000169 Poisonous Mist - Weapon (Lacking FP)
+300000165 Chilling/Poisonous Mist - Weapon
+300000166 Sacred Blade - Weapon
+300000169 Sacred Blade & Chilling/Poisonous Mist (Lacking FP)
 300000170 Double Slash #1 [1]
 300000171 Double Slash #1 [2]
 300000172 Double Slash #2 [1]
@@ -5461,14 +5463,14 @@
 300000711 Lightning Ram [2]
 300000715 Lightning Ram [1] (Lacking FP)
 300000716 Lightning Ram [2] (Lacking FP)
-300000780 Shield Crash [3] - Charged Loop 3x
-300000781 Shield Crash [1]
-300000782 Shield Crash [4] - Charged Final Hit
-300000783 Shield Crash [2] - Final Hit
-300000785 Shield Crash [3] - Charged Loop 3x (Lacking FP)
-300000786 Shield Crash [1] (Lacking FP)
-300000787 Shield Crash [4] - Charged Final Hit (Lacking FP)
-300000788 Shield Crash [2] - Final Hit (Lacking FP)
+300000780 Shield Crash [1]
+300000781 Shield Crash [4] - Charged
+300000782 Shield Crash [5] - Charged Final Hit
+300000783 Shield Crash - Early Release Final Hit
+300000785 Shield Crash [1] (Lacking FP)
+300000786 Shield Crash [4] - Charged (Lacking FP)
+300000787 Shield Crash [5] - Charged Final Hit (Lacking FP)
+300000788 Shield Crash - Early Release Final Hit (Lacking FP)
 300000790 Ground Slam - Tush
 300000791 Ground Slam - Shockwave
 300000795 Ground Slam - Tush (Lacking FP)
@@ -5513,11 +5515,11 @@
 300000865 Cragblade [1] (Lacking FP)
 300000866 Cragblade [2] (Lacking FP)
 300000870 Spectral Lance - Bullet
-300000880 Hourah Loux's Earthshaker - Slam 1
-300000881 Hourah Loux's Earthshaker - Slam 2
-300000882 Hourah Loux's Earthshaker - Roar Tick
-300000883 Hourah Loux's Earthshaker - Roar Tick
-300000884 Hourah Loux's Earthshaker - Initial Roar
+300000880 Hoarah Loux's Earthshaker - Slam 1
+300000881 Hoarah Loux's Earthshaker - Slam 2
+300000882 Hoarah Loux's Earthshaker - Roar Tick
+300000883 Hoarah Loux's Earthshaker - Roar Tick
+300000884 Hoarah Loux's Earthshaker - Initial Roar
 300000891 Stamp (Sweep) [1]
 300000892 Stamp (Sweep) [2]
 300000895 Stamp (Sweep) [1] (Lacking FP)
@@ -5715,12 +5717,12 @@
 300729005 Magma Guillotine #1 (Lacking FP)
 300729006 Magma Guillotine #2 [1] (Lacking FP)
 300729007 Magma Guillotine #2 [2] (Lacking FP)
-300800300 The Queen's Black Flame
-300800301 The Queen's Black Flame
-300800305 The Queen's Black Flame
-300800310 The Queen's Black Flame
+300800300 The Queen's Black Flame #1 [2]
+300800301 The Queen's Black Flame #1 [1]
+300800305 The Queen's Black Flame #2
+300800310 The Queen's Black Flame #1 [2] (Lacking FP)
 300800311 The Queen's Black Flame
-300800315 The Queen's Black Flame
+300800315 The Queen's Black Flame #2 (Lacking FP)
 300804900 Bloodhound's Finesse
 300804901 Bloodhound's Finesse R2
 300804905 Bloodhound's Finesse (Lacking FP)
@@ -5737,7 +5739,7 @@
 30090012 Ice Lightning Sword - Bullet (Water AoE)
 300900113 Ice Lightning Sword - Sword (Lacking FP)
 300900114 Ice Lightning Sword - Stomp Lightning
-300900200 Waterfowl Dance #3 [4] (Lacking FP)
+300900200 Waterfowl Dance - After Image?
 300900201 Waterfowl Dance #3 [4]
 300900205 Waterfowl Dance #1 [1]
 300900206 Waterfowl Dance #1 [2]
@@ -5946,17 +5948,17 @@
 301705920 Frenzyflame Thrust - Leap Stagger
 301705925 Frenzyflame Thrust (Lacking FP)
 301711900 Bloodboon Ritual #1 - Weapon
-301711905 Bloodboon Ritual #1 - Bullet
-301711906 Bloodboon Ritual #1 - Bullet
-301711907 Bloodboon Ritual #1 - Bullet
+301711905 Bloodboon Ritual #1 - Bullet 2
+301711906 Bloodboon Ritual #1 - Bullet 1&2 [Hit]
+301711907 Bloodboon Ritual #1 - Bullet 1
 301711910 Bloodboon Ritual #2
-301711915 Bloodboon Ritual #2 - Bullet
-301711916 Bloodboon Ritual #2 - Bullet
-301711917 Bloodboon Ritual #2 - Bullet
+301711915 Bloodboon Ritual #2 - Bullet 2
+301711916 Bloodboon Ritual #2 - Bullet 1&2 [Hit]
+301711917 Bloodboon Ritual #2 - Bullet 1
 301711920 Bloodboon Ritual #3
-301711925 Bloodboon Ritual #3 - Bullet
-301711926 Bloodboon Ritual #3 - Bullet
-301711927 Bloodboon Ritual #3 - Bullet
+301711925 Bloodboon Ritual #3 - Bullet 2
+301711926 Bloodboon Ritual #3 - Bullet 1&2 [Hit]
+301711927 Bloodboon Ritual #3 - Bullet 1
 301711935 Bloodboon Ritual #1 (Lacking FP)
 301711940 Bloodboon Ritual #2 (Lacking FP)
 301711945 Bloodboon Ritual #3 (Lacking FP)
@@ -5967,11 +5969,11 @@
 301805010 Phantom Slash #2 - Weapon
 301805011 Phantom Slash #2 - Weapon (Lacking FP)
 301805012 Phantom Slash #2 - Bullet (Phantom)
-301810900 Loretta's Slash ?
-301810905 Loretta's Slash [1]
-301810906 Loretta's Slash [2]
-301810910 Loretta's Slash [1] (Lacking FP)
-301810911 Loretta's Slash [2] (Lacking FP)
+301810900 [LWS] Loretta's Slash ?
+301810905 [LWS] Loretta's Slash [1]
+301810906 [LWS] Loretta's Slash [2]
+301810910 [LWS] Loretta's Slash [1] (Lacking FP)
+301810911 [LWS] Loretta's Slash [2] (Lacking FP)
 301902900 Miquella's Ring of Light #1 - Weapon
 301902901 Miquella's Ring of Light #1 - Bullet
 301902902 Miquella's Ring of Light #1 - Bullet AoE
@@ -6031,7 +6033,7 @@
 302112909 Storm Kick R2 [3] (Lacking FP)
 302112910 Storm Kick (Left) [1]
 302112911 Storm Kick (Left) [2]
-302112912 Storm Kick R2 (Left) [1]
+302112912 Storm Kick R2 (Left) [1] 
 302112913 Storm Kick R2 (Left) [2]
 302112914 Storm Kick R2 (Left) [3]
 302112915 Storm Kick (Left) [1] (Lacking FP)
@@ -6044,26 +6046,26 @@
 302301901 Sorcery of the Crozier - Bullet
 302301905 Sorcery of the Crozier (Lacking FP)
 302301909 Sorcery of the Crozier - Bullet
-302305900 Regal Roar
-302305905 Regal Roar - Bullet
-302305906 Regal Roar - Bullet
-302305907 Regal Roar - Bullet
-302305908 Regal Roar - Bullet
-302305909 Regal Roar - Bullet
-302305910 Regal Roar
-302305915 Regal Roar - Bullet
-302305916 Regal Roar - Bullet
-302305917 Regal Roar - Bullet
-302305918 Regal Roar - Bullet
-302305920 Regal Roar Charged R2 #1
-302305925 Regal Roar - Bullet
-302305926 Regal Roar - Bullet
-302305927 Regal Roar - Bullet
-302305928 Regal Roar - Bullet
-302305930 Regal Roar R2 #1
-302305935 Regal Roar
-302305936 Regal Roar
-302305937 Regal Roar
+302305900 Regal Roar ?
+302305905 Regal Roar [1] - Bullet (Roar AoE)
+302305906 Regal Roar [2] - Bullet (Slam AoE)
+302305907 Regal Roar [2] - Bullet [Hit] (Slam AoE)
+302305908 Regal Roar [2] - Bullet [Hit] (Slam AoE)
+302305909 Regal Roar [2] - Bullet (Slam AoE)
+302305910 Regal Roar (Lacking FP)
+302305915 Regal Roar Charged R2 #1 - Bullet (Stomp AoE)
+302305916 Regal Roar Charged R2 #1 - Bullet [Hit] (Stomp AoE)
+302305917 Regal Roar Charged R2 #1 - Bullet [Hit] (Stomp AoE)
+302305918 Regal Roar Charged R2 #1 - Bullet (Stomp AoE)
+302305920 Regal Roar Charged R2 #1 - Weapon
+302305925 Regal Roar R2 #1 - Bullet (Stomp AoE)
+302305926 Regal Roar R2 #1 - Bullet [Hit] (Stomp AoE)
+302305927 Regal Roar R2 #1 - Bullet [Hit] (Stomp AoE)
+302305928 Regal Roar R2 #1 - Bullet (Stomp AoE)
+302305930 Regal Roar R2 #1 - Weapon
+302305935 Regal Roar Charged R2 #2 - Scraping
+302305936 Regal Roar Charged R2 #2 - Scraping (Tick 4x)
+302305937 Regal Roar Charged R2 #2 - Scraping (Final Tick)
 302305938 Regal Roar Charged R2 #2
 302305940 Regal Roar R2 #2
 302306900 Great Oracular Bubble - Bullet
@@ -6163,8 +6165,8 @@
 303400905 Nebula (Lacking FP)
 303401000 Golden Tempering R2 (Right)
 303401001 Golden Tempering R2 (Left)
-303401005 Golden Tempering Charged R2 - Rapid Hits (Right)
-303401006 Golden Tempering Charged R2 - Rapid Hits (Left)
+303401005 Golden Tempering (Partial) Charged R2 - 2x (Right)
+303401006 Golden Tempering (Partial) Charged R2 - 1x (Left)
 303401007 Golden Tempering Charged R2 - Final (Right)
 303401008 Golden Tempering Charged R2 - Final (Left)
 303401100 Shriek of Milos - Bullet (Shriek)
