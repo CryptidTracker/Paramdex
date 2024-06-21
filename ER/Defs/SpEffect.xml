@@ -2632,7 +2632,7 @@
       <Increment>0.001</Increment>
       <SortID>300040</SortID>
     </Field>
-    <Field Def="f32 staminaDmgRecieveRate">
+    <Field Def="f32 guardStaminaMult">
       <DisplayName></DisplayName>
       <DisplayFormat>%f</DisplayFormat>
       <EditFlags>Wrap</EditFlags>
