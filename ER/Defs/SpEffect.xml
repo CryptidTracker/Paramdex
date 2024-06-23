@@ -2665,7 +2665,7 @@
     
     <Field Def="s32 spiritDeathSpEffectId" FirstVersion="11210015" />
     
-    <Field Def="dummy8 pad3[4]" RemovedVersion="11210015" >
+    <Field Def="dummy8 unk3[4]" RemovedVersion="11210015" >
       <DisplayName>pad</DisplayName>
       <DisplayFormat>%f</DisplayFormat>
       <EditFlags>Wrap</EditFlags>
