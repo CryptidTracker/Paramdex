@@ -3,6 +3,7 @@
 130 Rainbow Stone
 131 Rainbow Stone [Hit]
 132 Rainbow Stone [Hit]
+900 Deathbed Dress - Ally HP Restore
 1000 Hemorrhage
 1005 Poison/Scarlet Rot
 1500 Flask of Crimson Tears
@@ -656,7 +657,6 @@
 2130084 [Margit/Morgott] Bullet [Emitted] [Hit]
 2130085 [Margit/Morgott] Bullet [Emitted] [Hit]
 2130090 [Margit/Morgott] Bullet
-2130167 [Margit/Morgott] Bullet [Hit]
 2130160 [Margit/Morgott] Bullet
 2130165 [Margit/Morgott] Bullet
 2130166 [Margit/Morgott] Bullet [Hit]
@@ -5898,7 +5898,2969 @@
 20009211 Explosive Greatbolt
 20009300 Bone Ballista Bolt
 20009310 Bone Ballista Bolt
-10691013 Ancient Dragons' Lightning Strike [Emitted]
-10691014 Ancient Dragons' Lightning Strike [Hit]
-10691015 Ancient Dragons' Lightning Strike [Hit]
-10691016 Ancient Dragons' Lightning Strike [Hit]
+200002050 Piercing Throw
+200002052 Piercing Throw (Lacking FP)
+200002101 Dragonwound Slash Charged
+200002102 Dragonwound Slash Charged [Emitted]
+200002200 Red Bear's Claw - Red Bear Hunt
+200002201 Red Bear's Claw - Red Bear Hunt [Hit]
+200002202 Red Bear's Claw - Red Bear Hunt R2 #1
+200002203 Red Bear's Claw - Red Bear Hunt R2 #1 [Hit]
+200002204 Red Bear's Claw - Red Bear Hunt R2 #3
+200002205 Red Bear's Claw - Red Bear Hunt R2 #3 [Hit]
+200002310 Smithing Art Spears
+200002311 Smithing Art Spears [Hit]
+200002312 Smithing Art Spears [Hit]
+200002313 Smithing Art Spears [Hit]
+200002314 Smithing Art Spears [Hit]
+200002370 Divine Beast Frost Stomp
+200002371 Divine Beast Frost Stomp [Hit]
+200002372 Divine Beast Frost Stomp [Hit]
+200002373 Divine Beast Frost Stomp [Hit]
+200002374 Divine Beast Frost Stomp [Hit]
+200002375 Divine Beast Frost Stomp [Hit]
+200002376 Divine Beast Frost Stomp [Hit]
+200002377 Divine Beast Frost Stomp [Hit]
+200002378 Divine Beast Frost Stomp [Emitted]
+200002379 Divine Beast Frost Stomp [Hit]
+200002380 Divine Beast Frost Stomp Charged
+200002381 Divine Beast Frost Stomp Charged [Hit]
+200002382 Divine Beast Frost Stomp Charged [Hit]
+200002383 Divine Beast Frost Stomp Charged [Hit]
+200002384 Divine Beast Frost Stomp Charged [Hit]
+200002385 Divine Beast Frost Stomp Charged [Hit]
+200002386 Divine Beast Frost Stomp Charged [Hit]
+200002387 Divine Beast Frost Stomp Charged [Hit]
+200002388 Divine Beast Frost Stomp Charged [Emitted]
+200002389 Divine Beast Frost Stomp Charged [Hit]
+200002450 Messmer's Assault #1
+200002451 Messmer's Assault #3
+200002453 Messmer's Assault #3
+200003210 Lizard Greatsword R2
+200003211 Lizard Greatsword Charged R2
+200003220 Black Steel Greathammer - Guard Counter AoE
+200003221 Black Steel Greathammer - Guard Counter AoE [Hit]
+200003222 Black Steel Greathammer - Guard Counter AoE [Hit]
+200003223 Black Steel Greathammer - Guard Counter AoE [Hit]
+200003224 Black Steel Greathammer - Guard Counter AoE [Hit]
+200003225 Black Steel Greathammer - Guard Counter AoE [Hit]
+200003226 Black Steel Greathammer - Guard Counter AoE [Emitted]
+200003227 Black Steel Greathammer - Guard Counter AoE [Emitted]
+200003228 Black Steel Greathammer - Guard Counter AoE [Emitted]
+200003229 Black Steel Greathammer - Guard Counter AoE [Hit]
+200003230 Bloodfiend's Arm - R2
+200003231 Bloodfiend's Arm - Charged R2
+200003260 Deadly Poison Spray
+200010000 [Default] Perfume Bottle - 1h R1 #1 [1]
+200010001 [Default] Perfume Bottle - 1h R1 #1 [2]
+200010002 [Default] Perfume Bottle - 1h R1 #1 [3]
+200010003 [Default] Perfume Bottle - 1h R1 #1 [4]
+200010004 [Default] Perfume Bottle - 1h R1 #1 [5]
+200010005 [Default] Perfume Bottle - 1h R1 #1 [6]
+200010010 [Default] Perfume Bottle - 1h R1 #2 [1]
+200010011 [Default] Perfume Bottle - 1h R1 #2 [2]
+200010012 [Default] Perfume Bottle - 1h R1 #2 [3]
+200010013 [Default] Perfume Bottle - 1h R1 #2 [4]
+200010014 [Default] Perfume Bottle - 1h R1 #2 [5]
+200010015 [Default] Perfume Bottle - 1h R1 #2 [6]
+200010020 [Default] Perfume Bottle - 1h R1 #3 [1]
+200010021 [Default] Perfume Bottle - 1h R1 #3 [2]
+200010022 [Default] Perfume Bottle - 1h R1 #3 [3]
+200010023 [Default] Perfume Bottle - 1h R1 #3 [4]
+200010024 [Default] Perfume Bottle - 1h R1 #3 [5]
+200010025 [Default] Perfume Bottle - 1h R1 #3 [6]
+200010030 [Default] Perfume Bottle - 1h R1 #4 [1]
+200010031 [Default] Perfume Bottle - 1h R1 #4 [2]
+200010032 [Default] Perfume Bottle - 1h R1 #4 [3]
+200010033 [Default] Perfume Bottle - 1h R1 #4 [4]
+200010034 [Default] Perfume Bottle - 1h R1 #4 [5]
+200010035 [Default] Perfume Bottle - 1h R1 #4 [6]
+200010100 [Default] Perfume Bottle - 1h R2 #1 [1]
+200010101 [Default] Perfume Bottle - 1h R2 #1 [2]
+200010102 [Default] Perfume Bottle - 1h R2 #1 [3]
+200010103 [Default] Perfume Bottle - 1h R2 #1 [4]
+200010105 [Default] Perfume Bottle - 1h Charged R2 #1 [1]
+200010106 [Default] Perfume Bottle - 1h Charged R2 #1 [3]
+200010107 [Default] Perfume Bottle - 1h Charged R2 #1 [5]
+200010108 [Default] Perfume Bottle - 1h Charged R2 #1 [7]
+200010109 [Default] Perfume Bottle - 1h Charged R2 #1 [9]
+200010110 [Default] Perfume Bottle - 1h R2 #2 [1]
+200010111 [Default] Perfume Bottle - 1h R2 #2 [2]
+200010112 [Default] Perfume Bottle - 1h R2 #2 [3]
+200010113 [Default] Perfume Bottle - 1h R2 #2 [4]
+200010114 [Default] Perfume Bottle - 1h R2 #2 [5]
+200010115 [Default] Perfume Bottle - 1h Charged R2 #2 [1]
+200010116 [Default] Perfume Bottle - 1h Charged R2 #2 [3]
+200010117 [Default] Perfume Bottle - 1h Charged R2 #2 [5]
+200010118 [Default] Perfume Bottle - 1h Charged R2 #2 [7]
+200010119 [Default] Perfume Bottle - 1h Charged R2 #2 [9]
+200010120 [Default] Perfume Bottle - 1h Running R1 [1]
+200010121 [Default] Perfume Bottle - 1h Running R1 [2]
+200010122 [Default] Perfume Bottle - 1h Running R1 [3]
+200010123 [Default] Perfume Bottle - 1h Running R1 [4]
+200010124 [Default] Perfume Bottle - 1h Running R1 [5]
+200010125 [Default] Perfume Bottle - 1h Running R2 [1]
+200010127 [Default] Perfume Bottle - 1h Running R2 [2]
+200010128 [Default] Perfume Bottle - 1h Running R2 [3]
+200010130 [Default] Perfume Bottle - 1h Rolling R1 [1]
+200010131 [Default] Perfume Bottle - 1h Rolling R1 [2]
+200010132 [Default] Perfume Bottle - 1h Rolling R1 [3]
+200010133 [Default] Perfume Bottle - 1h Rolling R1 [4]
+200010134 [Default] Perfume Bottle - 1h Rolling R1 [5]
+200010140 [Default] Perfume Bottle - 1h Backstep R1 [1]
+200010141 [Default] Perfume Bottle - 1h Backstep R1 [2]
+200010142 [Default] Perfume Bottle - 1h Backstep R1 [3]
+200010143 [Default] Perfume Bottle - 1h Backstep R1 [4]
+200010144 [Default] Perfume Bottle - 1h Backstep R1 [5]
+200010150 [Default] Perfume Bottle - 1h Jumping R1 [1]
+200010151 [Default] Perfume Bottle - 1h Jumping R1 [2]
+200010152 [Default] Perfume Bottle - 1h Jumping R1 [3]
+200010153 [Default] Perfume Bottle - 1h Jumping R1 [4]
+200010154 [Default] Perfume Bottle - 1h Jumping R1 [5]
+200010160 [Default] Perfume Bottle - 1h Jumping R2 [1]
+200010161 [Default] Perfume Bottle - 1h Jumping R2 [2]
+200010162 [Default] Perfume Bottle - 1h Jumping R2 [3]
+200010163 [Default] Perfume Bottle - 1h Jumping R2 [4]
+200010164 [Default] Perfume Bottle - 1h Jumping R2 [5]
+200010167 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [1]
+200010168 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [2]
+200010169 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [3]
+200010170 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [4]
+200010171 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [5]
+200010172 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [6]
+200010173 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [1]
+200010174 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [2]
+200010175 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [3]
+200010176 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [4]
+200010177 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [5]
+200010178 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [6]
+200010180 [Default] Perfume Bottle - 1h Guard Counter [1]
+200010181 [Default] Perfume Bottle - 1h Guard Counter [2]
+200010182 [Default] Perfume Bottle - 1h Guard Counter [3]
+200010183 [Default] Perfume Bottle - 1h Guard Counter [4]
+200010184 [Default] Perfume Bottle - 1h Guard Counter [5]
+200010200 [Default] Perfume Bottle - 2h R1 #1 [1]
+200010201 [Default] Perfume Bottle - 2h R1 #1 [2]
+200010202 [Default] Perfume Bottle - 2h R1 #1 [3]
+200010203 [Default] Perfume Bottle - 2h R1 #1 [4]
+200010204 [Default] Perfume Bottle - 2h R1 #1 [5]
+200010205 [Default] Perfume Bottle - 2h R1 #1 [6]
+200010206 [Default] Perfume Bottle - 2h R1 #1 [7]
+200010207 [Default] Perfume Bottle - 2h R1 #1 [8]
+200010208 [Default] Perfume Bottle - 2h R1 #1 [9]
+200010209 [Default] Perfume Bottle - 2h R1 #1 [10]
+200010210 [Default] Perfume Bottle - 2h R1 #2 [1]
+200010211 [Default] Perfume Bottle - 2h R1 #2 [2]
+200010212 [Default] Perfume Bottle - 2h R1 #2 [3]
+200010213 [Default] Perfume Bottle - 2h R1 #2 [4]
+200010214 [Default] Perfume Bottle - 2h R1 #2 [5]
+200010215 [Default] Perfume Bottle - 2h R1 #2 [6]
+200010216 [Default] Perfume Bottle - 2h R1 #2 [7]
+200010217 [Default] Perfume Bottle - 2h R1 #2 [8]
+200010218 [Default] Perfume Bottle - 2h R1 #2 [9]
+200010219 [Default] Perfume Bottle - 2h R1 #2 [10]
+200010220 [Default] Perfume Bottle - 2h R1 #3 [1]
+200010221 [Default] Perfume Bottle - 2h R1 #3 [2]
+200010222 [Default] Perfume Bottle - 2h R1 #3 [3]
+200010223 [Default] Perfume Bottle - 2h R1 #3 [4]
+200010224 [Default] Perfume Bottle - 2h R1 #3 [5]
+200010225 [Default] Perfume Bottle - 2h R1 #3 [6]
+200010226 [Default] Perfume Bottle - 2h R1 #3 [7]
+200010227 [Default] Perfume Bottle - 2h R1 #3 [8]
+200010228 [Default] Perfume Bottle - 2h R1 #3 [9]
+200010229 [Default] Perfume Bottle - 2h R1 #3 [10]
+200010230 [Default] Perfume Bottle - 2h R1 #4 [1]
+200010231 [Default] Perfume Bottle - 2h R1 #4 [2]
+200010232 [Default] Perfume Bottle - 2h R1 #4 [3]
+200010233 [Default] Perfume Bottle - 2h R1 #4 [4]
+200010234 [Default] Perfume Bottle - 2h R1 #4 [5]
+200010235 [Default] Perfume Bottle - 2h R1 #4 [6]
+200010236 [Default] Perfume Bottle - 2h R1 #4 [7]
+200010237 [Default] Perfume Bottle - 2h R1 #4 [8]
+200010238 [Default] Perfume Bottle - 2h R1 #4 [9]
+200010239 [Default] Perfume Bottle - 2h R1 #4 [10]
+200010300 [Default] Perfume Bottle - 2h R2 #1 [1]
+200010301 [Default] Perfume Bottle - 2h R2 #1 [2]
+200010302 [Default] Perfume Bottle - 2h R2 #1 [4]
+200010303 [Default] Perfume Bottle - 2h R2 #1 [6]
+200010305 [Default] Perfume Bottle - 2h R2 #1 [3]
+200010306 [Default] Perfume Bottle - 2h R2 #1 [5]
+200010307 [Default] Perfume Bottle - 2h R2 #1 [7]
+200010308 [Default] Perfume Bottle - 2h R2 #1 [8]
+200010310 [Default] Perfume Bottle - 2h R2 #2 [1]
+200010311 [Default] Perfume Bottle - 2h R2 #2 [2]
+200010312 [Default] Perfume Bottle - 2h R2 #2 [4]
+200010313 [Default] Perfume Bottle - 2h R2 #2 [6]
+200010314 [Default] Perfume Bottle - 2h R2 #2 [3]
+200010315 [Default] Perfume Bottle - 2h R2 #2 [5]
+200010316 [Default] Perfume Bottle - 2h R2 #2 [7]
+200010317 [Default] Perfume Bottle - 2h R2 #2 [8]
+200010318 [Default] Perfume Bottle - 2h R2 #2 [9]
+200010319 [Default] Perfume Bottle - 2h R2 #2 [10]
+200010320 [Default] Perfume Bottle - 2h Running R1 [1]
+200010321 [Default] Perfume Bottle - 2h Running R1 [2]
+200010322 [Default] Perfume Bottle - 2h Running R1 [3]
+200010323 [Default] Perfume Bottle - 2h Running R1 [4]
+200010324 [Default] Perfume Bottle - 2h Running R1 [5]
+200010325 [Default] Perfume Bottle - 2h Running R1 [6]
+200010326 [Default] Perfume Bottle - 2h Running R1 [7]
+200010327 [Default] Perfume Bottle - 2h Running R1 [8]
+200010328 [Default] Perfume Bottle - 2h Running R1 [9]
+200010329 [Default] Perfume Bottle - 2h Running R1 [10]
+200010330 [Default] Perfume Bottle - 2h Rolling R1 [1]
+200010331 [Default] Perfume Bottle - 2h Rolling R1 [3]
+200010332 [Default] Perfume Bottle - 2h Rolling R1 [5]
+200010333 [Default] Perfume Bottle - 2h Rolling R1 [7]
+200010334 [Default] Perfume Bottle - 2h Rolling R1 [9]
+200010335 [Default] Perfume Bottle - 2h Rolling R1 [2]
+200010336 [Default] Perfume Bottle - 2h Rolling R1 [4]
+200010337 [Default] Perfume Bottle - 2h Rolling R1 [6]
+200010338 [Default] Perfume Bottle - 2h Rolling R1 [8]
+200010339 [Default] Perfume Bottle - 2h Rolling R1 [10]
+200010340 [Default] Perfume Bottle - 2h Backstep R1 [1]
+200010341 [Default] Perfume Bottle - 2h Backstep R1 [3]
+200010342 [Default] Perfume Bottle - 2h Backstep R1 [5]
+200010343 [Default] Perfume Bottle - 2h Backstep R1 [7]
+200010344 [Default] Perfume Bottle - 2h Backstep R1 [9]
+200010345 [Default] Perfume Bottle - 2h Backstep R1 [2]
+200010346 [Default] Perfume Bottle - 2h Backstep R1 [4]
+200010347 [Default] Perfume Bottle - 2h Backstep R1 [6]
+200010348 [Default] Perfume Bottle - 2h Backstep R1 [8]
+200010349 [Default] Perfume Bottle - 2h Backstep R1 [10]
+200010350 [Default] Perfume Bottle - 2h Jumping R1 [1]
+200010351 [Default] Perfume Bottle - 2h Jumping R1 [3]
+200010352 [Default] Perfume Bottle - 2h Jumping R1 [5]
+200010353 [Default] Perfume Bottle - 2h Jumping R1 [7]
+200010354 [Default] Perfume Bottle - 2h Jumping R1 [9]
+200010355 [Default] Perfume Bottle - 2h Jumping R1 [2]
+200010356 [Default] Perfume Bottle - 2h Jumping R1 [4]
+200010357 [Default] Perfume Bottle - 2h Jumping R1 [6]
+200010358 [Default] Perfume Bottle - 2h Jumping R1 [8]
+200010359 [Default] Perfume Bottle - 2h Jumping R1 [10]
+200010360 [Default] Perfume Bottle - 2h Jumping R2 [1]
+200010361 [Default] Perfume Bottle - 2h Jumping R2 [3]
+200010362 [Default] Perfume Bottle - 2h Jumping R2 [5]
+200010363 [Default] Perfume Bottle - 2h Jumping R2 [7]
+200010364 [Default] Perfume Bottle - 2h Jumping R2 [9]
+200010365 [Default] Perfume Bottle - 2h Jumping R2 [2]
+200010366 [Default] Perfume Bottle - 2h Jumping R2 [4]
+200010367 [Default] Perfume Bottle - 2h Jumping R2 [6]
+200010368 [Default] Perfume Bottle - 2h Jumping R2 [8]
+200010369 [Default] Perfume Bottle - 2h Jumping R2 [10]
+200010400 [Default] Perfume Bottle - Offhand R1 #1 [1]
+200010401 [Default] Perfume Bottle - Offhand R1 #1 [2]
+200010402 [Default] Perfume Bottle - Offhand R1 #1 [3]
+200010403 [Default] Perfume Bottle - Offhand R1 #1 [4]
+200010404 [Default] Perfume Bottle - Offhand R1 #1 [5]
+200010405 [Default] Perfume Bottle - Offhand R1 #1 [6]
+200010410 [Default] Perfume Bottle - Offhand R1 #2 [1]
+200010411 [Default] Perfume Bottle - Offhand R1 #2 [2]
+200010412 [Default] Perfume Bottle - Offhand R1 #2 [3]
+200010413 [Default] Perfume Bottle - Offhand R1 #2 [4]
+200010414 [Default] Perfume Bottle - Offhand R1 #2 [5]
+200010415 [Default] Perfume Bottle - Offhand R1 #2 [6]
+200010420 [Default] Perfume Bottle - Offhand R1 #3 [1]
+200010421 [Default] Perfume Bottle - Offhand R1 #3 [2]
+200010422 [Default] Perfume Bottle - Offhand R1 #3 [3]
+200010423 [Default] Perfume Bottle - Offhand R1 #3 [4]
+200010424 [Default] Perfume Bottle - Offhand R1 #3 [5]
+200010425 [Default] Perfume Bottle - Offhand R1 #3 [6]
+200010430 [Default] Perfume Bottle - Offhand R1 #4 [1]
+200010431 [Default] Perfume Bottle - Offhand R1 #4 [2]
+200010432 [Default] Perfume Bottle - Offhand R1 #4 [3]
+200010433 [Default] Perfume Bottle - Offhand R1 #4 [4]
+200010434 [Default] Perfume Bottle - Offhand R1 #4 [5]
+200010435 [Default] Perfume Bottle - Offhand R1 #4 [6]
+200010800 [Default] Perfume Bottle - Paired L1 #1 [1] (Right)
+200010801 [Default] Perfume Bottle - Paired L1 #1 [3] (Right)
+200010802 [Default] Perfume Bottle - Paired L1 #1 [5] (Right)
+200010803 [Default] Perfume Bottle - Paired L1 #1 [7] (Right)
+200010804 [Default] Perfume Bottle - Paired L1 #1 [9] (Right)
+200010805 [Default] Perfume Bottle - Paired L1 #1 [2] (Left)
+200010806 [Default] Perfume Bottle - Paired L1 #1 [4] (Left)
+200010807 [Default] Perfume Bottle - Paired L1 #1 [6] (Left)
+200010808 [Default] Perfume Bottle - Paired L1 #1 [8] (Left)
+200010809 [Default] Perfume Bottle - Paired L1 #1 [10] (Left)
+200010810 [Default] Perfume Bottle - Paired L1 #2 [1] (Right)
+200010811 [Default] Perfume Bottle - Paired L1 #2 [3] (Right)
+200010812 [Default] Perfume Bottle - Paired L1 #2 [5] (Right)
+200010813 [Default] Perfume Bottle - Paired L1 #2 [7] (Right)
+200010814 [Default] Perfume Bottle - Paired L1 #2 [9] (Right)
+200010815 [Default] Perfume Bottle - Paired L1 #2 [2] (Left)
+200010816 [Default] Perfume Bottle - Paired L1 #2 [4] (Left)
+200010817 [Default] Perfume Bottle - Paired L1 #2 [6] (Left)
+200010818 [Default] Perfume Bottle - Paired L1 #2 [8] (Left)
+200010819 [Default] Perfume Bottle - Paired L1 #2 [10] (Left)
+200010820 [Default] Perfume Bottle - Paired L1 #3 [1] (Right)
+200010821 [Default] Perfume Bottle - Paired L1 #3 [3] (Right)
+200010822 [Default] Perfume Bottle - Paired L1 #3 [5] (Right)
+200010823 [Default] Perfume Bottle - Paired L1 #3 [7] (Right)
+200010824 [Default] Perfume Bottle - Paired L1 #3 [9] (Right)
+200010825 [Default] Perfume Bottle - Paired L1 #3 [2] (Left)
+200010826 [Default] Perfume Bottle - Paired L1 #3 [4] (Left)
+200010827 [Default] Perfume Bottle - Paired L1 #3 [6] (Left)
+200010828 [Default] Perfume Bottle - Paired L1 #3 [8] (Left)
+200010829 [Default] Perfume Bottle - Paired L1 #3 [10] (Left)
+200010830 [Default] Perfume Bottle - Paired L1 #4 [1] (Right)
+200010831 [Default] Perfume Bottle - Paired L1 #4 [3] (Right)
+200010832 [Default] Perfume Bottle - Paired L1 #4 [5] (Right)
+200010833 [Default] Perfume Bottle - Paired L1 #4 [7] (Right)
+200010834 [Default] Perfume Bottle - Paired L1 #4 [9] (Right)
+200010835 [Default] Perfume Bottle - Paired L1 #4 [2] (Left)
+200010836 [Default] Perfume Bottle - Paired L1 #4 [4] (Left)
+200010837 [Default] Perfume Bottle - Paired L1 #4 [6] (Left)
+200010838 [Default] Perfume Bottle - Paired L1 #4 [8] (Left)
+200010839 [Default] Perfume Bottle - Paired L1 #4 [10] (Left)
+200010860 [Default] Perfume Bottle - Paired Running L1 [1] (Right)
+200010861 [Default] Perfume Bottle - Paired Running L1 [2] (Right)
+200010862 [Default] Perfume Bottle - Paired Running L1 [4] (Right)
+200010863 [Default] Perfume Bottle - Paired Running L1 [6] (Right)
+200010864 [Default] Perfume Bottle - Paired Running L1 [8] (Right)
+200010865 [Default] Perfume Bottle - Paired Running L1 [3] (Left)
+200010866 [Default] Perfume Bottle - Paired Running L1 [5] (Left)
+200010867 [Default] Perfume Bottle - Paired Running L1 [7] (Left)
+200010868 [Default] Perfume Bottle - Paired Running L1 [9] (Left)
+200010869 [Default] Perfume Bottle - Paired Running L1 [10] (Left)
+200010870 [Default] Perfume Bottle - Paired Rolling L1 [1] (Right)
+200010871 [Default] Perfume Bottle - Paired Rolling L1 [3] (Right)
+200010872 [Default] Perfume Bottle - Paired Rolling L1 [5] (Right)
+200010873 [Default] Perfume Bottle - Paired Rolling L1 [7] (Right)
+200010874 [Default] Perfume Bottle - Paired Rolling L1 [9] (Right)
+200010875 [Default] Perfume Bottle - Paired Rolling L1 [2] (Left)
+200010876 [Default] Perfume Bottle - Paired Rolling L1 [4] (Left)
+200010877 [Default] Perfume Bottle - Paired Rolling L1 [6] (Left)
+200010878 [Default] Perfume Bottle - Paired Rolling L1 [8] (Left)
+200010879 [Default] Perfume Bottle - Paired Rolling L1 [10] (Left)
+200010880 [Default] Perfume Bottle - Paired Backstep L1 [1] (Right)
+200010881 [Default] Perfume Bottle - Paired Backstep L1 [3] (Right)
+200010882 [Default] Perfume Bottle - Paired Backstep L1 [5] (Right)
+200010883 [Default] Perfume Bottle - Paired Backstep L1 [7] (Right)
+200010884 [Default] Perfume Bottle - Paired Backstep L1 [9] (Right)
+200010885 [Default] Perfume Bottle - Paired Backstep L1 [2] (Left)
+200010886 [Default] Perfume Bottle - Paired Backstep L1 [4] (Left)
+200010887 [Default] Perfume Bottle - Paired Backstep L1 [6] (Left)
+200010888 [Default] Perfume Bottle - Paired Backstep L1 [8] (Left)
+200010889 [Default] Perfume Bottle - Paired Backstep L1 [10] (Left)
+200010890 [Default] Perfume Bottle - Paired Jumping L1 [1] (Right)
+200010891 [Default] Perfume Bottle - Paired Jumping L1 [3] (Right)
+200010892 [Default] Perfume Bottle - Paired Jumping L1 [5] (Right)
+200010893 [Default] Perfume Bottle - Paired Jumping L1 [7] (Right)
+200010894 [Default] Perfume Bottle - Paired Jumping L1 [9] (Right)
+200010895 [Default] Perfume Bottle - Paired Jumping L1 [2] (Left)
+200010896 [Default] Perfume Bottle - Paired Jumping L1 [4] (Left)
+200010897 [Default] Perfume Bottle - Paired Jumping L1 [6] (Left)
+200010898 [Default] Perfume Bottle - Paired Jumping L1 [8] (Left)
+200010899 [Default] Perfume Bottle - Paired Jumping L1 [10] (Left)
+200010900 [Default] Perfume Bottle - 1h Charged R2 #1 [2]
+200010902 [Default] Perfume Bottle - 1h Charged R2 #1 [4]
+200010904 [Default] Perfume Bottle - 1h Charged R2 #1 [6]
+200010906 [Default] Perfume Bottle - 1h Charged R2 #1 [8]
+200010908 [Default] Perfume Bottle - 1h Charged R2 #1 [10]
+200010910 [Default] Perfume Bottle - 1h Charged R2 #2 [2]
+200010912 [Default] Perfume Bottle - 1h Charged R2 #2 [4]
+200010914 [Default] Perfume Bottle - 1h Charged R2 #2 [6]
+200010916 [Default] Perfume Bottle - 1h Charged R2 #2 [8]
+200010918 [Default] Perfume Bottle - 1h Charged R2 #2 [10]
+200010920 [Default] Perfume Bottle - 2h Charged R2 #1 [1]
+200010921 [Default] Perfume Bottle - 2h Charged R2 #1 [3]
+200010922 [Default] Perfume Bottle - 2h Charged R2 #1 [5]
+200010923 [Default] Perfume Bottle - 2h Charged R2 #1 [7]
+200010924 [Default] Perfume Bottle - 2h Charged R2 #1 [9]
+200010925 [Default] Perfume Bottle - 2h Charged R2 #1 [11]
+200010926 [Default] Perfume Bottle - 2h Charged R2 #1 [13]
+200010927 [Default] Perfume Bottle - 2h Charged R2 #1 [15]
+200010928 [Default] Perfume Bottle - 2h Charged R2 #1 [17]
+200010929 [Default] Perfume Bottle - 2h Charged R2 #1 [19]
+200010930 [Default] Perfume Bottle - 2h Charged R2 #1 [2]
+200010931 [Default] Perfume Bottle - 2h Charged R2 #1 [4]
+200010932 [Default] Perfume Bottle - 2h Charged R2 #1 [6]
+200010933 [Default] Perfume Bottle - 2h Charged R2 #1 [8]
+200010934 [Default] Perfume Bottle - 2h Charged R2 #1 [10]
+200010935 [Default] Perfume Bottle - 2h Charged R2 #1 [12]
+200010936 [Default] Perfume Bottle - 2h Charged R2 #1 [14]
+200010937 [Default] Perfume Bottle - 2h Charged R2 #1 [16]
+200010938 [Default] Perfume Bottle - 2h Charged R2 #1 [18]
+200010939 [Default] Perfume Bottle - 2h Charged R2 #1 [20]
+200010940 [Default] Perfume Bottle - 2h Charged R2 #2 [2]
+200010941 [Default] Perfume Bottle - 2h Charged R2 #2 [4]
+200010942 [Default] Perfume Bottle - 2h Charged R2 #2 [6]
+200010943 [Default] Perfume Bottle - 2h Charged R2 #2 [8]
+200010944 [Default] Perfume Bottle - 2h Charged R2 #2 [10]
+200010945 [Default] Perfume Bottle - 2h Charged R2 #2 [12]
+200010946 [Default] Perfume Bottle - 2h Charged R2 #2 [14]
+200010947 [Default] Perfume Bottle - 2h Charged R2 #2 [16]
+200010948 [Default] Perfume Bottle - 2h Charged R2 #2 [18]
+200010949 [Default] Perfume Bottle - 2h Charged R2 #2 [20]
+200010950 [Default] Perfume Bottle - 2h Charged R2 #2 [1]
+200010951 [Default] Perfume Bottle - 2h Charged R2 #2 [3]
+200010952 [Default] Perfume Bottle - 2h Charged R2 #2 [5]
+200010953 [Default] Perfume Bottle - 2h Charged R2 #2 [7]
+200010954 [Default] Perfume Bottle - 2h Charged R2 #2 [9]
+200010955 [Default] Perfume Bottle - 2h Charged R2 #2 [11]
+200010956 [Default] Perfume Bottle - 2h Charged R2 #2 [13]
+200010957 [Default] Perfume Bottle - 2h Charged R2 #2 [15]
+200010958 [Default] Perfume Bottle - 2h Charged R2 #2 [17]
+200010959 [Default] Perfume Bottle - 2h Charged R2 #2 [19]
+200010960 [Default] Perfume Bottle - 2h Running R2 [1]
+200010961 [Default] Perfume Bottle - 2h Running R2 [3]
+200010962 [Default] Perfume Bottle - 2h Running R2 [5]
+200010963 [Default] Perfume Bottle - 2h Running R2 [7]
+200010964 [Default] Perfume Bottle - 2h Running R2 [9]
+200010965 [Default] Perfume Bottle - 2h Running R2 [2]
+200010966 [Default] Perfume Bottle - 2h Running R2 [4]
+200010967 [Default] Perfume Bottle - 2h Running R2 [6]
+200010968 [Default] Perfume Bottle - 2h Running R2 [8]
+200010969 [Default] Perfume Bottle - 2h Running R2 [10]
+200010970 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200010971 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200010972 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200010973 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200010975 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200010976 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200010977 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200010978 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200010980 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200010981 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200010982 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200010983 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200010985 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200010986 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200010987 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200010988 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200011000 [Default] Perfume Bottle - 1h R1 #1 [Hit]
+200011010 [Default] Perfume Bottle - 1h R1 #2 [Hit]
+200011020 [Default] Perfume Bottle - 1h R1 #3 [Hit]
+200011030 [Default] Perfume Bottle - 1h R1 #4 [Hit]
+200011100 [Default] Perfume Bottle - 1h R2 #1 [Hit]
+200011105 [Default] Perfume Bottle - 1h Charged R2 #1 [Hit]
+200011110 [Default] Perfume Bottle - 1h R2 #2 [Hit]
+200011115 [Default] Perfume Bottle - 1h Charged R2 #2 [Hit]
+200011120 [Default] Perfume Bottle - 1h Running R1 [Hit]
+200011125 [Default] Perfume Bottle - 1h Running R2 [Hit]
+200011130 [Default] Perfume Bottle - 1h Rolling R1 [Hit]
+200011140 [Default] Perfume Bottle - 1h Backstep R1 [Hit]
+200011150 [Default] Perfume Bottle - 1h Jumping R1 [Hit]
+200011160 [Default] Perfume Bottle - 1h Jumping R2 [Hit]
+200011167 [Default] Perfume Bottle - 1h Charged R2 #1 Feint [Hit]
+200011173 [Default] Perfume Bottle - 1h Charged R2 #2 Feint [Hit]
+200011180 [Default] Perfume Bottle - 1h Guard Counter [Hit]
+200011200 [Default] Perfume Bottle - 2h R1 #1 [Hit]
+200011203 [Default] Perfume Bottle - 2h R1 #1 [Hit]
+200011210 [Default] Perfume Bottle - 2h R1 #2 [Hit]
+200011213 [Default] Perfume Bottle - 2h R1 #2 [Hit]
+200011220 [Default] Perfume Bottle - 2h R1 #3 [Hit]
+200011223 [Default] Perfume Bottle - 2h R1 #3 [Hit]
+200011230 [Default] Perfume Bottle - 2h R1 #4 [Hit]
+200011233 [Default] Perfume Bottle - 2h R1 #4 [Hit]
+200011300 [Default] Perfume Bottle - 2h R2 #1 [Hit]
+200011303 [Default] Perfume Bottle - 2h R2 #1 [Hit]
+200011305 [Default] Perfume Bottle - 2h Charged R2 #1 [Hit]
+200011308 [Default] Perfume Bottle - 2h Charged R2 #1 [Hit]
+200011310 [Default] Perfume Bottle - 2h R2 #2 [Hit]
+200011313 [Default] Perfume Bottle - 2h R2 #2 [Hit]
+200011315 [Default] Perfume Bottle - 2h Charged R2 #2 [Hit]
+200011318 [Default] Perfume Bottle - 2h Charged R2 #2 [Hit]
+200011320 [Default] Perfume Bottle - 2h Running R1 [Hit]
+200011323 [Default] Perfume Bottle - 2h Running R1 [Hit]
+200011325 [Default] Perfume Bottle - 2h Running R2 [Hit]
+200011326 [Default] Perfume Bottle - 2h Running R2 [Hit]
+200011328 [Default] Perfume Bottle - 2h Running R2 [Hit]
+200011329 [Default] Perfume Bottle - 2h Running R2 [Hit]
+200011330 [Default] Perfume Bottle - 2h Rolling R1 [Hit]
+200011333 [Default] Perfume Bottle - 2h Rolling R1 [Hit]
+200011340 [Default] Perfume Bottle - 2h Backstep R1 [Hit]
+200011343 [Default] Perfume Bottle - 2h Backstep R1 [Hit]
+200011350 [Default] Perfume Bottle - 2h Jumping R1 [Hit]
+200011353 [Default] Perfume Bottle - 2h Jumping R1 [Hit]
+200011360 [Default] Perfume Bottle - 2h Jumping R2 [Hit]
+200011363 [Default] Perfume Bottle - 2h Jumping R2 [Hit]
+200011400 [Default] Perfume Bottle - Offhand R1 #1 [Hit]
+200011410 [Default] Perfume Bottle - Offhand R1 #2 [Hit]
+200011420 [Default] Perfume Bottle - Offhand R1 #3 [Hit]
+200011430 [Default] Perfume Bottle - Offhand R1 #4 [Hit]
+200011800 [Default] Perfume Bottle - Paired L1 #1 (Right) [Hit]
+200011803 [Default] Perfume Bottle - Paired L1 #1 (Left) [Hit]
+200011810 [Default] Perfume Bottle - Paired L1 #2 (Right) [Hit]
+200011813 [Default] Perfume Bottle - Paired L1 #2 (Left) [Hit]
+200011820 [Default] Perfume Bottle - Paired L1 #3 (Right) [Hit]
+200011823 [Default] Perfume Bottle - Paired L1 #3 (Left) [Hit]
+200011830 [Default] Perfume Bottle - Paired L1 #4 (Right) [Hit]
+200011833 [Default] Perfume Bottle - Paired L1 #4 (Left) [Hit]
+200011860 [Default] Perfume Bottle - Paired Running L1 (Right) [Hit]
+200011863 [Default] Perfume Bottle - Paired Running L1 (Left) [Hit]
+200011870 [Default] Perfume Bottle - Paired Rolling L1 (Right) [Hit]
+200011873 [Default] Perfume Bottle - Paired Rolling L1 (Left) [Hit]
+200011880 [Default] Perfume Bottle - Paired Backstep L1 (Right) [Hit]
+200011883 [Default] Perfume Bottle - Paired Backstep L1 (Left) [Hit]
+200011890 [Default] Perfume Bottle - Paired Jumping L1 (Right) [Hit]
+200011893 [Default] Perfume Bottle - Paired Jumping L1 (Left) [Hit]
+200011970 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200011975 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200011980 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200011985 [Default] Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200012000 Chilling Perfume Bottle - 1h R1 #1 [1]
+200012001 Chilling Perfume Bottle - 1h R1 #1 [2]
+200012002 Chilling Perfume Bottle - 1h R1 #1 [3]
+200012003 Chilling Perfume Bottle - 1h R1 #1 [4]
+200012004 Chilling Perfume Bottle - 1h R1 #1 [5]
+200012005 Chilling Perfume Bottle - 1h R1 #1 [6]
+200012010 Chilling Perfume Bottle - 1h R1 #2 [1]
+200012011 Chilling Perfume Bottle - 1h R1 #2 [2]
+200012012 Chilling Perfume Bottle - 1h R1 #2 [3]
+200012013 Chilling Perfume Bottle - 1h R1 #2 [4]
+200012014 Chilling Perfume Bottle - 1h R1 #2 [5]
+200012015 Chilling Perfume Bottle - 1h R1 #2 [6]
+200012020 Chilling Perfume Bottle - 1h R1 #3 [1]
+200012021 Chilling Perfume Bottle - 1h R1 #3 [2]
+200012022 Chilling Perfume Bottle - 1h R1 #3 [3]
+200012023 Chilling Perfume Bottle - 1h R1 #3 [4]
+200012024 Chilling Perfume Bottle - 1h R1 #3 [5]
+200012025 Chilling Perfume Bottle - 1h R1 #3 [6]
+200012030 Chilling Perfume Bottle - 1h R1 #4 [1]
+200012031 Chilling Perfume Bottle - 1h R1 #4 [2]
+200012032 Chilling Perfume Bottle - 1h R1 #4 [3]
+200012033 Chilling Perfume Bottle - 1h R1 #4 [4]
+200012034 Chilling Perfume Bottle - 1h R1 #4 [5]
+200012035 Chilling Perfume Bottle - 1h R1 #4 [6]
+200012100 Chilling Perfume Bottle - 1h R2 #1 [1]
+200012101 Chilling Perfume Bottle - 1h R2 #1 [2]
+200012102 Chilling Perfume Bottle - 1h R2 #1 [3]
+200012103 Chilling Perfume Bottle - 1h R2 #1 [4]
+200012105 Chilling Perfume Bottle - 1h Charged R2 #1 [1]
+200012106 Chilling Perfume Bottle - 1h Charged R2 #1 [3]
+200012107 Chilling Perfume Bottle - 1h Charged R2 #1 [5]
+200012108 Chilling Perfume Bottle - 1h Charged R2 #1 [7]
+200012109 Chilling Perfume Bottle - 1h Charged R2 #1 [9]
+200012110 Chilling Perfume Bottle - 1h R2 #2 [1]
+200012111 Chilling Perfume Bottle - 1h R2 #2 [2]
+200012112 Chilling Perfume Bottle - 1h R2 #2 [3]
+200012113 Chilling Perfume Bottle - 1h R2 #2 [4]
+200012114 Chilling Perfume Bottle - 1h R2 #2 [5]
+200012115 Chilling Perfume Bottle - 1h Charged R2 #2 [1]
+200012116 Chilling Perfume Bottle - 1h Charged R2 #2 [3]
+200012117 Chilling Perfume Bottle - 1h Charged R2 #2 [5]
+200012118 Chilling Perfume Bottle - 1h Charged R2 #2 [7]
+200012119 Chilling Perfume Bottle - 1h Charged R2 #2 [9]
+200012120 Chilling Perfume Bottle - 1h Running R1 [1]
+200012121 Chilling Perfume Bottle - 1h Running R1 [2]
+200012122 Chilling Perfume Bottle - 1h Running R1 [3]
+200012123 Chilling Perfume Bottle - 1h Running R1 [4]
+200012124 Chilling Perfume Bottle - 1h Running R1 [5]
+200012125 Chilling Perfume Bottle - 1h Running R2 [1]
+200012127 Chilling Perfume Bottle - 1h Running R2 [2]
+200012128 Chilling Perfume Bottle - 1h Running R2 [3]
+200012130 Chilling Perfume Bottle - 1h Rolling R1 [1]
+200012131 Chilling Perfume Bottle - 1h Rolling R1 [2]
+200012132 Chilling Perfume Bottle - 1h Rolling R1 [3]
+200012133 Chilling Perfume Bottle - 1h Rolling R1 [4]
+200012134 Chilling Perfume Bottle - 1h Rolling R1 [5]
+200012140 Chilling Perfume Bottle - 1h Backstep R1 [1]
+200012141 Chilling Perfume Bottle - 1h Backstep R1 [2]
+200012142 Chilling Perfume Bottle - 1h Backstep R1 [3]
+200012143 Chilling Perfume Bottle - 1h Backstep R1 [4]
+200012144 Chilling Perfume Bottle - 1h Backstep R1 [5]
+200012150 Chilling Perfume Bottle - 1h Jumping R1 [1]
+200012151 Chilling Perfume Bottle - 1h Jumping R1 [2]
+200012152 Chilling Perfume Bottle - 1h Jumping R1 [3]
+200012153 Chilling Perfume Bottle - 1h Jumping R1 [4]
+200012154 Chilling Perfume Bottle - 1h Jumping R1 [5]
+200012160 Chilling Perfume Bottle - 1h Jumping R2 [1]
+200012161 Chilling Perfume Bottle - 1h Jumping R2 [2]
+200012162 Chilling Perfume Bottle - 1h Jumping R2 [3]
+200012163 Chilling Perfume Bottle - 1h Jumping R2 [4]
+200012164 Chilling Perfume Bottle - 1h Jumping R2 [5]
+200012167 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [1]
+200012168 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [2]
+200012169 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [3]
+200012170 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [4]
+200012171 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [5]
+200012172 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [6]
+200012173 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [1]
+200012174 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [2]
+200012175 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [3]
+200012176 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [4]
+200012177 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [5]
+200012178 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [6]
+200012180 Chilling Perfume Bottle - 1h Guard Counter [1]
+200012181 Chilling Perfume Bottle - 1h Guard Counter [2]
+200012182 Chilling Perfume Bottle - 1h Guard Counter [3]
+200012183 Chilling Perfume Bottle - 1h Guard Counter [4]
+200012184 Chilling Perfume Bottle - 1h Guard Counter [5]
+200012200 Chilling Perfume Bottle - 2h R1 #1 [1]
+200012201 Chilling Perfume Bottle - 2h R1 #1 [2]
+200012202 Chilling Perfume Bottle - 2h R1 #1 [3]
+200012203 Chilling Perfume Bottle - 2h R1 #1 [4]
+200012204 Chilling Perfume Bottle - 2h R1 #1 [5]
+200012205 Chilling Perfume Bottle - 2h R1 #1 [6]
+200012206 Chilling Perfume Bottle - 2h R1 #1 [7]
+200012207 Chilling Perfume Bottle - 2h R1 #1 [8]
+200012208 Chilling Perfume Bottle - 2h R1 #1 [9]
+200012209 Chilling Perfume Bottle - 2h R1 #1 [10]
+200012210 Chilling Perfume Bottle - 2h R1 #2 [1]
+200012211 Chilling Perfume Bottle - 2h R1 #2 [2]
+200012212 Chilling Perfume Bottle - 2h R1 #2 [3]
+200012213 Chilling Perfume Bottle - 2h R1 #2 [4]
+200012214 Chilling Perfume Bottle - 2h R1 #2 [5]
+200012215 Chilling Perfume Bottle - 2h R1 #2 [6]
+200012216 Chilling Perfume Bottle - 2h R1 #2 [7]
+200012217 Chilling Perfume Bottle - 2h R1 #2 [8]
+200012218 Chilling Perfume Bottle - 2h R1 #2 [9]
+200012219 Chilling Perfume Bottle - 2h R1 #2 [10]
+200012220 Chilling Perfume Bottle - 2h R1 #3 [1]
+200012221 Chilling Perfume Bottle - 2h R1 #3 [2]
+200012222 Chilling Perfume Bottle - 2h R1 #3 [3]
+200012223 Chilling Perfume Bottle - 2h R1 #3 [4]
+200012224 Chilling Perfume Bottle - 2h R1 #3 [5]
+200012225 Chilling Perfume Bottle - 2h R1 #3 [6]
+200012226 Chilling Perfume Bottle - 2h R1 #3 [7]
+200012227 Chilling Perfume Bottle - 2h R1 #3 [8]
+200012228 Chilling Perfume Bottle - 2h R1 #3 [9]
+200012229 Chilling Perfume Bottle - 2h R1 #3 [10]
+200012230 Chilling Perfume Bottle - 2h R1 #4 [1]
+200012231 Chilling Perfume Bottle - 2h R1 #4 [2]
+200012232 Chilling Perfume Bottle - 2h R1 #4 [3]
+200012233 Chilling Perfume Bottle - 2h R1 #4 [4]
+200012234 Chilling Perfume Bottle - 2h R1 #4 [5]
+200012235 Chilling Perfume Bottle - 2h R1 #4 [6]
+200012236 Chilling Perfume Bottle - 2h R1 #4 [7]
+200012237 Chilling Perfume Bottle - 2h R1 #4 [8]
+200012238 Chilling Perfume Bottle - 2h R1 #4 [9]
+200012239 Chilling Perfume Bottle - 2h R1 #4 [10]
+200012300 Chilling Perfume Bottle - 2h R2 #1 [1]
+200012301 Chilling Perfume Bottle - 2h R2 #1 [2]
+200012302 Chilling Perfume Bottle - 2h R2 #1 [4]
+200012303 Chilling Perfume Bottle - 2h R2 #1 [6]
+200012305 Chilling Perfume Bottle - 2h R2 #1 [3]
+200012306 Chilling Perfume Bottle - 2h R2 #1 [5]
+200012307 Chilling Perfume Bottle - 2h R2 #1 [7]
+200012308 Chilling Perfume Bottle - 2h R2 #1 [8]
+200012310 Chilling Perfume Bottle - 2h R2 #2 [1]
+200012311 Chilling Perfume Bottle - 2h R2 #2 [2]
+200012312 Chilling Perfume Bottle - 2h R2 #2 [4]
+200012313 Chilling Perfume Bottle - 2h R2 #2 [6]
+200012314 Chilling Perfume Bottle - 2h R2 #2 [3]
+200012315 Chilling Perfume Bottle - 2h R2 #2 [5]
+200012316 Chilling Perfume Bottle - 2h R2 #2 [7]
+200012317 Chilling Perfume Bottle - 2h R2 #2 [8]
+200012318 Chilling Perfume Bottle - 2h R2 #2 [9]
+200012319 Chilling Perfume Bottle - 2h R2 #2 [10]
+200012320 Chilling Perfume Bottle - 2h Running R1 [1]
+200012321 Chilling Perfume Bottle - 2h Running R1 [2]
+200012322 Chilling Perfume Bottle - 2h Running R1 [3]
+200012323 Chilling Perfume Bottle - 2h Running R1 [4]
+200012324 Chilling Perfume Bottle - 2h Running R1 [5]
+200012325 Chilling Perfume Bottle - 2h Running R1 [6]
+200012326 Chilling Perfume Bottle - 2h Running R1 [7]
+200012327 Chilling Perfume Bottle - 2h Running R1 [8]
+200012328 Chilling Perfume Bottle - 2h Running R1 [9]
+200012329 Chilling Perfume Bottle - 2h Running R1 [10]
+200012330 Chilling Perfume Bottle - 2h Rolling R1 [1]
+200012331 Chilling Perfume Bottle - 2h Rolling R1 [3]
+200012332 Chilling Perfume Bottle - 2h Rolling R1 [5]
+200012333 Chilling Perfume Bottle - 2h Rolling R1 [7]
+200012334 Chilling Perfume Bottle - 2h Rolling R1 [9]
+200012335 Chilling Perfume Bottle - 2h Rolling R1 [2]
+200012336 Chilling Perfume Bottle - 2h Rolling R1 [4]
+200012337 Chilling Perfume Bottle - 2h Rolling R1 [6]
+200012338 Chilling Perfume Bottle - 2h Rolling R1 [8]
+200012339 Chilling Perfume Bottle - 2h Rolling R1 [10]
+200012340 Chilling Perfume Bottle - 2h Backstep R1 [1]
+200012341 Chilling Perfume Bottle - 2h Backstep R1 [3]
+200012342 Chilling Perfume Bottle - 2h Backstep R1 [5]
+200012343 Chilling Perfume Bottle - 2h Backstep R1 [7]
+200012344 Chilling Perfume Bottle - 2h Backstep R1 [9]
+200012345 Chilling Perfume Bottle - 2h Backstep R1 [2]
+200012346 Chilling Perfume Bottle - 2h Backstep R1 [4]
+200012347 Chilling Perfume Bottle - 2h Backstep R1 [6]
+200012348 Chilling Perfume Bottle - 2h Backstep R1 [8]
+200012349 Chilling Perfume Bottle - 2h Backstep R1 [10]
+200012350 Chilling Perfume Bottle - 2h Jumping R1 [1]
+200012351 Chilling Perfume Bottle - 2h Jumping R1 [3]
+200012352 Chilling Perfume Bottle - 2h Jumping R1 [5]
+200012353 Chilling Perfume Bottle - 2h Jumping R1 [7]
+200012354 Chilling Perfume Bottle - 2h Jumping R1 [9]
+200012355 Chilling Perfume Bottle - 2h Jumping R1 [2]
+200012356 Chilling Perfume Bottle - 2h Jumping R1 [4]
+200012357 Chilling Perfume Bottle - 2h Jumping R1 [6]
+200012358 Chilling Perfume Bottle - 2h Jumping R1 [8]
+200012359 Chilling Perfume Bottle - 2h Jumping R1 [10]
+200012360 Chilling Perfume Bottle - 2h Jumping R2 [1]
+200012361 Chilling Perfume Bottle - 2h Jumping R2 [3]
+200012362 Chilling Perfume Bottle - 2h Jumping R2 [5]
+200012363 Chilling Perfume Bottle - 2h Jumping R2 [7]
+200012364 Chilling Perfume Bottle - 2h Jumping R2 [9]
+200012365 Chilling Perfume Bottle - 2h Jumping R2 [2]
+200012366 Chilling Perfume Bottle - 2h Jumping R2 [4]
+200012367 Chilling Perfume Bottle - 2h Jumping R2 [6]
+200012368 Chilling Perfume Bottle - 2h Jumping R2 [8]
+200012369 Chilling Perfume Bottle - 2h Jumping R2 [10]
+200012400 Chilling Perfume Bottle - Offhand R1 #1 [1]
+200012401 Chilling Perfume Bottle - Offhand R1 #1 [2]
+200012402 Chilling Perfume Bottle - Offhand R1 #1 [3]
+200012403 Chilling Perfume Bottle - Offhand R1 #1 [4]
+200012404 Chilling Perfume Bottle - Offhand R1 #1 [5]
+200012405 Chilling Perfume Bottle - Offhand R1 #1 [6]
+200012410 Chilling Perfume Bottle - Offhand R1 #2 [1]
+200012411 Chilling Perfume Bottle - Offhand R1 #2 [2]
+200012412 Chilling Perfume Bottle - Offhand R1 #2 [3]
+200012413 Chilling Perfume Bottle - Offhand R1 #2 [4]
+200012414 Chilling Perfume Bottle - Offhand R1 #2 [5]
+200012415 Chilling Perfume Bottle - Offhand R1 #2 [6]
+200012420 Chilling Perfume Bottle - Offhand R1 #3 [1]
+200012421 Chilling Perfume Bottle - Offhand R1 #3 [2]
+200012422 Chilling Perfume Bottle - Offhand R1 #3 [3]
+200012423 Chilling Perfume Bottle - Offhand R1 #3 [4]
+200012424 Chilling Perfume Bottle - Offhand R1 #3 [5]
+200012425 Chilling Perfume Bottle - Offhand R1 #3 [6]
+200012430 Chilling Perfume Bottle - Offhand R1 #4 [1]
+200012431 Chilling Perfume Bottle - Offhand R1 #4 [2]
+200012432 Chilling Perfume Bottle - Offhand R1 #4 [3]
+200012433 Chilling Perfume Bottle - Offhand R1 #4 [4]
+200012434 Chilling Perfume Bottle - Offhand R1 #4 [5]
+200012435 Chilling Perfume Bottle - Offhand R1 #4 [6]
+200012800 Chilling Perfume Bottle - Paired L1 #1 [1] (Right)
+200012801 Chilling Perfume Bottle - Paired L1 #1 [3] (Right)
+200012802 Chilling Perfume Bottle - Paired L1 #1 [5] (Right)
+200012803 Chilling Perfume Bottle - Paired L1 #1 [7] (Right)
+200012804 Chilling Perfume Bottle - Paired L1 #1 [9] (Right)
+200012805 Chilling Perfume Bottle - Paired L1 #1 [2] (Left)
+200012806 Chilling Perfume Bottle - Paired L1 #1 [4] (Left)
+200012807 Chilling Perfume Bottle - Paired L1 #1 [6] (Left)
+200012808 Chilling Perfume Bottle - Paired L1 #1 [8] (Left)
+200012809 Chilling Perfume Bottle - Paired L1 #1 [10] (Left)
+200012810 Chilling Perfume Bottle - Paired L1 #2 [1] (Right)
+200012811 Chilling Perfume Bottle - Paired L1 #2 [3] (Right)
+200012812 Chilling Perfume Bottle - Paired L1 #2 [5] (Right)
+200012813 Chilling Perfume Bottle - Paired L1 #2 [7] (Right)
+200012814 Chilling Perfume Bottle - Paired L1 #2 [9] (Right)
+200012815 Chilling Perfume Bottle - Paired L1 #2 [2] (Left)
+200012816 Chilling Perfume Bottle - Paired L1 #2 [4] (Left)
+200012817 Chilling Perfume Bottle - Paired L1 #2 [6] (Left)
+200012818 Chilling Perfume Bottle - Paired L1 #2 [8] (Left)
+200012819 Chilling Perfume Bottle - Paired L1 #2 [10] (Left)
+200012820 Chilling Perfume Bottle - Paired L1 #3 [1] (Right)
+200012821 Chilling Perfume Bottle - Paired L1 #3 [3] (Right)
+200012822 Chilling Perfume Bottle - Paired L1 #3 [5] (Right)
+200012823 Chilling Perfume Bottle - Paired L1 #3 [7] (Right)
+200012824 Chilling Perfume Bottle - Paired L1 #3 [9] (Right)
+200012825 Chilling Perfume Bottle - Paired L1 #3 [2] (Left)
+200012826 Chilling Perfume Bottle - Paired L1 #3 [4] (Left)
+200012827 Chilling Perfume Bottle - Paired L1 #3 [6] (Left)
+200012828 Chilling Perfume Bottle - Paired L1 #3 [8] (Left)
+200012829 Chilling Perfume Bottle - Paired L1 #3 [10] (Left)
+200012830 Chilling Perfume Bottle - Paired L1 #4 [1] (Right)
+200012831 Chilling Perfume Bottle - Paired L1 #4 [3] (Right)
+200012832 Chilling Perfume Bottle - Paired L1 #4 [5] (Right)
+200012833 Chilling Perfume Bottle - Paired L1 #4 [7] (Right)
+200012834 Chilling Perfume Bottle - Paired L1 #4 [9] (Right)
+200012835 Chilling Perfume Bottle - Paired L1 #4 [2] (Left)
+200012836 Chilling Perfume Bottle - Paired L1 #4 [4] (Left)
+200012837 Chilling Perfume Bottle - Paired L1 #4 [6] (Left)
+200012838 Chilling Perfume Bottle - Paired L1 #4 [8] (Left)
+200012839 Chilling Perfume Bottle - Paired L1 #4 [10] (Left)
+200012860 Chilling Perfume Bottle - Paired Running L1 [1] (Right)
+200012861 Chilling Perfume Bottle - Paired Running L1 [2] (Right)
+200012862 Chilling Perfume Bottle - Paired Running L1 [4] (Right)
+200012863 Chilling Perfume Bottle - Paired Running L1 [6] (Right)
+200012864 Chilling Perfume Bottle - Paired Running L1 [8] (Right)
+200012865 Chilling Perfume Bottle - Paired Running L1 [3] (Left)
+200012866 Chilling Perfume Bottle - Paired Running L1 [5] (Left)
+200012867 Chilling Perfume Bottle - Paired Running L1 [7] (Left)
+200012868 Chilling Perfume Bottle - Paired Running L1 [9] (Left)
+200012869 Chilling Perfume Bottle - Paired Running L1 [10] (Left)
+200012870 Chilling Perfume Bottle - Paired Rolling L1 [1] (Right)
+200012871 Chilling Perfume Bottle - Paired Rolling L1 [3] (Right)
+200012872 Chilling Perfume Bottle - Paired Rolling L1 [5] (Right)
+200012873 Chilling Perfume Bottle - Paired Rolling L1 [7] (Right)
+200012874 Chilling Perfume Bottle - Paired Rolling L1 [9] (Right)
+200012875 Chilling Perfume Bottle - Paired Rolling L1 [2] (Left)
+200012876 Chilling Perfume Bottle - Paired Rolling L1 [4] (Left)
+200012877 Chilling Perfume Bottle - Paired Rolling L1 [6] (Left)
+200012878 Chilling Perfume Bottle - Paired Rolling L1 [8] (Left)
+200012879 Chilling Perfume Bottle - Paired Rolling L1 [10] (Left)
+200012880 Chilling Perfume Bottle - Paired Backstep L1 [1] (Right)
+200012881 Chilling Perfume Bottle - Paired Backstep L1 [3] (Right)
+200012882 Chilling Perfume Bottle - Paired Backstep L1 [5] (Right)
+200012883 Chilling Perfume Bottle - Paired Backstep L1 [7] (Right)
+200012884 Chilling Perfume Bottle - Paired Backstep L1 [9] (Right)
+200012885 Chilling Perfume Bottle - Paired Backstep L1 [2] (Left)
+200012886 Chilling Perfume Bottle - Paired Backstep L1 [4] (Left)
+200012887 Chilling Perfume Bottle - Paired Backstep L1 [6] (Left)
+200012888 Chilling Perfume Bottle - Paired Backstep L1 [8] (Left)
+200012889 Chilling Perfume Bottle - Paired Backstep L1 [10] (Left)
+200012890 Chilling Perfume Bottle - Paired Jumping L1 [1] (Right)
+200012891 Chilling Perfume Bottle - Paired Jumping L1 [3] (Right)
+200012892 Chilling Perfume Bottle - Paired Jumping L1 [5] (Right)
+200012893 Chilling Perfume Bottle - Paired Jumping L1 [7] (Right)
+200012894 Chilling Perfume Bottle - Paired Jumping L1 [9] (Right)
+200012895 Chilling Perfume Bottle - Paired Jumping L1 [2] (Left)
+200012896 Chilling Perfume Bottle - Paired Jumping L1 [4] (Left)
+200012897 Chilling Perfume Bottle - Paired Jumping L1 [6] (Left)
+200012898 Chilling Perfume Bottle - Paired Jumping L1 [8] (Left)
+200012899 Chilling Perfume Bottle - Paired Jumping L1 [10] (Left)
+200012900 Chilling Perfume Bottle - 1h Charged R2 #1 [2]
+200012902 Chilling Perfume Bottle - 1h Charged R2 #1 [4]
+200012904 Chilling Perfume Bottle - 1h Charged R2 #1 [6]
+200012906 Chilling Perfume Bottle - 1h Charged R2 #1 [8]
+200012908 Chilling Perfume Bottle - 1h Charged R2 #1 [10]
+200012910 Chilling Perfume Bottle - 1h Charged R2 #2 [2]
+200012912 Chilling Perfume Bottle - 1h Charged R2 #2 [4]
+200012914 Chilling Perfume Bottle - 1h Charged R2 #2 [6]
+200012916 Chilling Perfume Bottle - 1h Charged R2 #2 [8]
+200012918 Chilling Perfume Bottle - 1h Charged R2 #2 [10]
+200012920 Chilling Perfume Bottle - 2h Charged R2 #1 [1]
+200012921 Chilling Perfume Bottle - 2h Charged R2 #1 [3]
+200012922 Chilling Perfume Bottle - 2h Charged R2 #1 [5]
+200012923 Chilling Perfume Bottle - 2h Charged R2 #1 [7]
+200012924 Chilling Perfume Bottle - 2h Charged R2 #1 [9]
+200012925 Chilling Perfume Bottle - 2h Charged R2 #1 [11]
+200012926 Chilling Perfume Bottle - 2h Charged R2 #1 [13]
+200012927 Chilling Perfume Bottle - 2h Charged R2 #1 [15]
+200012928 Chilling Perfume Bottle - 2h Charged R2 #1 [17]
+200012929 Chilling Perfume Bottle - 2h Charged R2 #1 [19]
+200012930 Chilling Perfume Bottle - 2h Charged R2 #1 [2]
+200012931 Chilling Perfume Bottle - 2h Charged R2 #1 [4]
+200012932 Chilling Perfume Bottle - 2h Charged R2 #1 [6]
+200012933 Chilling Perfume Bottle - 2h Charged R2 #1 [8]
+200012934 Chilling Perfume Bottle - 2h Charged R2 #1 [10]
+200012935 Chilling Perfume Bottle - 2h Charged R2 #1 [12]
+200012936 Chilling Perfume Bottle - 2h Charged R2 #1 [14]
+200012937 Chilling Perfume Bottle - 2h Charged R2 #1 [16]
+200012938 Chilling Perfume Bottle - 2h Charged R2 #1 [18]
+200012939 Chilling Perfume Bottle - 2h Charged R2 #1 [20]
+200012940 Chilling Perfume Bottle - 2h Charged R2 #2 [2]
+200012941 Chilling Perfume Bottle - 2h Charged R2 #2 [4]
+200012942 Chilling Perfume Bottle - 2h Charged R2 #2 [6]
+200012943 Chilling Perfume Bottle - 2h Charged R2 #2 [8]
+200012944 Chilling Perfume Bottle - 2h Charged R2 #2 [10]
+200012945 Chilling Perfume Bottle - 2h Charged R2 #2 [12]
+200012946 Chilling Perfume Bottle - 2h Charged R2 #2 [14]
+200012947 Chilling Perfume Bottle - 2h Charged R2 #2 [16]
+200012948 Chilling Perfume Bottle - 2h Charged R2 #2 [18]
+200012949 Chilling Perfume Bottle - 2h Charged R2 #2 [20]
+200012950 Chilling Perfume Bottle - 2h Charged R2 #2 [1]
+200012951 Chilling Perfume Bottle - 2h Charged R2 #2 [3]
+200012952 Chilling Perfume Bottle - 2h Charged R2 #2 [5]
+200012953 Chilling Perfume Bottle - 2h Charged R2 #2 [7]
+200012954 Chilling Perfume Bottle - 2h Charged R2 #2 [9]
+200012955 Chilling Perfume Bottle - 2h Charged R2 #2 [11]
+200012956 Chilling Perfume Bottle - 2h Charged R2 #2 [13]
+200012957 Chilling Perfume Bottle - 2h Charged R2 #2 [15]
+200012958 Chilling Perfume Bottle - 2h Charged R2 #2 [17]
+200012959 Chilling Perfume Bottle - 2h Charged R2 #2 [19]
+200012960 Chilling Perfume Bottle - 2h Running R2 [1]
+200012961 Chilling Perfume Bottle - 2h Running R2 [3]
+200012962 Chilling Perfume Bottle - 2h Running R2 [5]
+200012963 Chilling Perfume Bottle - 2h Running R2 [7]
+200012964 Chilling Perfume Bottle - 2h Running R2 [9]
+200012965 Chilling Perfume Bottle - 2h Running R2 [2]
+200012966 Chilling Perfume Bottle - 2h Running R2 [4]
+200012967 Chilling Perfume Bottle - 2h Running R2 [6]
+200012968 Chilling Perfume Bottle - 2h Running R2 [8]
+200012969 Chilling Perfume Bottle - 2h Running R2 [10]
+200012970 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200012971 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200012972 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200012973 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200012975 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200012976 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200012977 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200012978 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200012980 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200012981 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200012982 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200012983 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200012985 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200012986 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200012987 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200012988 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200013000 Chilling Perfume Bottle - 1h R1 #1 [Hit]
+200013010 Chilling Perfume Bottle - 1h R1 #2 [Hit]
+200013020 Chilling Perfume Bottle - 1h R1 #3 [Hit]
+200013030 Chilling Perfume Bottle - 1h R1 #4 [Hit]
+200013100 Chilling Perfume Bottle - 1h R2 #1 [Hit]
+200013105 Chilling Perfume Bottle - 1h Charged R2 #1 [Hit]
+200013110 Chilling Perfume Bottle - 1h R2 #2 [Hit]
+200013115 Chilling Perfume Bottle - 1h Charged R2 #2 [Hit]
+200013120 Chilling Perfume Bottle - 1h Running R1 [Hit]
+200013125 Chilling Perfume Bottle - 1h Running R2 [Hit]
+200013130 Chilling Perfume Bottle - 1h Rolling R1 [Hit]
+200013140 Chilling Perfume Bottle - 1h Backstep R1 [Hit]
+200013150 Chilling Perfume Bottle - 1h Jumping R1 [Hit]
+200013160 Chilling Perfume Bottle - 1h Jumping R2 [Hit]
+200013167 Chilling Perfume Bottle - 1h Charged R2 #1 Feint [Hit]
+200013173 Chilling Perfume Bottle - 1h Charged R2 #2 Feint [Hit]
+200013180 Chilling Perfume Bottle - 1h Guard Counter [Hit]
+200013200 Chilling Perfume Bottle - 2h R1 #1 [Hit]
+200013203 Chilling Perfume Bottle - 2h R1 #1 [Hit]
+200013210 Chilling Perfume Bottle - 2h R1 #2 [Hit]
+200013213 Chilling Perfume Bottle - 2h R1 #2 [Hit]
+200013220 Chilling Perfume Bottle - 2h R1 #3 [Hit]
+200013223 Chilling Perfume Bottle - 2h R1 #3 [Hit]
+200013230 Chilling Perfume Bottle - 2h R1 #4 [Hit]
+200013233 Chilling Perfume Bottle - 2h R1 #4 [Hit]
+200013300 Chilling Perfume Bottle - 2h R2 #1 [Hit]
+200013303 Chilling Perfume Bottle - 2h R2 #1 [Hit]
+200013305 Chilling Perfume Bottle - 2h Charged R2 #1 [Hit]
+200013308 Chilling Perfume Bottle - 2h Charged R2 #1 [Hit]
+200013310 Chilling Perfume Bottle - 2h R2 #2 [Hit]
+200013313 Chilling Perfume Bottle - 2h R2 #2 [Hit]
+200013315 Chilling Perfume Bottle - 2h Charged R2 #2 [Hit]
+200013318 Chilling Perfume Bottle - 2h Charged R2 #2 [Hit]
+200013320 Chilling Perfume Bottle - 2h Running R1 [Hit]
+200013323 Chilling Perfume Bottle - 2h Running R1 [Hit]
+200013325 Chilling Perfume Bottle - 2h Running R2 [Hit]
+200013326 Chilling Perfume Bottle - 2h Running R2 [Hit]
+200013328 Chilling Perfume Bottle - 2h Running R2 [Hit]
+200013329 Chilling Perfume Bottle - 2h Running R2 [Hit]
+200013330 Chilling Perfume Bottle - 2h Rolling R1 [Hit]
+200013333 Chilling Perfume Bottle - 2h Rolling R1 [Hit]
+200013340 Chilling Perfume Bottle - 2h Backstep R1 [Hit]
+200013343 Chilling Perfume Bottle - 2h Backstep R1 [Hit]
+200013350 Chilling Perfume Bottle - 2h Jumping R1 [Hit]
+200013353 Chilling Perfume Bottle - 2h Jumping R1 [Hit]
+200013360 Chilling Perfume Bottle - 2h Jumping R2 [Hit]
+200013363 Chilling Perfume Bottle - 2h Jumping R2 [Hit]
+200013400 Chilling Perfume Bottle - Offhand R1 #1 [Hit]
+200013410 Chilling Perfume Bottle - Offhand R1 #2 [Hit]
+200013420 Chilling Perfume Bottle - Offhand R1 #3 [Hit]
+200013430 Chilling Perfume Bottle - Offhand R1 #4 [Hit]
+200013800 Chilling Perfume Bottle - Paired L1 #1 (Right) [Hit]
+200013803 Chilling Perfume Bottle - Paired L1 #1 (Left) [Hit]
+200013810 Chilling Perfume Bottle - Paired L1 #2 (Right) [Hit]
+200013813 Chilling Perfume Bottle - Paired L1 #2 (Left) [Hit]
+200013820 Chilling Perfume Bottle - Paired L1 #3 (Right) [Hit]
+200013823 Chilling Perfume Bottle - Paired L1 #3 (Left) [Hit]
+200013830 Chilling Perfume Bottle - Paired L1 #4 (Right) [Hit]
+200013833 Chilling Perfume Bottle - Paired L1 #4 (Left) [Hit]
+200013860 Chilling Perfume Bottle - Paired Running L1 (Right) [Hit]
+200013863 Chilling Perfume Bottle - Paired Running L1 (Left) [Hit]
+200013870 Chilling Perfume Bottle - Paired Rolling L1 (Right) [Hit]
+200013873 Chilling Perfume Bottle - Paired Rolling L1 (Left) [Hit]
+200013880 Chilling Perfume Bottle - Paired Backstep L1 (Right) [Hit]
+200013883 Chilling Perfume Bottle - Paired Backstep L1 (Left) [Hit]
+200013890 Chilling Perfume Bottle - Paired Jumping L1 (Right) [Hit]
+200013893 Chilling Perfume Bottle - Paired Jumping L1 (Left) [Hit]
+200013970 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200013975 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200013980 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200013985 Chilling Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200014000 Frenzyflame Perfume Bottle - 1h R1 #1 [1]
+200014001 Frenzyflame Perfume Bottle - 1h R1 #1 [2]
+200014002 Frenzyflame Perfume Bottle - 1h R1 #1 [3]
+200014003 Frenzyflame Perfume Bottle - 1h R1 #1 [4]
+200014004 Frenzyflame Perfume Bottle - 1h R1 #1 [5]
+200014005 Frenzyflame Perfume Bottle - 1h R1 #1 [6]
+200014010 Frenzyflame Perfume Bottle - 1h R1 #2 [1]
+200014011 Frenzyflame Perfume Bottle - 1h R1 #2 [2]
+200014012 Frenzyflame Perfume Bottle - 1h R1 #2 [3]
+200014013 Frenzyflame Perfume Bottle - 1h R1 #2 [4]
+200014014 Frenzyflame Perfume Bottle - 1h R1 #2 [5]
+200014015 Frenzyflame Perfume Bottle - 1h R1 #2 [6]
+200014020 Frenzyflame Perfume Bottle - 1h R1 #3 [1]
+200014021 Frenzyflame Perfume Bottle - 1h R1 #3 [2]
+200014022 Frenzyflame Perfume Bottle - 1h R1 #3 [3]
+200014023 Frenzyflame Perfume Bottle - 1h R1 #3 [4]
+200014024 Frenzyflame Perfume Bottle - 1h R1 #3 [5]
+200014025 Frenzyflame Perfume Bottle - 1h R1 #3 [6]
+200014030 Frenzyflame Perfume Bottle - 1h R1 #4 [1]
+200014031 Frenzyflame Perfume Bottle - 1h R1 #4 [2]
+200014032 Frenzyflame Perfume Bottle - 1h R1 #4 [3]
+200014033 Frenzyflame Perfume Bottle - 1h R1 #4 [4]
+200014034 Frenzyflame Perfume Bottle - 1h R1 #4 [5]
+200014035 Frenzyflame Perfume Bottle - 1h R1 #4 [6]
+200014100 Frenzyflame Perfume Bottle - 1h R2 #1 [1]
+200014101 Frenzyflame Perfume Bottle - 1h R2 #1 [2]
+200014102 Frenzyflame Perfume Bottle - 1h R2 #1 [3]
+200014103 Frenzyflame Perfume Bottle - 1h R2 #1 [4]
+200014105 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [1]
+200014106 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [3]
+200014107 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [5]
+200014108 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [7]
+200014109 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [9]
+200014110 Frenzyflame Perfume Bottle - 1h R2 #2 [1]
+200014111 Frenzyflame Perfume Bottle - 1h R2 #2 [2]
+200014112 Frenzyflame Perfume Bottle - 1h R2 #2 [3]
+200014113 Frenzyflame Perfume Bottle - 1h R2 #2 [4]
+200014114 Frenzyflame Perfume Bottle - 1h R2 #2 [5]
+200014115 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [1]
+200014116 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [3]
+200014117 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [5]
+200014118 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [7]
+200014119 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [9]
+200014120 Frenzyflame Perfume Bottle - 1h Running R1 [1]
+200014121 Frenzyflame Perfume Bottle - 1h Running R1 [2]
+200014122 Frenzyflame Perfume Bottle - 1h Running R1 [3]
+200014123 Frenzyflame Perfume Bottle - 1h Running R1 [4]
+200014124 Frenzyflame Perfume Bottle - 1h Running R1 [5]
+200014125 Frenzyflame Perfume Bottle - 1h Running R2 [1]
+200014127 Frenzyflame Perfume Bottle - 1h Running R2 [2]
+200014128 Frenzyflame Perfume Bottle - 1h Running R2 [3]
+200014130 Frenzyflame Perfume Bottle - 1h Rolling R1 [1]
+200014131 Frenzyflame Perfume Bottle - 1h Rolling R1 [2]
+200014132 Frenzyflame Perfume Bottle - 1h Rolling R1 [3]
+200014133 Frenzyflame Perfume Bottle - 1h Rolling R1 [4]
+200014134 Frenzyflame Perfume Bottle - 1h Rolling R1 [5]
+200014140 Frenzyflame Perfume Bottle - 1h Backstep R1 [1]
+200014141 Frenzyflame Perfume Bottle - 1h Backstep R1 [2]
+200014142 Frenzyflame Perfume Bottle - 1h Backstep R1 [3]
+200014143 Frenzyflame Perfume Bottle - 1h Backstep R1 [4]
+200014144 Frenzyflame Perfume Bottle - 1h Backstep R1 [5]
+200014150 Frenzyflame Perfume Bottle - 1h Jumping R1 [1]
+200014151 Frenzyflame Perfume Bottle - 1h Jumping R1 [2]
+200014152 Frenzyflame Perfume Bottle - 1h Jumping R1 [3]
+200014153 Frenzyflame Perfume Bottle - 1h Jumping R1 [4]
+200014154 Frenzyflame Perfume Bottle - 1h Jumping R1 [5]
+200014160 Frenzyflame Perfume Bottle - 1h Jumping R2 [1]
+200014161 Frenzyflame Perfume Bottle - 1h Jumping R2 [2]
+200014162 Frenzyflame Perfume Bottle - 1h Jumping R2 [3]
+200014163 Frenzyflame Perfume Bottle - 1h Jumping R2 [4]
+200014164 Frenzyflame Perfume Bottle - 1h Jumping R2 [5]
+200014167 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [1]
+200014168 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [2]
+200014169 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [3]
+200014170 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [4]
+200014171 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [5]
+200014172 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [6]
+200014173 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [1]
+200014174 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [2]
+200014175 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [3]
+200014176 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [4]
+200014177 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [5]
+200014178 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [6]
+200014180 Frenzyflame Perfume Bottle - 1h Guard Counter [1]
+200014181 Frenzyflame Perfume Bottle - 1h Guard Counter [2]
+200014182 Frenzyflame Perfume Bottle - 1h Guard Counter [3]
+200014183 Frenzyflame Perfume Bottle - 1h Guard Counter [4]
+200014184 Frenzyflame Perfume Bottle - 1h Guard Counter [5]
+200014200 Frenzyflame Perfume Bottle - 2h R1 #1 [1]
+200014201 Frenzyflame Perfume Bottle - 2h R1 #1 [2]
+200014202 Frenzyflame Perfume Bottle - 2h R1 #1 [3]
+200014203 Frenzyflame Perfume Bottle - 2h R1 #1 [4]
+200014204 Frenzyflame Perfume Bottle - 2h R1 #1 [5]
+200014205 Frenzyflame Perfume Bottle - 2h R1 #1 [6]
+200014206 Frenzyflame Perfume Bottle - 2h R1 #1 [7]
+200014207 Frenzyflame Perfume Bottle - 2h R1 #1 [8]
+200014208 Frenzyflame Perfume Bottle - 2h R1 #1 [9]
+200014209 Frenzyflame Perfume Bottle - 2h R1 #1 [10]
+200014210 Frenzyflame Perfume Bottle - 2h R1 #2 [1]
+200014211 Frenzyflame Perfume Bottle - 2h R1 #2 [2]
+200014212 Frenzyflame Perfume Bottle - 2h R1 #2 [3]
+200014213 Frenzyflame Perfume Bottle - 2h R1 #2 [4]
+200014214 Frenzyflame Perfume Bottle - 2h R1 #2 [5]
+200014215 Frenzyflame Perfume Bottle - 2h R1 #2 [6]
+200014216 Frenzyflame Perfume Bottle - 2h R1 #2 [7]
+200014217 Frenzyflame Perfume Bottle - 2h R1 #2 [8]
+200014218 Frenzyflame Perfume Bottle - 2h R1 #2 [9]
+200014219 Frenzyflame Perfume Bottle - 2h R1 #2 [10]
+200014220 Frenzyflame Perfume Bottle - 2h R1 #3 [1]
+200014221 Frenzyflame Perfume Bottle - 2h R1 #3 [2]
+200014222 Frenzyflame Perfume Bottle - 2h R1 #3 [3]
+200014223 Frenzyflame Perfume Bottle - 2h R1 #3 [4]
+200014224 Frenzyflame Perfume Bottle - 2h R1 #3 [5]
+200014225 Frenzyflame Perfume Bottle - 2h R1 #3 [6]
+200014226 Frenzyflame Perfume Bottle - 2h R1 #3 [7]
+200014227 Frenzyflame Perfume Bottle - 2h R1 #3 [8]
+200014228 Frenzyflame Perfume Bottle - 2h R1 #3 [9]
+200014229 Frenzyflame Perfume Bottle - 2h R1 #3 [10]
+200014230 Frenzyflame Perfume Bottle - 2h R1 #4 [1]
+200014231 Frenzyflame Perfume Bottle - 2h R1 #4 [2]
+200014232 Frenzyflame Perfume Bottle - 2h R1 #4 [3]
+200014233 Frenzyflame Perfume Bottle - 2h R1 #4 [4]
+200014234 Frenzyflame Perfume Bottle - 2h R1 #4 [5]
+200014235 Frenzyflame Perfume Bottle - 2h R1 #4 [6]
+200014236 Frenzyflame Perfume Bottle - 2h R1 #4 [7]
+200014237 Frenzyflame Perfume Bottle - 2h R1 #4 [8]
+200014238 Frenzyflame Perfume Bottle - 2h R1 #4 [9]
+200014239 Frenzyflame Perfume Bottle - 2h R1 #4 [10]
+200014300 Frenzyflame Perfume Bottle - 2h R2 #1 [1]
+200014301 Frenzyflame Perfume Bottle - 2h R2 #1 [2]
+200014302 Frenzyflame Perfume Bottle - 2h R2 #1 [4]
+200014303 Frenzyflame Perfume Bottle - 2h R2 #1 [6]
+200014305 Frenzyflame Perfume Bottle - 2h R2 #1 [3]
+200014306 Frenzyflame Perfume Bottle - 2h R2 #1 [5]
+200014307 Frenzyflame Perfume Bottle - 2h R2 #1 [7]
+200014308 Frenzyflame Perfume Bottle - 2h R2 #1 [8]
+200014310 Frenzyflame Perfume Bottle - 2h R2 #2 [1]
+200014311 Frenzyflame Perfume Bottle - 2h R2 #2 [2]
+200014312 Frenzyflame Perfume Bottle - 2h R2 #2 [4]
+200014313 Frenzyflame Perfume Bottle - 2h R2 #2 [6]
+200014314 Frenzyflame Perfume Bottle - 2h R2 #2 [3]
+200014315 Frenzyflame Perfume Bottle - 2h R2 #2 [5]
+200014316 Frenzyflame Perfume Bottle - 2h R2 #2 [7]
+200014317 Frenzyflame Perfume Bottle - 2h R2 #2 [8]
+200014318 Frenzyflame Perfume Bottle - 2h R2 #2 [9]
+200014319 Frenzyflame Perfume Bottle - 2h R2 #2 [10]
+200014320 Frenzyflame Perfume Bottle - 2h Running R1 [1]
+200014321 Frenzyflame Perfume Bottle - 2h Running R1 [2]
+200014322 Frenzyflame Perfume Bottle - 2h Running R1 [3]
+200014323 Frenzyflame Perfume Bottle - 2h Running R1 [4]
+200014324 Frenzyflame Perfume Bottle - 2h Running R1 [5]
+200014325 Frenzyflame Perfume Bottle - 2h Running R1 [6]
+200014326 Frenzyflame Perfume Bottle - 2h Running R1 [7]
+200014327 Frenzyflame Perfume Bottle - 2h Running R1 [8]
+200014328 Frenzyflame Perfume Bottle - 2h Running R1 [9]
+200014329 Frenzyflame Perfume Bottle - 2h Running R1 [10]
+200014330 Frenzyflame Perfume Bottle - 2h Rolling R1 [1]
+200014331 Frenzyflame Perfume Bottle - 2h Rolling R1 [3]
+200014332 Frenzyflame Perfume Bottle - 2h Rolling R1 [5]
+200014333 Frenzyflame Perfume Bottle - 2h Rolling R1 [7]
+200014334 Frenzyflame Perfume Bottle - 2h Rolling R1 [9]
+200014335 Frenzyflame Perfume Bottle - 2h Rolling R1 [2]
+200014336 Frenzyflame Perfume Bottle - 2h Rolling R1 [4]
+200014337 Frenzyflame Perfume Bottle - 2h Rolling R1 [6]
+200014338 Frenzyflame Perfume Bottle - 2h Rolling R1 [8]
+200014339 Frenzyflame Perfume Bottle - 2h Rolling R1 [10]
+200014340 Frenzyflame Perfume Bottle - 2h Backstep R1 [1]
+200014341 Frenzyflame Perfume Bottle - 2h Backstep R1 [3]
+200014342 Frenzyflame Perfume Bottle - 2h Backstep R1 [5]
+200014343 Frenzyflame Perfume Bottle - 2h Backstep R1 [7]
+200014344 Frenzyflame Perfume Bottle - 2h Backstep R1 [9]
+200014345 Frenzyflame Perfume Bottle - 2h Backstep R1 [2]
+200014346 Frenzyflame Perfume Bottle - 2h Backstep R1 [4]
+200014347 Frenzyflame Perfume Bottle - 2h Backstep R1 [6]
+200014348 Frenzyflame Perfume Bottle - 2h Backstep R1 [8]
+200014349 Frenzyflame Perfume Bottle - 2h Backstep R1 [10]
+200014350 Frenzyflame Perfume Bottle - 2h Jumping R1 [1]
+200014351 Frenzyflame Perfume Bottle - 2h Jumping R1 [3]
+200014352 Frenzyflame Perfume Bottle - 2h Jumping R1 [5]
+200014353 Frenzyflame Perfume Bottle - 2h Jumping R1 [7]
+200014354 Frenzyflame Perfume Bottle - 2h Jumping R1 [9]
+200014355 Frenzyflame Perfume Bottle - 2h Jumping R1 [2]
+200014356 Frenzyflame Perfume Bottle - 2h Jumping R1 [4]
+200014357 Frenzyflame Perfume Bottle - 2h Jumping R1 [6]
+200014358 Frenzyflame Perfume Bottle - 2h Jumping R1 [8]
+200014359 Frenzyflame Perfume Bottle - 2h Jumping R1 [10]
+200014360 Frenzyflame Perfume Bottle - 2h Jumping R2 [1]
+200014361 Frenzyflame Perfume Bottle - 2h Jumping R2 [3]
+200014362 Frenzyflame Perfume Bottle - 2h Jumping R2 [5]
+200014363 Frenzyflame Perfume Bottle - 2h Jumping R2 [7]
+200014364 Frenzyflame Perfume Bottle - 2h Jumping R2 [9]
+200014365 Frenzyflame Perfume Bottle - 2h Jumping R2 [2]
+200014366 Frenzyflame Perfume Bottle - 2h Jumping R2 [4]
+200014367 Frenzyflame Perfume Bottle - 2h Jumping R2 [6]
+200014368 Frenzyflame Perfume Bottle - 2h Jumping R2 [8]
+200014369 Frenzyflame Perfume Bottle - 2h Jumping R2 [10]
+200014400 Frenzyflame Perfume Bottle - Offhand R1 #1 [1]
+200014401 Frenzyflame Perfume Bottle - Offhand R1 #1 [2]
+200014402 Frenzyflame Perfume Bottle - Offhand R1 #1 [3]
+200014403 Frenzyflame Perfume Bottle - Offhand R1 #1 [4]
+200014404 Frenzyflame Perfume Bottle - Offhand R1 #1 [5]
+200014405 Frenzyflame Perfume Bottle - Offhand R1 #1 [6]
+200014410 Frenzyflame Perfume Bottle - Offhand R1 #2 [1]
+200014411 Frenzyflame Perfume Bottle - Offhand R1 #2 [2]
+200014412 Frenzyflame Perfume Bottle - Offhand R1 #2 [3]
+200014413 Frenzyflame Perfume Bottle - Offhand R1 #2 [4]
+200014414 Frenzyflame Perfume Bottle - Offhand R1 #2 [5]
+200014415 Frenzyflame Perfume Bottle - Offhand R1 #2 [6]
+200014420 Frenzyflame Perfume Bottle - Offhand R1 #3 [1]
+200014421 Frenzyflame Perfume Bottle - Offhand R1 #3 [2]
+200014422 Frenzyflame Perfume Bottle - Offhand R1 #3 [3]
+200014423 Frenzyflame Perfume Bottle - Offhand R1 #3 [4]
+200014424 Frenzyflame Perfume Bottle - Offhand R1 #3 [5]
+200014425 Frenzyflame Perfume Bottle - Offhand R1 #3 [6]
+200014430 Frenzyflame Perfume Bottle - Offhand R1 #4 [1]
+200014431 Frenzyflame Perfume Bottle - Offhand R1 #4 [2]
+200014432 Frenzyflame Perfume Bottle - Offhand R1 #4 [3]
+200014433 Frenzyflame Perfume Bottle - Offhand R1 #4 [4]
+200014434 Frenzyflame Perfume Bottle - Offhand R1 #4 [5]
+200014435 Frenzyflame Perfume Bottle - Offhand R1 #4 [6]
+200014800 Frenzyflame Perfume Bottle - Paired L1 #1 [1] (Right)
+200014801 Frenzyflame Perfume Bottle - Paired L1 #1 [3] (Right)
+200014802 Frenzyflame Perfume Bottle - Paired L1 #1 [5] (Right)
+200014803 Frenzyflame Perfume Bottle - Paired L1 #1 [7] (Right)
+200014804 Frenzyflame Perfume Bottle - Paired L1 #1 [9] (Right)
+200014805 Frenzyflame Perfume Bottle - Paired L1 #1 [2] (Left)
+200014806 Frenzyflame Perfume Bottle - Paired L1 #1 [4] (Left)
+200014807 Frenzyflame Perfume Bottle - Paired L1 #1 [6] (Left)
+200014808 Frenzyflame Perfume Bottle - Paired L1 #1 [8] (Left)
+200014809 Frenzyflame Perfume Bottle - Paired L1 #1 [10] (Left)
+200014810 Frenzyflame Perfume Bottle - Paired L1 #2 [1] (Right)
+200014811 Frenzyflame Perfume Bottle - Paired L1 #2 [3] (Right)
+200014812 Frenzyflame Perfume Bottle - Paired L1 #2 [5] (Right)
+200014813 Frenzyflame Perfume Bottle - Paired L1 #2 [7] (Right)
+200014814 Frenzyflame Perfume Bottle - Paired L1 #2 [9] (Right)
+200014815 Frenzyflame Perfume Bottle - Paired L1 #2 [2] (Left)
+200014816 Frenzyflame Perfume Bottle - Paired L1 #2 [4] (Left)
+200014817 Frenzyflame Perfume Bottle - Paired L1 #2 [6] (Left)
+200014818 Frenzyflame Perfume Bottle - Paired L1 #2 [8] (Left)
+200014819 Frenzyflame Perfume Bottle - Paired L1 #2 [10] (Left)
+200014820 Frenzyflame Perfume Bottle - Paired L1 #3 [1] (Right)
+200014821 Frenzyflame Perfume Bottle - Paired L1 #3 [3] (Right)
+200014822 Frenzyflame Perfume Bottle - Paired L1 #3 [5] (Right)
+200014823 Frenzyflame Perfume Bottle - Paired L1 #3 [7] (Right)
+200014824 Frenzyflame Perfume Bottle - Paired L1 #3 [9] (Right)
+200014825 Frenzyflame Perfume Bottle - Paired L1 #3 [2] (Left)
+200014826 Frenzyflame Perfume Bottle - Paired L1 #3 [4] (Left)
+200014827 Frenzyflame Perfume Bottle - Paired L1 #3 [6] (Left)
+200014828 Frenzyflame Perfume Bottle - Paired L1 #3 [8] (Left)
+200014829 Frenzyflame Perfume Bottle - Paired L1 #3 [10] (Left)
+200014830 Frenzyflame Perfume Bottle - Paired L1 #4 [1] (Right)
+200014831 Frenzyflame Perfume Bottle - Paired L1 #4 [3] (Right)
+200014832 Frenzyflame Perfume Bottle - Paired L1 #4 [5] (Right)
+200014833 Frenzyflame Perfume Bottle - Paired L1 #4 [7] (Right)
+200014834 Frenzyflame Perfume Bottle - Paired L1 #4 [9] (Right)
+200014835 Frenzyflame Perfume Bottle - Paired L1 #4 [2] (Left)
+200014836 Frenzyflame Perfume Bottle - Paired L1 #4 [4] (Left)
+200014837 Frenzyflame Perfume Bottle - Paired L1 #4 [6] (Left)
+200014838 Frenzyflame Perfume Bottle - Paired L1 #4 [8] (Left)
+200014839 Frenzyflame Perfume Bottle - Paired L1 #4 [10] (Left)
+200014860 Frenzyflame Perfume Bottle - Paired Running L1 [1] (Right)
+200014861 Frenzyflame Perfume Bottle - Paired Running L1 [2] (Right)
+200014862 Frenzyflame Perfume Bottle - Paired Running L1 [4] (Right)
+200014863 Frenzyflame Perfume Bottle - Paired Running L1 [6] (Right)
+200014864 Frenzyflame Perfume Bottle - Paired Running L1 [8] (Right)
+200014865 Frenzyflame Perfume Bottle - Paired Running L1 [3] (Left)
+200014866 Frenzyflame Perfume Bottle - Paired Running L1 [5] (Left)
+200014867 Frenzyflame Perfume Bottle - Paired Running L1 [7] (Left)
+200014868 Frenzyflame Perfume Bottle - Paired Running L1 [9] (Left)
+200014869 Frenzyflame Perfume Bottle - Paired Running L1 [10] (Left)
+200014870 Frenzyflame Perfume Bottle - Paired Rolling L1 [1] (Right)
+200014871 Frenzyflame Perfume Bottle - Paired Rolling L1 [3] (Right)
+200014872 Frenzyflame Perfume Bottle - Paired Rolling L1 [5] (Right)
+200014873 Frenzyflame Perfume Bottle - Paired Rolling L1 [7] (Right)
+200014874 Frenzyflame Perfume Bottle - Paired Rolling L1 [9] (Right)
+200014875 Frenzyflame Perfume Bottle - Paired Rolling L1 [2] (Left)
+200014876 Frenzyflame Perfume Bottle - Paired Rolling L1 [4] (Left)
+200014877 Frenzyflame Perfume Bottle - Paired Rolling L1 [6] (Left)
+200014878 Frenzyflame Perfume Bottle - Paired Rolling L1 [8] (Left)
+200014879 Frenzyflame Perfume Bottle - Paired Rolling L1 [10] (Left)
+200014880 Frenzyflame Perfume Bottle - Paired Backstep L1 [1] (Right)
+200014881 Frenzyflame Perfume Bottle - Paired Backstep L1 [3] (Right)
+200014882 Frenzyflame Perfume Bottle - Paired Backstep L1 [5] (Right)
+200014883 Frenzyflame Perfume Bottle - Paired Backstep L1 [7] (Right)
+200014884 Frenzyflame Perfume Bottle - Paired Backstep L1 [9] (Right)
+200014885 Frenzyflame Perfume Bottle - Paired Backstep L1 [2] (Left)
+200014886 Frenzyflame Perfume Bottle - Paired Backstep L1 [4] (Left)
+200014887 Frenzyflame Perfume Bottle - Paired Backstep L1 [6] (Left)
+200014888 Frenzyflame Perfume Bottle - Paired Backstep L1 [8] (Left)
+200014889 Frenzyflame Perfume Bottle - Paired Backstep L1 [10] (Left)
+200014890 Frenzyflame Perfume Bottle - Paired Jumping L1 [1] (Right)
+200014891 Frenzyflame Perfume Bottle - Paired Jumping L1 [3] (Right)
+200014892 Frenzyflame Perfume Bottle - Paired Jumping L1 [5] (Right)
+200014893 Frenzyflame Perfume Bottle - Paired Jumping L1 [7] (Right)
+200014894 Frenzyflame Perfume Bottle - Paired Jumping L1 [9] (Right)
+200014895 Frenzyflame Perfume Bottle - Paired Jumping L1 [2] (Left)
+200014896 Frenzyflame Perfume Bottle - Paired Jumping L1 [4] (Left)
+200014897 Frenzyflame Perfume Bottle - Paired Jumping L1 [6] (Left)
+200014898 Frenzyflame Perfume Bottle - Paired Jumping L1 [8] (Left)
+200014899 Frenzyflame Perfume Bottle - Paired Jumping L1 [10] (Left)
+200014900 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [2]
+200014902 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [4]
+200014904 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [6]
+200014906 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [8]
+200014908 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [10]
+200014910 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [2]
+200014912 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [4]
+200014914 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [6]
+200014916 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [8]
+200014918 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [10]
+200014920 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [1]
+200014921 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [3]
+200014922 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [5]
+200014923 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [7]
+200014924 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [9]
+200014925 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [11]
+200014926 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [13]
+200014927 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [15]
+200014928 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [17]
+200014929 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [19]
+200014930 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [2]
+200014931 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [4]
+200014932 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [6]
+200014933 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [8]
+200014934 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [10]
+200014935 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [12]
+200014936 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [14]
+200014937 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [16]
+200014938 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [18]
+200014939 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [20]
+200014940 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [2]
+200014941 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [4]
+200014942 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [6]
+200014943 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [8]
+200014944 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [10]
+200014945 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [12]
+200014946 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [14]
+200014947 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [16]
+200014948 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [18]
+200014949 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [20]
+200014950 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [1]
+200014951 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [3]
+200014952 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [5]
+200014953 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [7]
+200014954 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [9]
+200014955 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [11]
+200014956 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [13]
+200014957 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [15]
+200014958 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [17]
+200014959 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [19]
+200014960 Frenzyflame Perfume Bottle - 2h Running R2 [1]
+200014961 Frenzyflame Perfume Bottle - 2h Running R2 [3]
+200014962 Frenzyflame Perfume Bottle - 2h Running R2 [5]
+200014963 Frenzyflame Perfume Bottle - 2h Running R2 [7]
+200014964 Frenzyflame Perfume Bottle - 2h Running R2 [9]
+200014965 Frenzyflame Perfume Bottle - 2h Running R2 [2]
+200014966 Frenzyflame Perfume Bottle - 2h Running R2 [4]
+200014967 Frenzyflame Perfume Bottle - 2h Running R2 [6]
+200014968 Frenzyflame Perfume Bottle - 2h Running R2 [8]
+200014969 Frenzyflame Perfume Bottle - 2h Running R2 [10]
+200014970 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200014971 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200014972 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200014973 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200014975 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200014976 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200014977 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200014978 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200014980 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200014981 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200014982 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200014983 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200014985 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200014986 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200014987 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200014988 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200015000 Frenzyflame Perfume Bottle - 1h R1 #1 [Hit]
+200015010 Frenzyflame Perfume Bottle - 1h R1 #2 [Hit]
+200015020 Frenzyflame Perfume Bottle - 1h R1 #3 [Hit]
+200015030 Frenzyflame Perfume Bottle - 1h R1 #4 [Hit]
+200015100 Frenzyflame Perfume Bottle - 1h R2 #1 [Hit]
+200015105 Frenzyflame Perfume Bottle - 1h Charged R2 #1 [Hit]
+200015110 Frenzyflame Perfume Bottle - 1h R2 #2 [Hit]
+200015115 Frenzyflame Perfume Bottle - 1h Charged R2 #2 [Hit]
+200015120 Frenzyflame Perfume Bottle - 1h Running R1 [Hit]
+200015125 Frenzyflame Perfume Bottle - 1h Running R2 [Hit]
+200015130 Frenzyflame Perfume Bottle - 1h Rolling R1 [Hit]
+200015140 Frenzyflame Perfume Bottle - 1h Backstep R1 [Hit]
+200015150 Frenzyflame Perfume Bottle - 1h Jumping R1 [Hit]
+200015160 Frenzyflame Perfume Bottle - 1h Jumping R2 [Hit]
+200015167 Frenzyflame Perfume Bottle - 1h Charged R2 #1 Feint [Hit]
+200015173 Frenzyflame Perfume Bottle - 1h Charged R2 #2 Feint [Hit]
+200015180 Frenzyflame Perfume Bottle - 1h Guard Counter [Hit]
+200015200 Frenzyflame Perfume Bottle - 2h R1 #1 [Hit]
+200015203 Frenzyflame Perfume Bottle - 2h R1 #1 [Hit]
+200015210 Frenzyflame Perfume Bottle - 2h R1 #2 [Hit]
+200015213 Frenzyflame Perfume Bottle - 2h R1 #2 [Hit]
+200015220 Frenzyflame Perfume Bottle - 2h R1 #3 [Hit]
+200015223 Frenzyflame Perfume Bottle - 2h R1 #3 [Hit]
+200015230 Frenzyflame Perfume Bottle - 2h R1 #4 [Hit]
+200015233 Frenzyflame Perfume Bottle - 2h R1 #4 [Hit]
+200015300 Frenzyflame Perfume Bottle - 2h R2 #1 [Hit]
+200015303 Frenzyflame Perfume Bottle - 2h R2 #1 [Hit]
+200015305 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [Hit]
+200015308 Frenzyflame Perfume Bottle - 2h Charged R2 #1 [Hit]
+200015310 Frenzyflame Perfume Bottle - 2h R2 #2 [Hit]
+200015313 Frenzyflame Perfume Bottle - 2h R2 #2 [Hit]
+200015315 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [Hit]
+200015318 Frenzyflame Perfume Bottle - 2h Charged R2 #2 [Hit]
+200015320 Frenzyflame Perfume Bottle - 2h Running R1 [Hit]
+200015323 Frenzyflame Perfume Bottle - 2h Running R1 [Hit]
+200015325 Frenzyflame Perfume Bottle - 2h Running R2 [Hit]
+200015326 Frenzyflame Perfume Bottle - 2h Running R2 [Hit]
+200015328 Frenzyflame Perfume Bottle - 2h Running R2 [Hit]
+200015329 Frenzyflame Perfume Bottle - 2h Running R2 [Hit]
+200015330 Frenzyflame Perfume Bottle - 2h Rolling R1 [Hit]
+200015333 Frenzyflame Perfume Bottle - 2h Rolling R1 [Hit]
+200015340 Frenzyflame Perfume Bottle - 2h Backstep R1 [Hit]
+200015343 Frenzyflame Perfume Bottle - 2h Backstep R1 [Hit]
+200015350 Frenzyflame Perfume Bottle - 2h Jumping R1 [Hit]
+200015353 Frenzyflame Perfume Bottle - 2h Jumping R1 [Hit]
+200015360 Frenzyflame Perfume Bottle - 2h Jumping R2 [Hit]
+200015363 Frenzyflame Perfume Bottle - 2h Jumping R2 [Hit]
+200015400 Frenzyflame Perfume Bottle - Offhand R1 #1 [Hit]
+200015410 Frenzyflame Perfume Bottle - Offhand R1 #2 [Hit]
+200015420 Frenzyflame Perfume Bottle - Offhand R1 #3 [Hit]
+200015430 Frenzyflame Perfume Bottle - Offhand R1 #4 [Hit]
+200015800 Frenzyflame Perfume Bottle - Paired L1 #1 (Right) [Hit]
+200015803 Frenzyflame Perfume Bottle - Paired L1 #1 (Left) [Hit]
+200015810 Frenzyflame Perfume Bottle - Paired L1 #2 (Right) [Hit]
+200015813 Frenzyflame Perfume Bottle - Paired L1 #2 (Left) [Hit]
+200015820 Frenzyflame Perfume Bottle - Paired L1 #3 (Right) [Hit]
+200015823 Frenzyflame Perfume Bottle - Paired L1 #3 (Left) [Hit]
+200015830 Frenzyflame Perfume Bottle - Paired L1 #4 (Right) [Hit]
+200015833 Frenzyflame Perfume Bottle - Paired L1 #4 (Left) [Hit]
+200015860 Frenzyflame Perfume Bottle - Paired Running L1 (Right) [Hit]
+200015863 Frenzyflame Perfume Bottle - Paired Running L1 (Left) [Hit]
+200015870 Frenzyflame Perfume Bottle - Paired Rolling L1 (Right) [Hit]
+200015873 Frenzyflame Perfume Bottle - Paired Rolling L1 (Left) [Hit]
+200015880 Frenzyflame Perfume Bottle - Paired Backstep L1 (Right) [Hit]
+200015883 Frenzyflame Perfume Bottle - Paired Backstep L1 (Left) [Hit]
+200015890 Frenzyflame Perfume Bottle - Paired Jumping L1 (Right) [Hit]
+200015893 Frenzyflame Perfume Bottle - Paired Jumping L1 (Left) [Hit]
+200015970 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200015975 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200015980 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200015985 Frenzyflame Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200016000 Lightning Perfume Bottle - 1h R1 #1 [1]
+200016001 Lightning Perfume Bottle - 1h R1 #1 [2]
+200016002 Lightning Perfume Bottle - 1h R1 #1 [3]
+200016003 Lightning Perfume Bottle - 1h R1 #1 [4]
+200016004 Lightning Perfume Bottle - 1h R1 #1 [5]
+200016005 Lightning Perfume Bottle - 1h R1 #1 [6]
+200016010 Lightning Perfume Bottle - 1h R1 #2 [1]
+200016011 Lightning Perfume Bottle - 1h R1 #2 [2]
+200016012 Lightning Perfume Bottle - 1h R1 #2 [3]
+200016013 Lightning Perfume Bottle - 1h R1 #2 [4]
+200016014 Lightning Perfume Bottle - 1h R1 #2 [5]
+200016015 Lightning Perfume Bottle - 1h R1 #2 [6]
+200016020 Lightning Perfume Bottle - 1h R1 #3 [1]
+200016021 Lightning Perfume Bottle - 1h R1 #3 [2]
+200016022 Lightning Perfume Bottle - 1h R1 #3 [3]
+200016023 Lightning Perfume Bottle - 1h R1 #3 [4]
+200016024 Lightning Perfume Bottle - 1h R1 #3 [5]
+200016025 Lightning Perfume Bottle - 1h R1 #3 [6]
+200016030 Lightning Perfume Bottle - 1h R1 #4 [1]
+200016031 Lightning Perfume Bottle - 1h R1 #4 [2]
+200016032 Lightning Perfume Bottle - 1h R1 #4 [3]
+200016033 Lightning Perfume Bottle - 1h R1 #4 [4]
+200016034 Lightning Perfume Bottle - 1h R1 #4 [5]
+200016035 Lightning Perfume Bottle - 1h R1 #4 [6]
+200016100 Lightning Perfume Bottle - 1h R2 #1 [1]
+200016101 Lightning Perfume Bottle - 1h R2 #1 [2]
+200016102 Lightning Perfume Bottle - 1h R2 #1 [3]
+200016103 Lightning Perfume Bottle - 1h R2 #1 [4]
+200016105 Lightning Perfume Bottle - 1h Charged R2 #1 [1]
+200016106 Lightning Perfume Bottle - 1h Charged R2 #1 [3]
+200016107 Lightning Perfume Bottle - 1h Charged R2 #1 [5]
+200016108 Lightning Perfume Bottle - 1h Charged R2 #1 [7]
+200016109 Lightning Perfume Bottle - 1h Charged R2 #1 [9]
+200016110 Lightning Perfume Bottle - 1h R2 #2 [1]
+200016111 Lightning Perfume Bottle - 1h R2 #2 [2]
+200016112 Lightning Perfume Bottle - 1h R2 #2 [3]
+200016113 Lightning Perfume Bottle - 1h R2 #2 [4]
+200016114 Lightning Perfume Bottle - 1h R2 #2 [5]
+200016115 Lightning Perfume Bottle - 1h Charged R2 #2 [1]
+200016116 Lightning Perfume Bottle - 1h Charged R2 #2 [3]
+200016117 Lightning Perfume Bottle - 1h Charged R2 #2 [5]
+200016118 Lightning Perfume Bottle - 1h Charged R2 #2 [7]
+200016119 Lightning Perfume Bottle - 1h Charged R2 #2 [9]
+200016120 Lightning Perfume Bottle - 1h Running R1 [1]
+200016121 Lightning Perfume Bottle - 1h Running R1 [2]
+200016122 Lightning Perfume Bottle - 1h Running R1 [3]
+200016123 Lightning Perfume Bottle - 1h Running R1 [4]
+200016124 Lightning Perfume Bottle - 1h Running R1 [5]
+200016125 Lightning Perfume Bottle - 1h Running R2 [1]
+200016127 Lightning Perfume Bottle - 1h Running R2 [2]
+200016128 Lightning Perfume Bottle - 1h Running R2 [3]
+200016130 Lightning Perfume Bottle - 1h Rolling R1 [1]
+200016131 Lightning Perfume Bottle - 1h Rolling R1 [2]
+200016132 Lightning Perfume Bottle - 1h Rolling R1 [3]
+200016133 Lightning Perfume Bottle - 1h Rolling R1 [4]
+200016134 Lightning Perfume Bottle - 1h Rolling R1 [5]
+200016140 Lightning Perfume Bottle - 1h Backstep R1 [1]
+200016141 Lightning Perfume Bottle - 1h Backstep R1 [2]
+200016142 Lightning Perfume Bottle - 1h Backstep R1 [3]
+200016143 Lightning Perfume Bottle - 1h Backstep R1 [4]
+200016144 Lightning Perfume Bottle - 1h Backstep R1 [5]
+200016150 Lightning Perfume Bottle - 1h Jumping R1 [1]
+200016151 Lightning Perfume Bottle - 1h Jumping R1 [2]
+200016152 Lightning Perfume Bottle - 1h Jumping R1 [3]
+200016153 Lightning Perfume Bottle - 1h Jumping R1 [4]
+200016154 Lightning Perfume Bottle - 1h Jumping R1 [5]
+200016160 Lightning Perfume Bottle - 1h Jumping R2 [1]
+200016161 Lightning Perfume Bottle - 1h Jumping R2 [2]
+200016162 Lightning Perfume Bottle - 1h Jumping R2 [3]
+200016163 Lightning Perfume Bottle - 1h Jumping R2 [4]
+200016164 Lightning Perfume Bottle - 1h Jumping R2 [5]
+200016167 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [1]
+200016168 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [2]
+200016169 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [3]
+200016170 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [4]
+200016171 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [5]
+200016172 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [6]
+200016173 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [1]
+200016174 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [2]
+200016175 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [3]
+200016176 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [4]
+200016177 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [5]
+200016178 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [6]
+200016180 Lightning Perfume Bottle - 1h Guard Counter [1]
+200016181 Lightning Perfume Bottle - 1h Guard Counter [2]
+200016182 Lightning Perfume Bottle - 1h Guard Counter [3]
+200016183 Lightning Perfume Bottle - 1h Guard Counter [4]
+200016184 Lightning Perfume Bottle - 1h Guard Counter [5]
+200016200 Lightning Perfume Bottle - 2h R1 #1 [1]
+200016201 Lightning Perfume Bottle - 2h R1 #1 [2]
+200016202 Lightning Perfume Bottle - 2h R1 #1 [3]
+200016203 Lightning Perfume Bottle - 2h R1 #1 [4]
+200016204 Lightning Perfume Bottle - 2h R1 #1 [5]
+200016205 Lightning Perfume Bottle - 2h R1 #1 [6]
+200016206 Lightning Perfume Bottle - 2h R1 #1 [7]
+200016207 Lightning Perfume Bottle - 2h R1 #1 [8]
+200016208 Lightning Perfume Bottle - 2h R1 #1 [9]
+200016209 Lightning Perfume Bottle - 2h R1 #1 [10]
+200016210 Lightning Perfume Bottle - 2h R1 #2 [1]
+200016211 Lightning Perfume Bottle - 2h R1 #2 [2]
+200016212 Lightning Perfume Bottle - 2h R1 #2 [3]
+200016213 Lightning Perfume Bottle - 2h R1 #2 [4]
+200016214 Lightning Perfume Bottle - 2h R1 #2 [5]
+200016215 Lightning Perfume Bottle - 2h R1 #2 [6]
+200016216 Lightning Perfume Bottle - 2h R1 #2 [7]
+200016217 Lightning Perfume Bottle - 2h R1 #2 [8]
+200016218 Lightning Perfume Bottle - 2h R1 #2 [9]
+200016219 Lightning Perfume Bottle - 2h R1 #2 [10]
+200016220 Lightning Perfume Bottle - 2h R1 #3 [1]
+200016221 Lightning Perfume Bottle - 2h R1 #3 [2]
+200016222 Lightning Perfume Bottle - 2h R1 #3 [3]
+200016223 Lightning Perfume Bottle - 2h R1 #3 [4]
+200016224 Lightning Perfume Bottle - 2h R1 #3 [5]
+200016225 Lightning Perfume Bottle - 2h R1 #3 [6]
+200016226 Lightning Perfume Bottle - 2h R1 #3 [7]
+200016227 Lightning Perfume Bottle - 2h R1 #3 [8]
+200016228 Lightning Perfume Bottle - 2h R1 #3 [9]
+200016229 Lightning Perfume Bottle - 2h R1 #3 [10]
+200016230 Lightning Perfume Bottle - 2h R1 #4 [1]
+200016231 Lightning Perfume Bottle - 2h R1 #4 [2]
+200016232 Lightning Perfume Bottle - 2h R1 #4 [3]
+200016233 Lightning Perfume Bottle - 2h R1 #4 [4]
+200016234 Lightning Perfume Bottle - 2h R1 #4 [5]
+200016235 Lightning Perfume Bottle - 2h R1 #4 [6]
+200016236 Lightning Perfume Bottle - 2h R1 #4 [7]
+200016237 Lightning Perfume Bottle - 2h R1 #4 [8]
+200016238 Lightning Perfume Bottle - 2h R1 #4 [9]
+200016239 Lightning Perfume Bottle - 2h R1 #4 [10]
+200016300 Lightning Perfume Bottle - 2h R2 #1 [1]
+200016301 Lightning Perfume Bottle - 2h R2 #1 [2]
+200016302 Lightning Perfume Bottle - 2h R2 #1 [4]
+200016303 Lightning Perfume Bottle - 2h R2 #1 [6]
+200016305 Lightning Perfume Bottle - 2h R2 #1 [3]
+200016306 Lightning Perfume Bottle - 2h R2 #1 [5]
+200016307 Lightning Perfume Bottle - 2h R2 #1 [7]
+200016308 Lightning Perfume Bottle - 2h R2 #1 [8]
+200016310 Lightning Perfume Bottle - 2h R2 #2 [1]
+200016311 Lightning Perfume Bottle - 2h R2 #2 [2]
+200016312 Lightning Perfume Bottle - 2h R2 #2 [4]
+200016313 Lightning Perfume Bottle - 2h R2 #2 [6]
+200016314 Lightning Perfume Bottle - 2h R2 #2 [3]
+200016315 Lightning Perfume Bottle - 2h R2 #2 [5]
+200016316 Lightning Perfume Bottle - 2h R2 #2 [7]
+200016317 Lightning Perfume Bottle - 2h R2 #2 [8]
+200016318 Lightning Perfume Bottle - 2h R2 #2 [9]
+200016319 Lightning Perfume Bottle - 2h R2 #2 [10]
+200016320 Lightning Perfume Bottle - 2h Running R1 [1]
+200016321 Lightning Perfume Bottle - 2h Running R1 [2]
+200016322 Lightning Perfume Bottle - 2h Running R1 [3]
+200016323 Lightning Perfume Bottle - 2h Running R1 [4]
+200016324 Lightning Perfume Bottle - 2h Running R1 [5]
+200016325 Lightning Perfume Bottle - 2h Running R1 [6]
+200016326 Lightning Perfume Bottle - 2h Running R1 [7]
+200016327 Lightning Perfume Bottle - 2h Running R1 [8]
+200016328 Lightning Perfume Bottle - 2h Running R1 [9]
+200016329 Lightning Perfume Bottle - 2h Running R1 [10]
+200016330 Lightning Perfume Bottle - 2h Rolling R1 [1]
+200016331 Lightning Perfume Bottle - 2h Rolling R1 [3]
+200016332 Lightning Perfume Bottle - 2h Rolling R1 [5]
+200016333 Lightning Perfume Bottle - 2h Rolling R1 [7]
+200016334 Lightning Perfume Bottle - 2h Rolling R1 [9]
+200016335 Lightning Perfume Bottle - 2h Rolling R1 [2]
+200016336 Lightning Perfume Bottle - 2h Rolling R1 [4]
+200016337 Lightning Perfume Bottle - 2h Rolling R1 [6]
+200016338 Lightning Perfume Bottle - 2h Rolling R1 [8]
+200016339 Lightning Perfume Bottle - 2h Rolling R1 [10]
+200016340 Lightning Perfume Bottle - 2h Backstep R1 [1]
+200016341 Lightning Perfume Bottle - 2h Backstep R1 [3]
+200016342 Lightning Perfume Bottle - 2h Backstep R1 [5]
+200016343 Lightning Perfume Bottle - 2h Backstep R1 [7]
+200016344 Lightning Perfume Bottle - 2h Backstep R1 [9]
+200016345 Lightning Perfume Bottle - 2h Backstep R1 [2]
+200016346 Lightning Perfume Bottle - 2h Backstep R1 [4]
+200016347 Lightning Perfume Bottle - 2h Backstep R1 [6]
+200016348 Lightning Perfume Bottle - 2h Backstep R1 [8]
+200016349 Lightning Perfume Bottle - 2h Backstep R1 [10]
+200016350 Lightning Perfume Bottle - 2h Jumping R1 [1]
+200016351 Lightning Perfume Bottle - 2h Jumping R1 [3]
+200016352 Lightning Perfume Bottle - 2h Jumping R1 [5]
+200016353 Lightning Perfume Bottle - 2h Jumping R1 [7]
+200016354 Lightning Perfume Bottle - 2h Jumping R1 [9]
+200016355 Lightning Perfume Bottle - 2h Jumping R1 [2]
+200016356 Lightning Perfume Bottle - 2h Jumping R1 [4]
+200016357 Lightning Perfume Bottle - 2h Jumping R1 [6]
+200016358 Lightning Perfume Bottle - 2h Jumping R1 [8]
+200016359 Lightning Perfume Bottle - 2h Jumping R1 [10]
+200016360 Lightning Perfume Bottle - 2h Jumping R2 [1]
+200016361 Lightning Perfume Bottle - 2h Jumping R2 [3]
+200016362 Lightning Perfume Bottle - 2h Jumping R2 [5]
+200016363 Lightning Perfume Bottle - 2h Jumping R2 [7]
+200016364 Lightning Perfume Bottle - 2h Jumping R2 [9]
+200016365 Lightning Perfume Bottle - 2h Jumping R2 [2]
+200016366 Lightning Perfume Bottle - 2h Jumping R2 [4]
+200016367 Lightning Perfume Bottle - 2h Jumping R2 [6]
+200016368 Lightning Perfume Bottle - 2h Jumping R2 [8]
+200016369 Lightning Perfume Bottle - 2h Jumping R2 [10]
+200016400 Lightning Perfume Bottle - Offhand R1 #1 [1]
+200016401 Lightning Perfume Bottle - Offhand R1 #1 [2]
+200016402 Lightning Perfume Bottle - Offhand R1 #1 [3]
+200016403 Lightning Perfume Bottle - Offhand R1 #1 [4]
+200016404 Lightning Perfume Bottle - Offhand R1 #1 [5]
+200016405 Lightning Perfume Bottle - Offhand R1 #1 [6]
+200016410 Lightning Perfume Bottle - Offhand R1 #2 [1]
+200016411 Lightning Perfume Bottle - Offhand R1 #2 [2]
+200016412 Lightning Perfume Bottle - Offhand R1 #2 [3]
+200016413 Lightning Perfume Bottle - Offhand R1 #2 [4]
+200016414 Lightning Perfume Bottle - Offhand R1 #2 [5]
+200016415 Lightning Perfume Bottle - Offhand R1 #2 [6]
+200016420 Lightning Perfume Bottle - Offhand R1 #3 [1]
+200016421 Lightning Perfume Bottle - Offhand R1 #3 [2]
+200016422 Lightning Perfume Bottle - Offhand R1 #3 [3]
+200016423 Lightning Perfume Bottle - Offhand R1 #3 [4]
+200016424 Lightning Perfume Bottle - Offhand R1 #3 [5]
+200016425 Lightning Perfume Bottle - Offhand R1 #3 [6]
+200016430 Lightning Perfume Bottle - Offhand R1 #4 [1]
+200016431 Lightning Perfume Bottle - Offhand R1 #4 [2]
+200016432 Lightning Perfume Bottle - Offhand R1 #4 [3]
+200016433 Lightning Perfume Bottle - Offhand R1 #4 [4]
+200016434 Lightning Perfume Bottle - Offhand R1 #4 [5]
+200016435 Lightning Perfume Bottle - Offhand R1 #4 [6]
+200016800 Lightning Perfume Bottle - Paired L1 #1 [1] (Right)
+200016801 Lightning Perfume Bottle - Paired L1 #1 [3] (Right)
+200016802 Lightning Perfume Bottle - Paired L1 #1 [5] (Right)
+200016803 Lightning Perfume Bottle - Paired L1 #1 [7] (Right)
+200016804 Lightning Perfume Bottle - Paired L1 #1 [9] (Right)
+200016805 Lightning Perfume Bottle - Paired L1 #1 [2] (Left)
+200016806 Lightning Perfume Bottle - Paired L1 #1 [4] (Left)
+200016807 Lightning Perfume Bottle - Paired L1 #1 [6] (Left)
+200016808 Lightning Perfume Bottle - Paired L1 #1 [8] (Left)
+200016809 Lightning Perfume Bottle - Paired L1 #1 [10] (Left)
+200016810 Lightning Perfume Bottle - Paired L1 #2 [1] (Right)
+200016811 Lightning Perfume Bottle - Paired L1 #2 [3] (Right)
+200016812 Lightning Perfume Bottle - Paired L1 #2 [5] (Right)
+200016813 Lightning Perfume Bottle - Paired L1 #2 [7] (Right)
+200016814 Lightning Perfume Bottle - Paired L1 #2 [9] (Right)
+200016815 Lightning Perfume Bottle - Paired L1 #2 [2] (Left)
+200016816 Lightning Perfume Bottle - Paired L1 #2 [4] (Left)
+200016817 Lightning Perfume Bottle - Paired L1 #2 [6] (Left)
+200016818 Lightning Perfume Bottle - Paired L1 #2 [8] (Left)
+200016819 Lightning Perfume Bottle - Paired L1 #2 [10] (Left)
+200016820 Lightning Perfume Bottle - Paired L1 #3 [1] (Right)
+200016821 Lightning Perfume Bottle - Paired L1 #3 [3] (Right)
+200016822 Lightning Perfume Bottle - Paired L1 #3 [5] (Right)
+200016823 Lightning Perfume Bottle - Paired L1 #3 [7] (Right)
+200016824 Lightning Perfume Bottle - Paired L1 #3 [9] (Right)
+200016825 Lightning Perfume Bottle - Paired L1 #3 [2] (Left)
+200016826 Lightning Perfume Bottle - Paired L1 #3 [4] (Left)
+200016827 Lightning Perfume Bottle - Paired L1 #3 [6] (Left)
+200016828 Lightning Perfume Bottle - Paired L1 #3 [8] (Left)
+200016829 Lightning Perfume Bottle - Paired L1 #3 [10] (Left)
+200016830 Lightning Perfume Bottle - Paired L1 #4 [1] (Right)
+200016831 Lightning Perfume Bottle - Paired L1 #4 [3] (Right)
+200016832 Lightning Perfume Bottle - Paired L1 #4 [5] (Right)
+200016833 Lightning Perfume Bottle - Paired L1 #4 [7] (Right)
+200016834 Lightning Perfume Bottle - Paired L1 #4 [9] (Right)
+200016835 Lightning Perfume Bottle - Paired L1 #4 [2] (Left)
+200016836 Lightning Perfume Bottle - Paired L1 #4 [4] (Left)
+200016837 Lightning Perfume Bottle - Paired L1 #4 [6] (Left)
+200016838 Lightning Perfume Bottle - Paired L1 #4 [8] (Left)
+200016839 Lightning Perfume Bottle - Paired L1 #4 [10] (Left)
+200016860 Lightning Perfume Bottle - Paired Running L1 [1] (Right)
+200016861 Lightning Perfume Bottle - Paired Running L1 [2] (Right)
+200016862 Lightning Perfume Bottle - Paired Running L1 [4] (Right)
+200016863 Lightning Perfume Bottle - Paired Running L1 [6] (Right)
+200016864 Lightning Perfume Bottle - Paired Running L1 [8] (Right)
+200016865 Lightning Perfume Bottle - Paired Running L1 [3] (Left)
+200016866 Lightning Perfume Bottle - Paired Running L1 [5] (Left)
+200016867 Lightning Perfume Bottle - Paired Running L1 [7] (Left)
+200016868 Lightning Perfume Bottle - Paired Running L1 [9] (Left)
+200016869 Lightning Perfume Bottle - Paired Running L1 [10] (Left)
+200016870 Lightning Perfume Bottle - Paired Rolling L1 [1] (Right)
+200016871 Lightning Perfume Bottle - Paired Rolling L1 [3] (Right)
+200016872 Lightning Perfume Bottle - Paired Rolling L1 [5] (Right)
+200016873 Lightning Perfume Bottle - Paired Rolling L1 [7] (Right)
+200016874 Lightning Perfume Bottle - Paired Rolling L1 [9] (Right)
+200016875 Lightning Perfume Bottle - Paired Rolling L1 [2] (Left)
+200016876 Lightning Perfume Bottle - Paired Rolling L1 [4] (Left)
+200016877 Lightning Perfume Bottle - Paired Rolling L1 [6] (Left)
+200016878 Lightning Perfume Bottle - Paired Rolling L1 [8] (Left)
+200016879 Lightning Perfume Bottle - Paired Rolling L1 [10] (Left)
+200016880 Lightning Perfume Bottle - Paired Backstep L1 [1] (Right)
+200016881 Lightning Perfume Bottle - Paired Backstep L1 [3] (Right)
+200016882 Lightning Perfume Bottle - Paired Backstep L1 [5] (Right)
+200016883 Lightning Perfume Bottle - Paired Backstep L1 [7] (Right)
+200016884 Lightning Perfume Bottle - Paired Backstep L1 [9] (Right)
+200016885 Lightning Perfume Bottle - Paired Backstep L1 [2] (Left)
+200016886 Lightning Perfume Bottle - Paired Backstep L1 [4] (Left)
+200016887 Lightning Perfume Bottle - Paired Backstep L1 [6] (Left)
+200016888 Lightning Perfume Bottle - Paired Backstep L1 [8] (Left)
+200016889 Lightning Perfume Bottle - Paired Backstep L1 [10] (Left)
+200016890 Lightning Perfume Bottle - Paired Jumping L1 [1] (Right)
+200016891 Lightning Perfume Bottle - Paired Jumping L1 [3] (Right)
+200016892 Lightning Perfume Bottle - Paired Jumping L1 [5] (Right)
+200016893 Lightning Perfume Bottle - Paired Jumping L1 [7] (Right)
+200016894 Lightning Perfume Bottle - Paired Jumping L1 [9] (Right)
+200016895 Lightning Perfume Bottle - Paired Jumping L1 [2] (Left)
+200016896 Lightning Perfume Bottle - Paired Jumping L1 [4] (Left)
+200016897 Lightning Perfume Bottle - Paired Jumping L1 [6] (Left)
+200016898 Lightning Perfume Bottle - Paired Jumping L1 [8] (Left)
+200016899 Lightning Perfume Bottle - Paired Jumping L1 [10] (Left)
+200016900 Lightning Perfume Bottle - 1h Charged R2 #1 [2]
+200016902 Lightning Perfume Bottle - 1h Charged R2 #1 [4]
+200016904 Lightning Perfume Bottle - 1h Charged R2 #1 [6]
+200016906 Lightning Perfume Bottle - 1h Charged R2 #1 [8]
+200016908 Lightning Perfume Bottle - 1h Charged R2 #1 [10]
+200016910 Lightning Perfume Bottle - 1h Charged R2 #2 [2]
+200016912 Lightning Perfume Bottle - 1h Charged R2 #2 [4]
+200016914 Lightning Perfume Bottle - 1h Charged R2 #2 [6]
+200016916 Lightning Perfume Bottle - 1h Charged R2 #2 [8]
+200016918 Lightning Perfume Bottle - 1h Charged R2 #2 [10]
+200016920 Lightning Perfume Bottle - 2h Charged R2 #1 [1]
+200016921 Lightning Perfume Bottle - 2h Charged R2 #1 [3]
+200016922 Lightning Perfume Bottle - 2h Charged R2 #1 [5]
+200016923 Lightning Perfume Bottle - 2h Charged R2 #1 [7]
+200016924 Lightning Perfume Bottle - 2h Charged R2 #1 [9]
+200016925 Lightning Perfume Bottle - 2h Charged R2 #1 [11]
+200016926 Lightning Perfume Bottle - 2h Charged R2 #1 [13]
+200016927 Lightning Perfume Bottle - 2h Charged R2 #1 [15]
+200016928 Lightning Perfume Bottle - 2h Charged R2 #1 [17]
+200016929 Lightning Perfume Bottle - 2h Charged R2 #1 [19]
+200016930 Lightning Perfume Bottle - 2h Charged R2 #1 [2]
+200016931 Lightning Perfume Bottle - 2h Charged R2 #1 [4]
+200016932 Lightning Perfume Bottle - 2h Charged R2 #1 [6]
+200016933 Lightning Perfume Bottle - 2h Charged R2 #1 [8]
+200016934 Lightning Perfume Bottle - 2h Charged R2 #1 [10]
+200016935 Lightning Perfume Bottle - 2h Charged R2 #1 [12]
+200016936 Lightning Perfume Bottle - 2h Charged R2 #1 [14]
+200016937 Lightning Perfume Bottle - 2h Charged R2 #1 [16]
+200016938 Lightning Perfume Bottle - 2h Charged R2 #1 [18]
+200016939 Lightning Perfume Bottle - 2h Charged R2 #1 [20]
+200016940 Lightning Perfume Bottle - 2h Charged R2 #2 [2]
+200016941 Lightning Perfume Bottle - 2h Charged R2 #2 [4]
+200016942 Lightning Perfume Bottle - 2h Charged R2 #2 [6]
+200016943 Lightning Perfume Bottle - 2h Charged R2 #2 [8]
+200016944 Lightning Perfume Bottle - 2h Charged R2 #2 [10]
+200016945 Lightning Perfume Bottle - 2h Charged R2 #2 [12]
+200016946 Lightning Perfume Bottle - 2h Charged R2 #2 [14]
+200016947 Lightning Perfume Bottle - 2h Charged R2 #2 [16]
+200016948 Lightning Perfume Bottle - 2h Charged R2 #2 [18]
+200016949 Lightning Perfume Bottle - 2h Charged R2 #2 [20]
+200016950 Lightning Perfume Bottle - 2h Charged R2 #2 [1]
+200016951 Lightning Perfume Bottle - 2h Charged R2 #2 [3]
+200016952 Lightning Perfume Bottle - 2h Charged R2 #2 [5]
+200016953 Lightning Perfume Bottle - 2h Charged R2 #2 [7]
+200016954 Lightning Perfume Bottle - 2h Charged R2 #2 [9]
+200016955 Lightning Perfume Bottle - 2h Charged R2 #2 [11]
+200016956 Lightning Perfume Bottle - 2h Charged R2 #2 [13]
+200016957 Lightning Perfume Bottle - 2h Charged R2 #2 [15]
+200016958 Lightning Perfume Bottle - 2h Charged R2 #2 [17]
+200016959 Lightning Perfume Bottle - 2h Charged R2 #2 [19]
+200016960 Lightning Perfume Bottle - 2h Running R2 [1]
+200016961 Lightning Perfume Bottle - 2h Running R2 [3]
+200016962 Lightning Perfume Bottle - 2h Running R2 [5]
+200016963 Lightning Perfume Bottle - 2h Running R2 [7]
+200016964 Lightning Perfume Bottle - 2h Running R2 [9]
+200016965 Lightning Perfume Bottle - 2h Running R2 [2]
+200016966 Lightning Perfume Bottle - 2h Running R2 [4]
+200016967 Lightning Perfume Bottle - 2h Running R2 [6]
+200016968 Lightning Perfume Bottle - 2h Running R2 [8]
+200016969 Lightning Perfume Bottle - 2h Running R2 [10]
+200016970 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200016971 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200016972 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200016973 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200016975 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200016976 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200016977 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200016978 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200016980 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200016981 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200016982 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200016983 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200016985 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200016986 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200016987 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200016988 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200017000 Lightning Perfume Bottle - 1h R1 #1 [Hit]
+200017010 Lightning Perfume Bottle - 1h R1 #2 [Hit]
+200017020 Lightning Perfume Bottle - 1h R1 #3 [Hit]
+200017030 Lightning Perfume Bottle - 1h R1 #4 [Hit]
+200017100 Lightning Perfume Bottle - 1h R2 #1 [Hit]
+200017105 Lightning Perfume Bottle - 1h Charged R2 #1 [Hit]
+200017110 Lightning Perfume Bottle - 1h R2 #2 [Hit]
+200017115 Lightning Perfume Bottle - 1h Charged R2 #2 [Hit]
+200017120 Lightning Perfume Bottle - 1h Running R1 [Hit]
+200017125 Lightning Perfume Bottle - 1h Running R2 [Hit]
+200017130 Lightning Perfume Bottle - 1h Rolling R1 [Hit]
+200017140 Lightning Perfume Bottle - 1h Backstep R1 [Hit]
+200017150 Lightning Perfume Bottle - 1h Jumping R1 [Hit]
+200017160 Lightning Perfume Bottle - 1h Jumping R2 [Hit]
+200017167 Lightning Perfume Bottle - 1h Charged R2 #1 Feint [Hit]
+200017173 Lightning Perfume Bottle - 1h Charged R2 #2 Feint [Hit]
+200017180 Lightning Perfume Bottle - 1h Guard Counter [Hit]
+200017200 Lightning Perfume Bottle - 2h R1 #1 [Hit]
+200017203 Lightning Perfume Bottle - 2h R1 #1 [Hit]
+200017210 Lightning Perfume Bottle - 2h R1 #2 [Hit]
+200017213 Lightning Perfume Bottle - 2h R1 #2 [Hit]
+200017220 Lightning Perfume Bottle - 2h R1 #3 [Hit]
+200017223 Lightning Perfume Bottle - 2h R1 #3 [Hit]
+200017230 Lightning Perfume Bottle - 2h R1 #4 [Hit]
+200017233 Lightning Perfume Bottle - 2h R1 #4 [Hit]
+200017300 Lightning Perfume Bottle - 2h R2 #1 [Hit]
+200017303 Lightning Perfume Bottle - 2h R2 #1 [Hit]
+200017305 Lightning Perfume Bottle - 2h Charged R2 #1 [Hit]
+200017308 Lightning Perfume Bottle - 2h Charged R2 #1 [Hit]
+200017310 Lightning Perfume Bottle - 2h R2 #2 [Hit]
+200017313 Lightning Perfume Bottle - 2h R2 #2 [Hit]
+200017315 Lightning Perfume Bottle - 2h Charged R2 #2 [Hit]
+200017318 Lightning Perfume Bottle - 2h Charged R2 #2 [Hit]
+200017320 Lightning Perfume Bottle - 2h Running R1 [Hit]
+200017323 Lightning Perfume Bottle - 2h Running R1 [Hit]
+200017325 Lightning Perfume Bottle - 2h Running R2 [Hit]
+200017326 Lightning Perfume Bottle - 2h Running R2 [Hit]
+200017328 Lightning Perfume Bottle - 2h Running R2 [Hit]
+200017329 Lightning Perfume Bottle - 2h Running R2 [Hit]
+200017330 Lightning Perfume Bottle - 2h Rolling R1 [Hit]
+200017333 Lightning Perfume Bottle - 2h Rolling R1 [Hit]
+200017340 Lightning Perfume Bottle - 2h Backstep R1 [Hit]
+200017343 Lightning Perfume Bottle - 2h Backstep R1 [Hit]
+200017350 Lightning Perfume Bottle - 2h Jumping R1 [Hit]
+200017353 Lightning Perfume Bottle - 2h Jumping R1 [Hit]
+200017360 Lightning Perfume Bottle - 2h Jumping R2 [Hit]
+200017363 Lightning Perfume Bottle - 2h Jumping R2 [Hit]
+200017400 Lightning Perfume Bottle - Offhand R1 #1 [Hit]
+200017410 Lightning Perfume Bottle - Offhand R1 #2 [Hit]
+200017420 Lightning Perfume Bottle - Offhand R1 #3 [Hit]
+200017430 Lightning Perfume Bottle - Offhand R1 #4 [Hit]
+200017800 Lightning Perfume Bottle - Paired L1 #1 (Right) [Hit]
+200017803 Lightning Perfume Bottle - Paired L1 #1 (Left) [Hit]
+200017810 Lightning Perfume Bottle - Paired L1 #2 (Right) [Hit]
+200017813 Lightning Perfume Bottle - Paired L1 #2 (Left) [Hit]
+200017820 Lightning Perfume Bottle - Paired L1 #3 (Right) [Hit]
+200017823 Lightning Perfume Bottle - Paired L1 #3 (Left) [Hit]
+200017830 Lightning Perfume Bottle - Paired L1 #4 (Right) [Hit]
+200017833 Lightning Perfume Bottle - Paired L1 #4 (Left) [Hit]
+200017860 Lightning Perfume Bottle - Paired Running L1 (Right) [Hit]
+200017863 Lightning Perfume Bottle - Paired Running L1 (Left) [Hit]
+200017870 Lightning Perfume Bottle - Paired Rolling L1 (Right) [Hit]
+200017873 Lightning Perfume Bottle - Paired Rolling L1 (Left) [Hit]
+200017880 Lightning Perfume Bottle - Paired Backstep L1 (Right) [Hit]
+200017883 Lightning Perfume Bottle - Paired Backstep L1 (Left) [Hit]
+200017890 Lightning Perfume Bottle - Paired Jumping L1 (Right) [Hit]
+200017893 Lightning Perfume Bottle - Paired Jumping L1 (Left) [Hit]
+200017970 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200017975 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200017980 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200017985 Lightning Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200018000 Deadly Poison Perfume Bottle - 1h R1 #1 [1]
+200018001 Deadly Poison Perfume Bottle - 1h R1 #1 [2]
+200018002 Deadly Poison Perfume Bottle - 1h R1 #1 [3]
+200018003 Deadly Poison Perfume Bottle - 1h R1 #1 [4]
+200018004 Deadly Poison Perfume Bottle - 1h R1 #1 [5]
+200018005 Deadly Poison Perfume Bottle - 1h R1 #1 [6]
+200018010 Deadly Poison Perfume Bottle - 1h R1 #2 [1]
+200018011 Deadly Poison Perfume Bottle - 1h R1 #2 [2]
+200018012 Deadly Poison Perfume Bottle - 1h R1 #2 [3]
+200018013 Deadly Poison Perfume Bottle - 1h R1 #2 [4]
+200018014 Deadly Poison Perfume Bottle - 1h R1 #2 [5]
+200018015 Deadly Poison Perfume Bottle - 1h R1 #2 [6]
+200018020 Deadly Poison Perfume Bottle - 1h R1 #3 [1]
+200018021 Deadly Poison Perfume Bottle - 1h R1 #3 [2]
+200018022 Deadly Poison Perfume Bottle - 1h R1 #3 [3]
+200018023 Deadly Poison Perfume Bottle - 1h R1 #3 [4]
+200018024 Deadly Poison Perfume Bottle - 1h R1 #3 [5]
+200018025 Deadly Poison Perfume Bottle - 1h R1 #3 [6]
+200018030 Deadly Poison Perfume Bottle - 1h R1 #4 [1]
+200018031 Deadly Poison Perfume Bottle - 1h R1 #4 [2]
+200018032 Deadly Poison Perfume Bottle - 1h R1 #4 [3]
+200018033 Deadly Poison Perfume Bottle - 1h R1 #4 [4]
+200018034 Deadly Poison Perfume Bottle - 1h R1 #4 [5]
+200018035 Deadly Poison Perfume Bottle - 1h R1 #4 [6]
+200018100 Deadly Poison Perfume Bottle - 1h R2 #1 [1]
+200018101 Deadly Poison Perfume Bottle - 1h R2 #1 [2]
+200018102 Deadly Poison Perfume Bottle - 1h R2 #1 [3]
+200018103 Deadly Poison Perfume Bottle - 1h R2 #1 [4]
+200018105 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [1]
+200018106 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [3]
+200018107 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [5]
+200018108 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [7]
+200018109 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [9]
+200018110 Deadly Poison Perfume Bottle - 1h R2 #2 [1]
+200018111 Deadly Poison Perfume Bottle - 1h R2 #2 [2]
+200018112 Deadly Poison Perfume Bottle - 1h R2 #2 [3]
+200018113 Deadly Poison Perfume Bottle - 1h R2 #2 [4]
+200018114 Deadly Poison Perfume Bottle - 1h R2 #2 [5]
+200018115 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [1]
+200018116 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [3]
+200018117 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [5]
+200018118 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [7]
+200018119 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [9]
+200018120 Deadly Poison Perfume Bottle - 1h Running R1 [1]
+200018121 Deadly Poison Perfume Bottle - 1h Running R1 [2]
+200018122 Deadly Poison Perfume Bottle - 1h Running R1 [3]
+200018123 Deadly Poison Perfume Bottle - 1h Running R1 [4]
+200018124 Deadly Poison Perfume Bottle - 1h Running R1 [5]
+200018125 Deadly Poison Perfume Bottle - 1h Running R2 [1]
+200018127 Deadly Poison Perfume Bottle - 1h Running R2 [2]
+200018128 Deadly Poison Perfume Bottle - 1h Running R2 [3]
+200018130 Deadly Poison Perfume Bottle - 1h Rolling R1 [1]
+200018131 Deadly Poison Perfume Bottle - 1h Rolling R1 [2]
+200018132 Deadly Poison Perfume Bottle - 1h Rolling R1 [3]
+200018133 Deadly Poison Perfume Bottle - 1h Rolling R1 [4]
+200018134 Deadly Poison Perfume Bottle - 1h Rolling R1 [5]
+200018140 Deadly Poison Perfume Bottle - 1h Backstep R1 [1]
+200018141 Deadly Poison Perfume Bottle - 1h Backstep R1 [2]
+200018142 Deadly Poison Perfume Bottle - 1h Backstep R1 [3]
+200018143 Deadly Poison Perfume Bottle - 1h Backstep R1 [4]
+200018144 Deadly Poison Perfume Bottle - 1h Backstep R1 [5]
+200018150 Deadly Poison Perfume Bottle - 1h Jumping R1 [1]
+200018151 Deadly Poison Perfume Bottle - 1h Jumping R1 [2]
+200018152 Deadly Poison Perfume Bottle - 1h Jumping R1 [3]
+200018153 Deadly Poison Perfume Bottle - 1h Jumping R1 [4]
+200018154 Deadly Poison Perfume Bottle - 1h Jumping R1 [5]
+200018160 Deadly Poison Perfume Bottle - 1h Jumping R2 [1]
+200018161 Deadly Poison Perfume Bottle - 1h Jumping R2 [2]
+200018162 Deadly Poison Perfume Bottle - 1h Jumping R2 [3]
+200018163 Deadly Poison Perfume Bottle - 1h Jumping R2 [4]
+200018164 Deadly Poison Perfume Bottle - 1h Jumping R2 [5]
+200018167 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [1]
+200018168 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [2]
+200018169 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [3]
+200018170 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [4]
+200018171 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [5]
+200018172 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [6]
+200018173 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [1]
+200018174 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [2]
+200018175 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [3]
+200018176 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [4]
+200018177 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [5]
+200018178 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [6]
+200018180 Deadly Poison Perfume Bottle - 1h Guard Counter [1]
+200018181 Deadly Poison Perfume Bottle - 1h Guard Counter [2]
+200018182 Deadly Poison Perfume Bottle - 1h Guard Counter [3]
+200018183 Deadly Poison Perfume Bottle - 1h Guard Counter [4]
+200018184 Deadly Poison Perfume Bottle - 1h Guard Counter [5]
+200018200 Deadly Poison Perfume Bottle - 2h R1 #1 [1]
+200018201 Deadly Poison Perfume Bottle - 2h R1 #1 [2]
+200018202 Deadly Poison Perfume Bottle - 2h R1 #1 [3]
+200018203 Deadly Poison Perfume Bottle - 2h R1 #1 [4]
+200018204 Deadly Poison Perfume Bottle - 2h R1 #1 [5]
+200018205 Deadly Poison Perfume Bottle - 2h R1 #1 [6]
+200018206 Deadly Poison Perfume Bottle - 2h R1 #1 [7]
+200018207 Deadly Poison Perfume Bottle - 2h R1 #1 [8]
+200018208 Deadly Poison Perfume Bottle - 2h R1 #1 [9]
+200018209 Deadly Poison Perfume Bottle - 2h R1 #1 [10]
+200018210 Deadly Poison Perfume Bottle - 2h R1 #2 [1]
+200018211 Deadly Poison Perfume Bottle - 2h R1 #2 [2]
+200018212 Deadly Poison Perfume Bottle - 2h R1 #2 [3]
+200018213 Deadly Poison Perfume Bottle - 2h R1 #2 [4]
+200018214 Deadly Poison Perfume Bottle - 2h R1 #2 [5]
+200018215 Deadly Poison Perfume Bottle - 2h R1 #2 [6]
+200018216 Deadly Poison Perfume Bottle - 2h R1 #2 [7]
+200018217 Deadly Poison Perfume Bottle - 2h R1 #2 [8]
+200018218 Deadly Poison Perfume Bottle - 2h R1 #2 [9]
+200018219 Deadly Poison Perfume Bottle - 2h R1 #2 [10]
+200018220 Deadly Poison Perfume Bottle - 2h R1 #3 [1]
+200018221 Deadly Poison Perfume Bottle - 2h R1 #3 [2]
+200018222 Deadly Poison Perfume Bottle - 2h R1 #3 [3]
+200018223 Deadly Poison Perfume Bottle - 2h R1 #3 [4]
+200018224 Deadly Poison Perfume Bottle - 2h R1 #3 [5]
+200018225 Deadly Poison Perfume Bottle - 2h R1 #3 [6]
+200018226 Deadly Poison Perfume Bottle - 2h R1 #3 [7]
+200018227 Deadly Poison Perfume Bottle - 2h R1 #3 [8]
+200018228 Deadly Poison Perfume Bottle - 2h R1 #3 [9]
+200018229 Deadly Poison Perfume Bottle - 2h R1 #3 [10]
+200018230 Deadly Poison Perfume Bottle - 2h R1 #4 [1]
+200018231 Deadly Poison Perfume Bottle - 2h R1 #4 [2]
+200018232 Deadly Poison Perfume Bottle - 2h R1 #4 [3]
+200018233 Deadly Poison Perfume Bottle - 2h R1 #4 [4]
+200018234 Deadly Poison Perfume Bottle - 2h R1 #4 [5]
+200018235 Deadly Poison Perfume Bottle - 2h R1 #4 [6]
+200018236 Deadly Poison Perfume Bottle - 2h R1 #4 [7]
+200018237 Deadly Poison Perfume Bottle - 2h R1 #4 [8]
+200018238 Deadly Poison Perfume Bottle - 2h R1 #4 [9]
+200018239 Deadly Poison Perfume Bottle - 2h R1 #4 [10]
+200018300 Deadly Poison Perfume Bottle - 2h R2 #1 [1]
+200018301 Deadly Poison Perfume Bottle - 2h R2 #1 [2]
+200018302 Deadly Poison Perfume Bottle - 2h R2 #1 [4]
+200018303 Deadly Poison Perfume Bottle - 2h R2 #1 [6]
+200018305 Deadly Poison Perfume Bottle - 2h R2 #1 [3]
+200018306 Deadly Poison Perfume Bottle - 2h R2 #1 [5]
+200018307 Deadly Poison Perfume Bottle - 2h R2 #1 [7]
+200018308 Deadly Poison Perfume Bottle - 2h R2 #1 [8]
+200018310 Deadly Poison Perfume Bottle - 2h R2 #2 [1]
+200018311 Deadly Poison Perfume Bottle - 2h R2 #2 [2]
+200018312 Deadly Poison Perfume Bottle - 2h R2 #2 [4]
+200018313 Deadly Poison Perfume Bottle - 2h R2 #2 [6]
+200018314 Deadly Poison Perfume Bottle - 2h R2 #2 [3]
+200018315 Deadly Poison Perfume Bottle - 2h R2 #2 [5]
+200018316 Deadly Poison Perfume Bottle - 2h R2 #2 [7]
+200018317 Deadly Poison Perfume Bottle - 2h R2 #2 [8]
+200018318 Deadly Poison Perfume Bottle - 2h R2 #2 [9]
+200018319 Deadly Poison Perfume Bottle - 2h R2 #2 [10]
+200018320 Deadly Poison Perfume Bottle - 2h Running R1 [1]
+200018321 Deadly Poison Perfume Bottle - 2h Running R1 [2]
+200018322 Deadly Poison Perfume Bottle - 2h Running R1 [3]
+200018323 Deadly Poison Perfume Bottle - 2h Running R1 [4]
+200018324 Deadly Poison Perfume Bottle - 2h Running R1 [5]
+200018325 Deadly Poison Perfume Bottle - 2h Running R1 [6]
+200018326 Deadly Poison Perfume Bottle - 2h Running R1 [7]
+200018327 Deadly Poison Perfume Bottle - 2h Running R1 [8]
+200018328 Deadly Poison Perfume Bottle - 2h Running R1 [9]
+200018329 Deadly Poison Perfume Bottle - 2h Running R1 [10]
+200018330 Deadly Poison Perfume Bottle - 2h Rolling R1 [1]
+200018331 Deadly Poison Perfume Bottle - 2h Rolling R1 [3]
+200018332 Deadly Poison Perfume Bottle - 2h Rolling R1 [5]
+200018333 Deadly Poison Perfume Bottle - 2h Rolling R1 [7]
+200018334 Deadly Poison Perfume Bottle - 2h Rolling R1 [9]
+200018335 Deadly Poison Perfume Bottle - 2h Rolling R1 [2]
+200018336 Deadly Poison Perfume Bottle - 2h Rolling R1 [4]
+200018337 Deadly Poison Perfume Bottle - 2h Rolling R1 [6]
+200018338 Deadly Poison Perfume Bottle - 2h Rolling R1 [8]
+200018339 Deadly Poison Perfume Bottle - 2h Rolling R1 [10]
+200018340 Deadly Poison Perfume Bottle - 2h Backstep R1 [1]
+200018341 Deadly Poison Perfume Bottle - 2h Backstep R1 [3]
+200018342 Deadly Poison Perfume Bottle - 2h Backstep R1 [5]
+200018343 Deadly Poison Perfume Bottle - 2h Backstep R1 [7]
+200018344 Deadly Poison Perfume Bottle - 2h Backstep R1 [9]
+200018345 Deadly Poison Perfume Bottle - 2h Backstep R1 [2]
+200018346 Deadly Poison Perfume Bottle - 2h Backstep R1 [4]
+200018347 Deadly Poison Perfume Bottle - 2h Backstep R1 [6]
+200018348 Deadly Poison Perfume Bottle - 2h Backstep R1 [8]
+200018349 Deadly Poison Perfume Bottle - 2h Backstep R1 [10]
+200018350 Deadly Poison Perfume Bottle - 2h Jumping R1 [1]
+200018351 Deadly Poison Perfume Bottle - 2h Jumping R1 [3]
+200018352 Deadly Poison Perfume Bottle - 2h Jumping R1 [5]
+200018353 Deadly Poison Perfume Bottle - 2h Jumping R1 [7]
+200018354 Deadly Poison Perfume Bottle - 2h Jumping R1 [9]
+200018355 Deadly Poison Perfume Bottle - 2h Jumping R1 [2]
+200018356 Deadly Poison Perfume Bottle - 2h Jumping R1 [4]
+200018357 Deadly Poison Perfume Bottle - 2h Jumping R1 [6]
+200018358 Deadly Poison Perfume Bottle - 2h Jumping R1 [8]
+200018359 Deadly Poison Perfume Bottle - 2h Jumping R1 [10]
+200018360 Deadly Poison Perfume Bottle - 2h Jumping R2 [1]
+200018361 Deadly Poison Perfume Bottle - 2h Jumping R2 [3]
+200018362 Deadly Poison Perfume Bottle - 2h Jumping R2 [5]
+200018363 Deadly Poison Perfume Bottle - 2h Jumping R2 [7]
+200018364 Deadly Poison Perfume Bottle - 2h Jumping R2 [9]
+200018365 Deadly Poison Perfume Bottle - 2h Jumping R2 [2]
+200018366 Deadly Poison Perfume Bottle - 2h Jumping R2 [4]
+200018367 Deadly Poison Perfume Bottle - 2h Jumping R2 [6]
+200018368 Deadly Poison Perfume Bottle - 2h Jumping R2 [8]
+200018369 Deadly Poison Perfume Bottle - 2h Jumping R2 [10]
+200018400 Deadly Poison Perfume Bottle - Offhand R1 #1 [1]
+200018401 Deadly Poison Perfume Bottle - Offhand R1 #1 [2]
+200018402 Deadly Poison Perfume Bottle - Offhand R1 #1 [3]
+200018403 Deadly Poison Perfume Bottle - Offhand R1 #1 [4]
+200018404 Deadly Poison Perfume Bottle - Offhand R1 #1 [5]
+200018405 Deadly Poison Perfume Bottle - Offhand R1 #1 [6]
+200018410 Deadly Poison Perfume Bottle - Offhand R1 #2 [1]
+200018411 Deadly Poison Perfume Bottle - Offhand R1 #2 [2]
+200018412 Deadly Poison Perfume Bottle - Offhand R1 #2 [3]
+200018413 Deadly Poison Perfume Bottle - Offhand R1 #2 [4]
+200018414 Deadly Poison Perfume Bottle - Offhand R1 #2 [5]
+200018415 Deadly Poison Perfume Bottle - Offhand R1 #2 [6]
+200018420 Deadly Poison Perfume Bottle - Offhand R1 #3 [1]
+200018421 Deadly Poison Perfume Bottle - Offhand R1 #3 [2]
+200018422 Deadly Poison Perfume Bottle - Offhand R1 #3 [3]
+200018423 Deadly Poison Perfume Bottle - Offhand R1 #3 [4]
+200018424 Deadly Poison Perfume Bottle - Offhand R1 #3 [5]
+200018425 Deadly Poison Perfume Bottle - Offhand R1 #3 [6]
+200018430 Deadly Poison Perfume Bottle - Offhand R1 #4 [1]
+200018431 Deadly Poison Perfume Bottle - Offhand R1 #4 [2]
+200018432 Deadly Poison Perfume Bottle - Offhand R1 #4 [3]
+200018433 Deadly Poison Perfume Bottle - Offhand R1 #4 [4]
+200018434 Deadly Poison Perfume Bottle - Offhand R1 #4 [5]
+200018435 Deadly Poison Perfume Bottle - Offhand R1 #4 [6]
+200018800 Deadly Poison Perfume Bottle - Paired L1 #1 [1] (Right)
+200018801 Deadly Poison Perfume Bottle - Paired L1 #1 [3] (Right)
+200018802 Deadly Poison Perfume Bottle - Paired L1 #1 [5] (Right)
+200018803 Deadly Poison Perfume Bottle - Paired L1 #1 [7] (Right)
+200018804 Deadly Poison Perfume Bottle - Paired L1 #1 [9] (Right)
+200018805 Deadly Poison Perfume Bottle - Paired L1 #1 [2] (Left)
+200018806 Deadly Poison Perfume Bottle - Paired L1 #1 [4] (Left)
+200018807 Deadly Poison Perfume Bottle - Paired L1 #1 [6] (Left)
+200018808 Deadly Poison Perfume Bottle - Paired L1 #1 [8] (Left)
+200018809 Deadly Poison Perfume Bottle - Paired L1 #1 [10] (Left)
+200018810 Deadly Poison Perfume Bottle - Paired L1 #2 [1] (Right)
+200018811 Deadly Poison Perfume Bottle - Paired L1 #2 [3] (Right)
+200018812 Deadly Poison Perfume Bottle - Paired L1 #2 [5] (Right)
+200018813 Deadly Poison Perfume Bottle - Paired L1 #2 [7] (Right)
+200018814 Deadly Poison Perfume Bottle - Paired L1 #2 [9] (Right)
+200018815 Deadly Poison Perfume Bottle - Paired L1 #2 [2] (Left)
+200018816 Deadly Poison Perfume Bottle - Paired L1 #2 [4] (Left)
+200018817 Deadly Poison Perfume Bottle - Paired L1 #2 [6] (Left)
+200018818 Deadly Poison Perfume Bottle - Paired L1 #2 [8] (Left)
+200018819 Deadly Poison Perfume Bottle - Paired L1 #2 [10] (Left)
+200018820 Deadly Poison Perfume Bottle - Paired L1 #3 [1] (Right)
+200018821 Deadly Poison Perfume Bottle - Paired L1 #3 [3] (Right)
+200018822 Deadly Poison Perfume Bottle - Paired L1 #3 [5] (Right)
+200018823 Deadly Poison Perfume Bottle - Paired L1 #3 [7] (Right)
+200018824 Deadly Poison Perfume Bottle - Paired L1 #3 [9] (Right)
+200018825 Deadly Poison Perfume Bottle - Paired L1 #3 [2] (Left)
+200018826 Deadly Poison Perfume Bottle - Paired L1 #3 [4] (Left)
+200018827 Deadly Poison Perfume Bottle - Paired L1 #3 [6] (Left)
+200018828 Deadly Poison Perfume Bottle - Paired L1 #3 [8] (Left)
+200018829 Deadly Poison Perfume Bottle - Paired L1 #3 [10] (Left)
+200018830 Deadly Poison Perfume Bottle - Paired L1 #4 [1] (Right)
+200018831 Deadly Poison Perfume Bottle - Paired L1 #4 [3] (Right)
+200018832 Deadly Poison Perfume Bottle - Paired L1 #4 [5] (Right)
+200018833 Deadly Poison Perfume Bottle - Paired L1 #4 [7] (Right)
+200018834 Deadly Poison Perfume Bottle - Paired L1 #4 [9] (Right)
+200018835 Deadly Poison Perfume Bottle - Paired L1 #4 [2] (Left)
+200018836 Deadly Poison Perfume Bottle - Paired L1 #4 [4] (Left)
+200018837 Deadly Poison Perfume Bottle - Paired L1 #4 [6] (Left)
+200018838 Deadly Poison Perfume Bottle - Paired L1 #4 [8] (Left)
+200018839 Deadly Poison Perfume Bottle - Paired L1 #4 [10] (Left)
+200018860 Deadly Poison Perfume Bottle - Paired Running L1 [1] (Right)
+200018861 Deadly Poison Perfume Bottle - Paired Running L1 [2] (Right)
+200018862 Deadly Poison Perfume Bottle - Paired Running L1 [4] (Right)
+200018863 Deadly Poison Perfume Bottle - Paired Running L1 [6] (Right)
+200018864 Deadly Poison Perfume Bottle - Paired Running L1 [8] (Right)
+200018865 Deadly Poison Perfume Bottle - Paired Running L1 [3] (Left)
+200018866 Deadly Poison Perfume Bottle - Paired Running L1 [5] (Left)
+200018867 Deadly Poison Perfume Bottle - Paired Running L1 [7] (Left)
+200018868 Deadly Poison Perfume Bottle - Paired Running L1 [9] (Left)
+200018869 Deadly Poison Perfume Bottle - Paired Running L1 [10] (Left)
+200018870 Deadly Poison Perfume Bottle - Paired Rolling L1 [1] (Right)
+200018871 Deadly Poison Perfume Bottle - Paired Rolling L1 [3] (Right)
+200018872 Deadly Poison Perfume Bottle - Paired Rolling L1 [5] (Right)
+200018873 Deadly Poison Perfume Bottle - Paired Rolling L1 [7] (Right)
+200018874 Deadly Poison Perfume Bottle - Paired Rolling L1 [9] (Right)
+200018875 Deadly Poison Perfume Bottle - Paired Rolling L1 [2] (Left)
+200018876 Deadly Poison Perfume Bottle - Paired Rolling L1 [4] (Left)
+200018877 Deadly Poison Perfume Bottle - Paired Rolling L1 [6] (Left)
+200018878 Deadly Poison Perfume Bottle - Paired Rolling L1 [8] (Left)
+200018879 Deadly Poison Perfume Bottle - Paired Rolling L1 [10] (Left)
+200018880 Deadly Poison Perfume Bottle - Paired Backstep L1 [1] (Right)
+200018881 Deadly Poison Perfume Bottle - Paired Backstep L1 [3] (Right)
+200018882 Deadly Poison Perfume Bottle - Paired Backstep L1 [5] (Right)
+200018883 Deadly Poison Perfume Bottle - Paired Backstep L1 [7] (Right)
+200018884 Deadly Poison Perfume Bottle - Paired Backstep L1 [9] (Right)
+200018885 Deadly Poison Perfume Bottle - Paired Backstep L1 [2] (Left)
+200018886 Deadly Poison Perfume Bottle - Paired Backstep L1 [4] (Left)
+200018887 Deadly Poison Perfume Bottle - Paired Backstep L1 [6] (Left)
+200018888 Deadly Poison Perfume Bottle - Paired Backstep L1 [8] (Left)
+200018889 Deadly Poison Perfume Bottle - Paired Backstep L1 [10] (Left)
+200018890 Deadly Poison Perfume Bottle - Paired Jumping L1 [1] (Right)
+200018891 Deadly Poison Perfume Bottle - Paired Jumping L1 [3] (Right)
+200018892 Deadly Poison Perfume Bottle - Paired Jumping L1 [5] (Right)
+200018893 Deadly Poison Perfume Bottle - Paired Jumping L1 [7] (Right)
+200018894 Deadly Poison Perfume Bottle - Paired Jumping L1 [9] (Right)
+200018895 Deadly Poison Perfume Bottle - Paired Jumping L1 [2] (Left)
+200018896 Deadly Poison Perfume Bottle - Paired Jumping L1 [4] (Left)
+200018897 Deadly Poison Perfume Bottle - Paired Jumping L1 [6] (Left)
+200018898 Deadly Poison Perfume Bottle - Paired Jumping L1 [8] (Left)
+200018899 Deadly Poison Perfume Bottle - Paired Jumping L1 [10] (Left)
+200018900 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [2]
+200018902 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [4]
+200018904 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [6]
+200018906 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [8]
+200018908 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [10]
+200018910 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [2]
+200018912 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [4]
+200018914 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [6]
+200018916 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [8]
+200018918 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [10]
+200018920 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [1]
+200018921 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [3]
+200018922 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [5]
+200018923 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [7]
+200018924 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [9]
+200018925 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [11]
+200018926 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [13]
+200018927 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [15]
+200018928 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [17]
+200018929 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [19]
+200018930 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [2]
+200018931 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [4]
+200018932 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [6]
+200018933 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [8]
+200018934 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [10]
+200018935 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [12]
+200018936 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [14]
+200018937 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [16]
+200018938 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [18]
+200018939 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [20]
+200018940 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [2]
+200018941 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [4]
+200018942 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [6]
+200018943 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [8]
+200018944 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [10]
+200018945 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [12]
+200018946 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [14]
+200018947 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [16]
+200018948 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [18]
+200018949 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [20]
+200018950 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [1]
+200018951 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [3]
+200018952 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [5]
+200018953 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [7]
+200018954 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [9]
+200018955 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [11]
+200018956 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [13]
+200018957 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [15]
+200018958 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [17]
+200018959 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [19]
+200018960 Deadly Poison Perfume Bottle - 2h Running R2 [1]
+200018961 Deadly Poison Perfume Bottle - 2h Running R2 [3]
+200018962 Deadly Poison Perfume Bottle - 2h Running R2 [5]
+200018963 Deadly Poison Perfume Bottle - 2h Running R2 [7]
+200018964 Deadly Poison Perfume Bottle - 2h Running R2 [9]
+200018965 Deadly Poison Perfume Bottle - 2h Running R2 [2]
+200018966 Deadly Poison Perfume Bottle - 2h Running R2 [4]
+200018967 Deadly Poison Perfume Bottle - 2h Running R2 [6]
+200018968 Deadly Poison Perfume Bottle - 2h Running R2 [8]
+200018969 Deadly Poison Perfume Bottle - 2h Running R2 [10]
+200018970 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200018971 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200018972 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200018973 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200018975 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200018976 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200018977 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200018978 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200018980 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [1]
+200018981 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [2]
+200018982 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [4]
+200018983 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [6]
+200018985 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [3]
+200018986 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [5]
+200018987 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [7]
+200018988 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [8]
+200019000 Deadly Poison Perfume Bottle - 1h R1 #1 [Hit]
+200019010 Deadly Poison Perfume Bottle - 1h R1 #2 [Hit]
+200019020 Deadly Poison Perfume Bottle - 1h R1 #3 [Hit]
+200019030 Deadly Poison Perfume Bottle - 1h R1 #4 [Hit]
+200019100 Deadly Poison Perfume Bottle - 1h R2 #1 [Hit]
+200019105 Deadly Poison Perfume Bottle - 1h Charged R2 #1 [Hit]
+200019110 Deadly Poison Perfume Bottle - 1h R2 #2 [Hit]
+200019115 Deadly Poison Perfume Bottle - 1h Charged R2 #2 [Hit]
+200019120 Deadly Poison Perfume Bottle - 1h Running R1 [Hit]
+200019125 Deadly Poison Perfume Bottle - 1h Running R2 [Hit]
+200019130 Deadly Poison Perfume Bottle - 1h Rolling R1 [Hit]
+200019140 Deadly Poison Perfume Bottle - 1h Backstep R1 [Hit]
+200019150 Deadly Poison Perfume Bottle - 1h Jumping R1 [Hit]
+200019160 Deadly Poison Perfume Bottle - 1h Jumping R2 [Hit]
+200019167 Deadly Poison Perfume Bottle - 1h Charged R2 #1 Feint [Hit]
+200019173 Deadly Poison Perfume Bottle - 1h Charged R2 #2 Feint [Hit]
+200019180 Deadly Poison Perfume Bottle - 1h Guard Counter [Hit]
+200019200 Deadly Poison Perfume Bottle - 2h R1 #1 [Hit]
+200019203 Deadly Poison Perfume Bottle - 2h R1 #1 [Hit]
+200019210 Deadly Poison Perfume Bottle - 2h R1 #2 [Hit]
+200019213 Deadly Poison Perfume Bottle - 2h R1 #2 [Hit]
+200019220 Deadly Poison Perfume Bottle - 2h R1 #3 [Hit]
+200019223 Deadly Poison Perfume Bottle - 2h R1 #3 [Hit]
+200019230 Deadly Poison Perfume Bottle - 2h R1 #4 [Hit]
+200019233 Deadly Poison Perfume Bottle - 2h R1 #4 [Hit]
+200019300 Deadly Poison Perfume Bottle - 2h R2 #1 [Hit]
+200019303 Deadly Poison Perfume Bottle - 2h R2 #1 [Hit]
+200019305 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [Hit]
+200019308 Deadly Poison Perfume Bottle - 2h Charged R2 #1 [Hit]
+200019310 Deadly Poison Perfume Bottle - 2h R2 #2 [Hit]
+200019313 Deadly Poison Perfume Bottle - 2h R2 #2 [Hit]
+200019315 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [Hit]
+200019318 Deadly Poison Perfume Bottle - 2h Charged R2 #2 [Hit]
+200019320 Deadly Poison Perfume Bottle - 2h Running R1 [Hit]
+200019323 Deadly Poison Perfume Bottle - 2h Running R1 [Hit]
+200019325 Deadly Poison Perfume Bottle - 2h Running R2 [Hit]
+200019326 Deadly Poison Perfume Bottle - 2h Running R2 [Hit]
+200019328 Deadly Poison Perfume Bottle - 2h Running R2 [Hit]
+200019329 Deadly Poison Perfume Bottle - 2h Running R2 [Hit]
+200019330 Deadly Poison Perfume Bottle - 2h Rolling R1 [Hit]
+200019333 Deadly Poison Perfume Bottle - 2h Rolling R1 [Hit]
+200019340 Deadly Poison Perfume Bottle - 2h Backstep R1 [Hit]
+200019343 Deadly Poison Perfume Bottle - 2h Backstep R1 [Hit]
+200019350 Deadly Poison Perfume Bottle - 2h Jumping R1 [Hit]
+200019353 Deadly Poison Perfume Bottle - 2h Jumping R1 [Hit]
+200019360 Deadly Poison Perfume Bottle - 2h Jumping R2 [Hit]
+200019363 Deadly Poison Perfume Bottle - 2h Jumping R2 [Hit]
+200019400 Deadly Poison Perfume Bottle - Offhand R1 #1 [Hit]
+200019410 Deadly Poison Perfume Bottle - Offhand R1 #2 [Hit]
+200019420 Deadly Poison Perfume Bottle - Offhand R1 #3 [Hit]
+200019430 Deadly Poison Perfume Bottle - Offhand R1 #4 [Hit]
+200019800 Deadly Poison Perfume Bottle - Paired L1 #1 (Right) [Hit]
+200019803 Deadly Poison Perfume Bottle - Paired L1 #1 (Left) [Hit]
+200019810 Deadly Poison Perfume Bottle - Paired L1 #2 (Right) [Hit]
+200019813 Deadly Poison Perfume Bottle - Paired L1 #2 (Left) [Hit]
+200019820 Deadly Poison Perfume Bottle - Paired L1 #3 (Right) [Hit]
+200019823 Deadly Poison Perfume Bottle - Paired L1 #3 (Left) [Hit]
+200019830 Deadly Poison Perfume Bottle - Paired L1 #4 (Right) [Hit]
+200019833 Deadly Poison Perfume Bottle - Paired L1 #4 (Left) [Hit]
+200019860 Deadly Poison Perfume Bottle - Paired Running L1 (Right) [Hit]
+200019863 Deadly Poison Perfume Bottle - Paired Running L1 (Left) [Hit]
+200019870 Deadly Poison Perfume Bottle - Paired Rolling L1 (Right) [Hit]
+200019873 Deadly Poison Perfume Bottle - Paired Rolling L1 (Left) [Hit]
+200019880 Deadly Poison Perfume Bottle - Paired Backstep L1 (Right) [Hit]
+200019883 Deadly Poison Perfume Bottle - Paired Backstep L1 (Left) [Hit]
+200019890 Deadly Poison Perfume Bottle - Paired Jumping L1 (Right) [Hit]
+200019893 Deadly Poison Perfume Bottle - Paired Jumping L1 (Left) [Hit]
+200019970 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200019975 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200019980 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200019985 Deadly Poison Perfume Bottle - 2h Charged R2 #1 Feint [Hit]
+200020000 [Default] Throwing Blade - 1h R1 #1
+200020010 [Default] Throwing Blade - 1h R1 #2
+200020020 [Default] Throwing Blade - 1h R1 #3
+200020030 [Default] Throwing Blade - 1h R1 #4
+200020040 [Default] Throwing Blade - 1h R1 #5
+200020050 [Default] Throwing Blade - 1h R1 #6
+200020100 [Default] Throwing Blade - 1h R2 #1
+200020105 [Default] Throwing Blade - 1h Charged R2 #1
+200020110 [Default] Throwing Blade - 1h R2 #2
+200020115 [Default] Throwing Blade - 1h Charged R2 #2
+200020120 [Default] Throwing Blade - 1h Running R1
+200020125 [Default] Throwing Blade - 1h Running R2
+200020130 [Default] Throwing Blade - 1h Rolling R1
+200020140 [Default] Throwing Blade - 1h Backstep R1
+200020150 [Default] Throwing Blade - 1h Jumping R1
+200020160 [Default] Throwing Blade - 1h Jumping R2
+200020175 [Default] Throwing Blade - 1h Charged R2 #1 Feint
+200020176 [Default] Throwing Blade - 1h Charged R2 #2 Feint
+200020180 [Default] Throwing Blade - 1h Guard Counter
+200020200 [Default] Throwing Blade - 2h R1 #1 [2]
+200020203 [Default] Throwing Blade - 2h R1 #1 [1]
+200020210 [Default] Throwing Blade - 2h R1 #2 [1]
+200020213 [Default] Throwing Blade - 2h R1 #2 [2]
+200020220 [Default] Throwing Blade - 2h R1 #3 [1]
+200020223 [Default] Throwing Blade - 2h R1 #3 [2]
+200020230 [Default] Throwing Blade - 2h R1 #4 [1]
+200020233 [Default] Throwing Blade - 2h R1 #4 [2]
+200020240 [Default] Throwing Blade - 2h R1 #5 [1]
+200020243 [Default] Throwing Blade - 2h R1 #5 [2]
+200020250 [Default] Throwing Blade - 2h R1 #6 [1]
+200020253 [Default] Throwing Blade - 2h R1 #6 [2]
+200020300 [Default] Throwing Blade - 2h R2 #1 [2]
+200020303 [Default] Throwing Blade - 2h R2 #1 [1]
+200020305 [Default] Throwing Blade - 2h Charged R2 #1 [2]
+200020308 [Default] Throwing Blade - 2h Charged R2 #1 [1]
+200020310 [Default] Throwing Blade - 2h R2 #2 [1]
+200020313 [Default] Throwing Blade - 2h R2 #2 [2]
+200020315 [Default] Throwing Blade - 2h Charged R2 #2 [1]
+200020318 [Default] Throwing Blade - 2h Charged R2 #2 [2]
+200020320 [Default] Throwing Blade - 2h Running R1 [1]
+200020323 [Default] Throwing Blade - 2h Running R1 [2]
+200020325 [Default] Throwing Blade - 2h Running R2 [2]
+200020328 [Default] Throwing Blade - 2h Running R2 [1]
+200020330 [Default] Throwing Blade - 2h Rolling R1 [2]
+200020333 [Default] Throwing Blade - 2h Rolling R1 [1]
+200020340 [Default] Throwing Blade - 2h Backstep R1 [1]
+200020343 [Default] Throwing Blade - 2h Backstep R1 [2]
+200020350 [Default] Throwing Blade - 2h Jumping R1 [2]
+200020353 [Default] Throwing Blade - 2h Jumping R1 [1]
+200020360 [Default] Throwing Blade - 2h Jumping R2 [2]
+200020363 [Default] Throwing Blade - 2h Jumping R2 [1]
+200020375 [Default] Throwing Blade - 2h Charged R2 #1 Feint [2]
+200020376 [Default] Throwing Blade - 2h Charged R2 #1 Feint [1]
+200020377 [Default] Throwing Blade - 2h Charged R2 #2 Feint [1]
+200020378 [Default] Throwing Blade - 2h Charged R2 #2 Feint [2]
+200020380 [Default] Throwing Blade - 2h Guard Counter [2]
+200020381 [Default] Throwing Blade - 2h Guard Counter [1]
+200020400 [Default] Throwing Blade - Offhand R1 #1 [1]
+200020410 [Default] Throwing Blade - Offhand R1 #2 [1]
+200020420 [Default] Throwing Blade - Offhand R1 #3 [1]
+200020430 [Default] Throwing Blade - Offhand R1 #4 [1]
+200020440 [Default] Throwing Blade - Offhand R1 #5 [1]
+200020450 [Default] Throwing Blade - Offhand R1 #6 [1]
+200020600 [Default] Throwing Blade - Mounted R1 #1 [1]
+200020605 [Default] Throwing Blade - Mounted R1 #2 [1]
+200020610 [Default] Throwing Blade - Mounted R1 #3 [1]
+200020632 [Default] Throwing Blade - Mounted R2 [1]
+200020635 [Default] Throwing Blade - Mounted Charged R2 [1]
+200020800 [Default] Throwing Blade - Paired L1 #1 [2] (Right)
+200020805 [Default] Throwing Blade - Paired L1 #1 [1] (Left)
+200020810 [Default] Throwing Blade - Paired L1 #2 [1] (Right)
+200020815 [Default] Throwing Blade - Paired L1 #2 [2] (Left)
+200020820 [Default] Throwing Blade - Paired L1 #3 [1] (Right)
+200020825 [Default] Throwing Blade - Paired L1 #3 [2] (Left)
+200020830 [Default] Throwing Blade - Paired L1 #4 [1] (Right)
+200020835 [Default] Throwing Blade - Paired L1 #4 [2] (Left)
+200020840 [Default] Throwing Blade - Paired L1 #5 [1] (Right)
+200020845 [Default] Throwing Blade - Paired L1 #5 [2] (Left)
+200020850 [Default] Throwing Blade - Paired L1 #6 [1] (Right)
+200020855 [Default] Throwing Blade - Paired L1 #6 [2] (Left)
+200020860 [Default] Throwing Blade - Paired Running L1 [1] (Right)
+200020865 [Default] Throwing Blade - Paired Running L1 [2] (Left)
+200020870 [Default] Throwing Blade - Paired Rolling L1 [2] (Right)
+200020875 [Default] Throwing Blade - Paired Rolling L1 [1] (Left)
+200020880 [Default] Throwing Blade - Paired Backstep L1 [1] (Right)
+200020885 [Default] Throwing Blade - Paired Backstep L1 [2] (Left)
+200020890 [Default] Throwing Blade - Paired Jumping L1 [2] (Right)
+200020895 [Default] Throwing Blade - Paired Jumping L1 [1] (Left)
+200030001 [Default] Hand-to-Hand
+200030002 [Default] Hand-to-Hand
+200030003 [Default] Hand-to-Hand
+200030004 [Default] Hand-to-Hand
+200030060 [Default] Hand-to-Hand - 2h R2 #1 [2]
+200030061 [Default] Hand-to-Hand - 2h Charged R2 #1 [2]
+200030062 [Default] Hand-to-Hand - 2h Running R2 [2]
+200030102 [Default] Hand-to-Hand - 1h R2 #1
+200030107 [Default] Hand-to-Hand - 1h Charged R2 #1
+200030112 [Default] Hand-to-Hand - 1h R2 #2
+200030117 [Default] Hand-to-Hand - 1h Charged R2 #2
+200030128 [Default] Hand-to-Hand - 1h Running R2
+200030162 [Default] Hand-to-Hand - 1h Jumping R2
+200030182 [Default] Hand-to-Hand - 1h Guard Counter
+200030302 [Default] Hand-to-Hand - 2h R2 #1 [1]
+200030307 [Default] Hand-to-Hand - 2h Charged R2 #1 [1]
+200030312 [Default] Hand-to-Hand - 2h R2 #2
+200030317 [Default] Hand-to-Hand - 2h Charged R2 #2
+200030327 [Default] Hand-to-Hand - 2h Running R2 [1]
+200030362 [Default] Hand-to-Hand - 2h Jumping R2 [2]
+200030364 [Default] Hand-to-Hand - 2h Jumping R2 [1]
+200030382 [Default] Hand-to-Hand - 2h Guard Counter [1]
+200030383 [Default] Hand-to-Hand - 2h Guard Counter [2]
+200030633 [Default] Hand-to-Hand - Mounted R2 [1]
+200030636 [Default] Hand-to-Hand - Mounted Charged R2 [1]
+200030733 [Default] Hand-to-Hand - Mounted L2 [1]
+200030736 [Default] Hand-to-Hand - Mounted Charged L2 [1]
+200030891 [Default] Hand-to-Hand - Paired Jumping L1 [1] (Right)
+200030896 [Default] Hand-to-Hand - Paired Jumping L1 [1] (Left)
+200031060 Dane's Footwork - 2h Charged R2 #1 [2]
+200031061 Dane's Footwork - 2h R2 #1 [2]
+200031102 Dane's Footwork - 1h R2 #1
+200031107 Dane's Footwork - 1h Charged R2 #1
+200031112 Dane's Footwork - 1h R2 #2
+200031117 Dane's Footwork - 1h Charged R2 #2
+200031302 Dane's Footwork - 2h R2 #1 [1]
+200031307 Dane's Footwork - 2h Charged R2 #1 [1]
+200031311 Dane's Footwork - 2h R2 #2 [1]
+200031312 Dane's Footwork - 2h R2 #2 [2]
+200031316 Dane's Footwork - 2h Charged R2 #2 [1]
+200031317 Dane's Footwork - 2h Charged R2 #2 [2]
+200040100 Smithscript Spear - 1h R2
+200040101 Smithscript Spear - 1h R2 [Hit]
+200040105 Smithscript Spear - 1h Charged R2
+200040106 Smithscript Spear - 1h Charged R2 [Hit]
+200040125 Smithscript Spear - 1h Running R2
+200040126 Smithscript Spear - 1h Running R2 [Hit]
+200040300 Smithscript Spear - 2h R2
+200040301 Smithscript Spear - 2h R2 [Hit]
+200040305 Smithscript Spear - 2h Charged R2
+200040306 Smithscript Spear - 2h Charged R2 [Hit]
+200040325 Smithscript Spear - 2h Running R2
+200040326 Smithscript Spear - 2h Running R2 [Hit]
+200040632 Smithscript Spear - Mounted R2
+200040633 Smithscript Spear - Mounted R2 [Hit]
+200040635 Smithscript Spear - Mounted Charged R2
+200040636 Smithscript Spear - Mounted Charged R2 [Hit]
+200040660 Smithscript Spear
+200040661 Smithscript Spear [Hit]
+200040732 Smithscript Spear - Mounted L2
+200040733 Smithscript Spear - Mounted L2 [Hit]
+200040735 Smithscript Spear - Mounted Charged L2
+200040736 Smithscript Spear - Mounted Charged L2 [Hit]
+200040760 Smithscript Spear
+200040761 Smithscript Spear [Hit]
+200041100 Spear of the Impaler - 1h R2 #1
+200041101 Spear of the Impaler - 1h R2 #1 [Hit]
+200041105 Spear of the Impaler - 1h Charged R2 #1
+200041125 Spear of the Impaler - 1h Running R2
+200041126 Spear of the Impaler - 1h Running R2 [Hit]
+200041300 Spear of the Impaler - 2h R2 #1
+200041301 Spear of the Impaler - 2h R2 #1 [Hit]
+200041305 Spear of the Impaler - 2h Charged R2 #1
+200041325 Spear of the Impaler - 2h Running R2
+200041326 Spear of the Impaler - 2h Running R2 [Hit]
+200041632 Spear of the Impaler - Mounted R2
+200041633 Spear of the Impaler - Mounted R2 [Hit]
+200041635 Spear of the Impaler - Mounted Charged R2
+200041660 Spear of the Impaler
+200041661 Spear of the Impaler [Hit]
+200041909 Spear of the Impaler - Charged R2 [Hit]
+200041910 Spear of the Impaler - Charged R2 [Emitted]
+200041911 Spear of the Impaler - Charged R2 [Hit]
+200041913 Spear of the Impaler - Charged R2 [Hit]
+200050100 Smithscript Axe - 1h R2
+200050101 Smithscript Axe - 1h R2 [Hit]
+200050105 Smithscript Axe - 1h Charged R2
+200050106 Smithscript Axe - 1h Charged R2 [Hit]
+200050160 Smithscript Axe - 1h Jumping R2
+200050161 Smithscript Axe - 1h Jumping R2 [Hit]
+200050300 Smithscript Axe - 2h R2
+200050301 Smithscript Axe - 2h R2 [Hit]
+200050305 Smithscript Axe - 2h Charged R2
+200050306 Smithscript Axe - 2h Charged R2 [Hit]
+200050360 Smithscript Axe - 2h Jumping R2
+200050361 Smithscript Axe - 2h Jumping R2 [Hit]
+200060100 Smithscript Greathammer - 1h R2
+200060105 Smithscript Greathammer - 1h Charged R2
+200060125 Smithscript Greathammer - 1h Running R2
+200060300 Smithscript Greathammer - 2h R2
+200060305 Smithscript Greathammer - 2h Charged R2
+200060325 Smithscript Greathammer - 2h Running R2
+200070100 Claws of Night - 1h R2 #1
+200070101 Claws of Night - 1h R2 #1 [Hit]
+200070105 Claws of Night - 1h Charged R2 #1
+200070106 Claws of Night - 1h Charged R2 #1 [Hit]
+200070110 Claws of Night - 1h R2 #2
+200070111 Claws of Night - 1h R2 #2 [Hit]
+200070115 Claws of Night - 1h Charged R2 #2
+200070116 Claws of Night - 1h Charged R2 #2 [Hit]
+200070125 Claws of Night - 1h Running R2
+200070126 Claws of Night - 1h Running R2 [Hit]
+200070160 Claws of Night - 1h Jumping R2
+200070161 Claws of Night - 1h Jumping R2 [Hit]
+200070180 Claws of Night - 1h Guard Counter
+200070181 Claws of Night - 1h Guard Counter [Hit]
+200070300 Claws of Night - 2h R2 #1 [2]
+200070301 Claws of Night - 2h R2 #1 [2] [Hit]
+200070303 Claws of Night - 2h R2 #1 [1]
+200070304 Claws of Night - 2h R2 #1 [1] [Hit]
+200070305 Claws of Night - 2h Charged R2 #1 [2]
+200070306 Claws of Night - 2h Charged R2 #1 [2] [Hit]
+200070308 Claws of Night - 2h Charged R2 #1 [1]
+200070309 Claws of Night - 2h Charged R2 #1 [1] [Hit]
+200070310 Claws of Night - 2h R2 #2 [1]
+200070311 Claws of Night - 2h R2 #2 [1] [Hit]
+200070313 Claws of Night - 2h R2 #2 [2]
+200070314 Claws of Night - 2h R2 #2 [2] [Hit]
+200070315 Claws of Night - 2h Charged R2 #2 [1]
+200070316 Claws of Night - 2h Charged R2 #2 [1] [Hit]
+200070318 Claws of Night - 2h Charged R2 #2 [2]
+200070319 Claws of Night - 2h Charged R2 #2 [2] [Hit]
+200070325 Claws of Night - 2h Running R2 [2]
+200070326 Claws of Night - 2h Running R2 [2] [Hit]
+200070328 Claws of Night - 2h Running R2 [1]
+200070329 Claws of Night - 2h Running R2 [1] [Hit]
+200070360 Claws of Night - 2h Jumping R2 [1]
+200070361 Claws of Night - 2h Jumping R2 [1] [Hit]
+200070363 Claws of Night - 2h Jumping R2 [2]
+200070364 Claws of Night - 2h Jumping R2 [2] [Hit]
+200070380 Claws of Night - 2h Guard Counter [2]
+200070381 Claws of Night - 2h Guard Counter [1]
+200070383 Claws of Night - 2h Guard Counter [2] [Hit]
+200070384 Claws of Night - 2h Guard Counter [1] [Hit]
+200070632 Claws of Night - Mounted R2
+200070633 Claws of Night - Mounted R2 [Hit]
+200070635 Claws of Night - Mounted Charged R2
+200070636 Claws of Night - Mounted Charged R2 [Hit]
+200080100 Smithscript Cirque - 1h R2 #1
+200080101 Smithscript Cirque - 1h R2 #1 [Hit]
+200080105 Smithscript Cirque - 1h Charged R2 #1
+200080106 Smithscript Cirque - 1h Charged R2 #1 [Hit]
+200080110 Smithscript Cirque - 1h R2 #2
+200080111 Smithscript Cirque - 1h R2 #2 [Hit]
+200080115 Smithscript Cirque - 1h Charged R2 #2
+200080116 Smithscript Cirque - 1h Charged R2 #2 [Hit]
+200080125 Smithscript Cirque - 1h Running R2
+200080126 Smithscript Cirque - 1h Running R2 [Hit]
+200080160 Smithscript Cirque - 1h Jumping R2
+200080161 Smithscript Cirque - 1h Jumping R2 [Hit]
+200080180 Smithscript Cirque - 1h Guard Counter
+200080181 Smithscript Cirque - 1h Guard Counter [Hit]
+200080300 Smithscript Cirque - 2h R2 #1 [2]
+200080301 Smithscript Cirque - 2h R2 #1 [2] [Hit]
+200080303 Smithscript Cirque - 2h R2 #1 [1]
+200080304 Smithscript Cirque - 2h R2 #1 [1] [Hit]
+200080305 Smithscript Cirque - 2h Charged R2 #1 [2]
+200080306 Smithscript Cirque - 2h Charged R2 #1 [2] [Hit]
+200080308 Smithscript Cirque - 2h Charged R2 #1 [1]
+200080309 Smithscript Cirque - 2h Charged R2 #1 [1] [Hit]
+200080310 Smithscript Cirque - 2h R2 #2 [1]
+200080311 Smithscript Cirque - 2h R2 #2 [1] [Hit]
+200080313 Smithscript Cirque - 2h R2 #2 [2]
+200080314 Smithscript Cirque - 2h R2 #2 [2] [Hit]
+200080315 Smithscript Cirque - 2h Charged R2 #2 [1]
+200080316 Smithscript Cirque - 2h Charged R2 #2 [1] [Hit]
+200080318 Smithscript Cirque - 2h Charged R2 #2 [2]
+200080319 Smithscript Cirque - 2h Charged R2 #2 [2] [Hit]
+200080325 Smithscript Cirque - 2h Running R2 [1]
+200080326 Smithscript Cirque - 2h Running R2 [1] [Hit]
+200080328 Smithscript Cirque - 2h Running R2 [2]
+200080329 Smithscript Cirque - 2h Running R2 [2] [Hit]
+200080360 Smithscript Cirque - 2h Jumping R2 [1]
+200080361 Smithscript Cirque - 2h Jumping R2 [1] [Hit]
+200080363 Smithscript Cirque - 2h Jumping R2 [2]
+200080364 Smithscript Cirque - 2h Jumping R2 [2] [Hit]
+200080380 Smithscript Cirque - 2h Guard Counter [1]
+200080381 Smithscript Cirque - 2h Guard Counter [2]
+200080382 Smithscript Cirque - 2h Guard Counter [1] [Hit]
+200080383 Smithscript Cirque - 2h Guard Counter [2] [Hit]
+200080632 Smithscript Cirque - Mounted R2
+200080633 Smithscript Cirque - Mounted R2 [Hit]
+200080635 Smithscript Cirque - Mounted Charged R2
+200080636 Smithscript Cirque - Mounted Charged R2 [Hit]
+200090100 Golem Fist - 1h R2
+200090101 Golem Fist - 1h R2 [Hit]
+200090105 Golem Fist - 1h Charged R2
+200090106 Golem Fist - 1h Charged R2 [Hit]
+200090300 Golem Fist - 2h R2
+200090301 Golem Fist - 2h R2 [Hit]
+200090305 Golem Fist - 2h Charged R2 [1]
+200090306 Golem Fist - 2h Charged R2 [2]
+200090307 Golem Fist - 2h Charged R2 [1] [Hit]
+200090308 Golem Fist - 2h Charged R2 [2] [Hit]
+210431000 Glintblade Trio
+210431001 Glintblade Trio
+210431002 Glintblade Trio
+210431003 Glintblade Trio [Hit]
+210431004 Glintblade Trio [Hit]
+210431005 Glintblade Trio [Emitted]
+210431006 Glintblade Trio [Hit]
+210431050 Glintblade Trio - Charged
+210431051 Glintblade Trio - Charged
+210431052 Glintblade Trio - Charged
+210431053 Glintblade Trio - Charged [Hit]
+210431054 Glintblade Trio - Charged [Hit]
+210431055 Glintblade Trio - Charged [Emitted]
+210431056 Glintblade Trio - Charged [Hit]
+210432000 Rellana's Twin Moons
+210432001 Rellana's Twin Moons [Hit]
+210432002 Rellana's Twin Moons [Hit]
+210432003 Rellana's Twin Moons
+210432004 Rellana's Twin Moons [Hit]
+210432005 Rellana's Twin Moons [Hit]
+210432006 Rellana's Twin Moons
+210450000 Glintstone Nail
+210450001 Glintstone Nail [Hit]
+210450002 Glintstone Nail [Hit]
+210450003 Glintstone Nail [Hit]
+210450004 Glintstone Nail [Hit]
+210450005 Glintstone Nail [Hit]
+210450006 Glintstone Nail [Hit]
+210450007 Glintstone Nail [Hit]
+210450008 Glintstone Nail [Hit]
+210450009 Glintstone Nail [Hit]
+210450010 Glintstone Nail [Hit]
+210450050 Glintstone Nail - Charged
+210450051 Glintstone Nail - Charged [Hit]
+210450052 Glintstone Nail - Charged [Hit]
+210450053 Glintstone Nail - Charged [Hit]
+210450054 Glintstone Nail - Charged [Hit]
+210450055 Glintstone Nail - Charged [Hit]
+210450056 Glintstone Nail - Charged [Hit]
+210450057 Glintstone Nail - Charged [Hit]
+210450058 Glintstone Nail - Charged [Hit]
+210450059 Glintstone Nail - Charged [Hit]
+210450060 Glintstone Nail - Charged [Hit]
+210451000 Glintstone Nails
+210451001 Glintstone Nails [Hit]
+210451002 Glintstone Nails [Hit]
+210451003 Glintstone Nails [Hit]
+210451004 Glintstone Nails [Hit]
+210451005 Glintstone Nails [Hit]
+210451006 Glintstone Nails [Hit]
+210451007 Glintstone Nails [Hit]
+210451008 Glintstone Nails [Hit]
+210451009 Glintstone Nails [Hit]
+210451010 Glintstone Nails [Hit]
+210451050 Glintstone Nails - Charged
+210451051 Glintstone Nails - Charged [Hit]
+210451052 Glintstone Nails - Charged [Hit]
+210451053 Glintstone Nails - Charged [Hit]
+210451054 Glintstone Nails - Charged [Hit]
+210451055 Glintstone Nails - Charged [Hit]
+210451056 Glintstone Nails - Charged [Hit]
+210451057 Glintstone Nails - Charged [Hit]
+210451058 Glintstone Nails - Charged [Hit]
+210451059 Glintstone Nails - Charged [Hit]
+210451060 Glintstone Nails - Charged [Hit]
+210470000 Blades of Stone
+210470001 Blades of Stone [Hit]
+210470002 Blades of Stone [Hit]
+210470003 Blades of Stone [Emitted]
+210470004 Blades of Stone [Hit]
+210470005 Blades of Stone [Hit]
+210470006 Blades of Stone [Hit]
+210470007 Blades of Stone [Hit]
+210470008 Blades of Stone [Hit]
+210470050 Blades of Stone - Charged
+210470051 Blades of Stone - Charged [Hit]
+210470052 Blades of Stone - Charged [Hit]
+210470053 Blades of Stone - Charged [Emitted]
+210470054 Blades of Stone - Charged [Hit]
+210470055 Blades of Stone - Charged [Hit]
+210470056 Blades of Stone - Charged [Hit]
+210470057 Blades of Stone - Charged [Hit]
+210470058 Blades of Stone - Charged [Hit]
+210470060 Blades of Stone - Charged [Hit]
+210471000 Gravitational Missile
+210471001 Gravitational Missile [Hit]
+210471002 Gravitational Missile [Hit]
+210471003 Gravitational Missile [Hit]
+210471004 Gravitational Missile [Emitted]
+210471005 Gravitational Missile [Hit]
+210471006 Gravitational Missile [Emitted]
+210471007 Gravitational Missile [Hit]
+210471050 Gravitational Missile - Charged
+210471051 Gravitational Missile - Charged [Hit]
+210471052 Gravitational Missile - Charged [Hit]
+210471053 Gravitational Missile - Charged [Hit]
+210471054 Gravitational Missile - Charged [Hit]
+210471055 Gravitational Missile - Charged [Emitted]
+210471056 Gravitational Missile - Charged [Hit]
+210471057 Gravitational Missile - Charged [Emitted]
+210471058 Gravitational Missile - Charged [Hit]
+210471059 Gravitational Missile - Charged [Emitted]
+210471060 Gravitational Missile - Charged [Hit]
+210491000 Impenetrable Thorns
+210491001 Impenetrable Thorns
+210491002 Impenetrable Thorns
+210491003 Impenetrable Thorns [Emitted]
+210491004 Impenetrable Thorns [Hit]
+210491005 Impenetrable Thorns [Hit]
+210491006 Impenetrable Thorns [Hit]
+210491007 Impenetrable Thorns [Hit]
+210491008 Impenetrable Thorns [Emitted]
+210500000 Rings of Spectral Light
+210500001 Rings of Spectral Light
+210500002 Rings of Spectral Light [Hit]
+210500003 Rings of Spectral Light [Hit]
+210500004 Rings of Spectral Light [Hit]
+210500005 Rings of Spectral Light [Hit]
+210500050 Rings of Spectral Light - Charged
+210500051 Rings of Spectral Light - Charged
+210500052 Rings of Spectral Light - Charged [Hit]
+210500053 Rings of Spectral Light - Charged [Hit]
+210500054 Rings of Spectral Light - Charged [Hit]
+210500055 Rings of Spectral Light - Charged [Hit]
+210620000 Vortex of Putrescence
+210620001 Vortex of Putrescence [Hit]
+210620002 Vortex of Putrescence [Hit]
+210620003 Vortex of Putrescence [Hit]
+210620004 Vortex of Putrescence [Hit]
+210620005 Vortex of Putrescence [Hit]
+210620006 Vortex of Putrescence [Hit]
+210620007 Vortex of Putrescence [Hit]
+210620010 Vortex of Putrescence [Hit]
+210620011 Vortex of Putrescence [Hit]
+210620012 Vortex of Putrescence [Emitted]
+210620013 Vortex of Putrescence [Hit]
+210621000 Mass of Putrescence
+210621001 Mass of Putrescence [Hit]
+210621002 Mass of Putrescence [Hit]
+210621005 Mass of Putrescence [Hit]
+210621006 Mass of Putrescence [Emitted]
+210621007 Mass of Putrescence [Hit]
+210621050 Mass of Putrescence - Charged
+210621051 Mass of Putrescence - Charged [Hit]
+210621052 Mass of Putrescence - Charged [Hit]
+210621053 Mass of Putrescence - Charged [Emitted]
+210621054 Mass of Putrescence - Charged [Hit]
+210621055 Mass of Putrescence - Charged [Hit]
+210621056 Mass of Putrescence - Charged [Emitted]
+210621057 Mass of Putrescence - Charged [Hit]
+210621058 Mass of Putrescence - Charged [Hit]
+210621059 Mass of Putrescence - Charged [Emitted]
+210621060 Mass of Putrescence - Charged [Hit]
+210630000 Furious Blade of Ansbach
+210630001 Furious Blade of Ansbach [Hit]
+210630002 Furious Blade of Ansbach [Hit]
+210630003 Furious Blade of Ansbach [Emitted]
+210630004 Furious Blade of Ansbach [Hit]
+210630005 Furious Blade of Ansbach [Emitted]
+210630006 Furious Blade of Ansbach [Hit]
+210630010 Furious Blade of Ansbach
+210630011 Furious Blade of Ansbach [Hit]
+210630012 Furious Blade of Ansbach [Hit]
+210630013 Furious Blade of Ansbach [Emitted]
+210630014 Furious Blade of Ansbach [Hit]
+210630015 Furious Blade of Ansbach [Emitted]
+210630016 Furious Blade of Ansbach [Hit]
+210630050 Furious Blade of Ansbach - Charged
+210630051 Furious Blade of Ansbach - Charged [Hit]
+210630052 Furious Blade of Ansbach - Charged [Hit]
+210630053 Furious Blade of Ansbach - Charged [Emitted]
+210630054 Furious Blade of Ansbach - Charged [Hit]
+210630055 Furious Blade of Ansbach - Charged [Emitted]
+210630056 Furious Blade of Ansbach - Charged [Hit]
+210630060 Furious Blade of Ansbach
+210630061 Furious Blade of Ansbach - Charged [Hit]
+210630062 Furious Blade of Ansbach - Charged [Hit]
+210630063 Furious Blade of Ansbach - Charged [Emitted]
+210630064 Furious Blade of Ansbach - Charged [Hit]
+210630065 Furious Blade of Ansbach - Charged [Emitted]
+210630066 Furious Blade of Ansbach - Charged [Hit]
+210640000 Heal from Afar
+210640001 Heal from Afar [Hit]
+210665000 Aspects of the Crucible: Thorns
+210665001 Aspects of the Crucible: Thorns
+210665002 Aspects of the Crucible: Thorns
+210665003 Aspects of the Crucible: Thorns
+210665004 Aspects of the Crucible: Thorns
+210665005 Aspects of the Crucible: Thorns
+210665006 Aspects of the Crucible: Thorns
+210665007 Aspects of the Crucible: Thorns - Charged
+210666000 Aspects of the Crucible: Bloom
+210666001 Aspects of the Crucible: Bloom [Hit]
+210666002 Aspects of the Crucible: Bloom [Emitted]
+210666003 Aspects of the Crucible: Bloom [Hit]
+210666004 Aspects of the Crucible: Bloom [Hit]
+210666005 Aspects of the Crucible: Bloom [Emitted]
+210666050 Aspects of the Crucible: Bloom - Charged
+210666051 Aspects of the Crucible: Bloom - Charged [Hit]
+210666052 Aspects of the Crucible: Bloom - Charged [Emitted]
+210666053 Aspects of the Crucible: Bloom - Charged [Hit]
+210666054 Aspects of the Crucible: Bloom - Charged [Hit]
+210666055 Aspects of the Crucible: Bloom - Charged [Emitted]
+210667000 Minor Erdtree
+210667001 Minor Erdtree [Hit]
+210668000 Land of Shadow
+210668001 Land of Shadow [Hit]
+210668002 Land of Shadow [Hit]
+210668003 Land of Shadow [Hit]
+210668004 Land of Shadow [Hit]
+210668005 Land of Shadow [Hit]
+210668006 Land of Shadow [Hit]
+210668007 Land of Shadow [Emitted]
+210668008 Land of Shadow [Hit]
+210668009 Land of Shadow [Hit]
+210669000 Wrath from Afar
+210669001 Wrath from Afar [Hit]
+210669050 Wrath from Afar - Charged
+210669051 Wrath from Afar - Charged [Hit]
+210670000 Light of Miquella
+210670001 Light of Miquella [Hit]
+210670002 Light of Miquella [Hit]
+210670003 Light of Miquella [Hit]
+210670004 Light of Miquella [Emitted]
+210670005 Light of Miquella [Hit]
+210670006 Light of Miquella [Hit]
+210670007 Light of Miquella [Hit]
+210670008 Light of Miquella [Hit]
+210671000 Multilayered Ring of Light
+210671001 Multilayered Ring of Light [Hit]
+210671002 Multilayered Ring of Light [Emitted]
+210671050 Multilayered Ring of Light - Charged
+210671051 Multilayered Ring of Light - Charged [Hit]
+210671052 Multilayered Ring of Light - Charged [Emitted]
+210690000 Knight's Lightning Spear
+210690001 Knight's Lightning Spear
+210690002 Knight's Lightning Spear [Hit]
+210690003 Knight's Lightning Spear [Hit]
+210690004 Knight's Lightning Spear [Emitted]
+210690005 Knight's Lightning Spear [Hit]
+210690006 Knight's Lightning Spear
+210690007 Knight's Lightning Spear [Hit]
+210690008 Knight's Lightning Spear [Hit]
+210690009 Knight's Lightning Spear [Hit]
+210690010 Knight's Lightning Spear [Hit]
+210690050 Knight's Lightning Spear - Charged
+210690051 Knight's Lightning Spear - Charged
+210690052 Knight's Lightning Spear - Charged [Hit]
+210690053 Knight's Lightning Spear - Charged [Hit]
+210690054 Knight's Lightning Spear - Charged [Emitted]
+210690055 Knight's Lightning Spear - Charged [Hit]
+210690056 Knight's Lightning Spear - Charged
+210690057 Knight's Lightning Spear - Charged [Hit]
+210690058 Knight's Lightning Spear - Charged [Hit]
+210690059 Knight's Lightning Spear - Charged [Emitted]
+210690060 Knight's Lightning Spear - Charged [Hit]
+210690061 Knight's Lightning Spear - Charged [Hit]
+210690062 Knight's Lightning Spear - Charged [Hit]
+210690063 Knight's Lightning Spear - Charged [Hit]
+210690064 Knight's Lightning Spear - Charged [Hit]
+210690065 Knight's Lightning Spear - Charged [Hit]
+210691000 Dragonbolt of Florissax
+210691001 Dragonbolt of Florissax [Hit]
+210692000 Electrocharge
+210692001 Electrocharge [Behavior SpEffect]
+210692050 Electrocharge - Charged
+210692051 Electrocharge - Charged [Behavior SpEffect]
+210700000 Bayle's Tyranny
+210700001 Bayle's Tyranny
+210700002 Bayle's Tyranny [Hit]
+210700003 Bayle's Tyranny [Hit]
+210700004 Bayle's Tyranny [Hit]
+210700005 Bayle's Tyranny [Emitted]
+210701000 Bayle's Flame Lightning
+210701001 Bayle's Flame Lightning [Hit]
+210701002 Bayle's Flame Lightning [Hit]
+210701003 Bayle's Flame Lightning
+210702000 Ghostflame Breath
+210702001 Ghostflame Breath
+210702002 Ghostflame Breath [Hit]
+210702010 Ghostflame Breath
+210720000 Rotten Butterflies
+210720001 Rotten Butterflies
+210720002 Rotten Butterflies [Hit]
+210720003 Rotten Butterflies [Hit]
+210720004 Rotten Butterflies [Hit]
+210720005 Rotten Butterflies
+210721000 Pest-Thread Spears
+210721001 Pest-Thread Spears
+210721050 Pest-Thread Spears - Charged
+210721051 Pest-Thread Spears - Charged
+210730000 Midra's Flame of Frenzy
+210730001 Midra's Flame of Frenzy
+210730002 Midra's Flame of Frenzy
+210730003 Midra's Flame of Frenzy
+210730004 Midra's Flame of Frenzy
+210730005 Midra's Flame of Frenzy [Hit]
+210730006 Midra's Flame of Frenzy [Hit]
+210730007 Midra's Flame of Frenzy
+210730008 Midra's Flame of Frenzy [Hit]
+210730009 Midra's Flame of Frenzy [Hit]
+210730010 Midra's Flame of Frenzy
+210730011 Midra's Flame of Frenzy
+210741000 Fleeting Microcosm
+210741001 Fleeting Microcosm [Hit]
+210741002 Fleeting Microcosm [Hit]
+210741003 Fleeting Microcosm [Hit]
+210741004 Fleeting Microcosm [Hit]
+210741005 Fleeting Microcosm [Emitted]
+210741006 Fleeting Microcosm [Hit]
+210741050 Fleeting Microcosm - Charged
+210741051 Fleeting Microcosm - Charged [Hit]
+210741052 Fleeting Microcosm - Charged [Hit]
+210741053 Fleeting Microcosm - Charged [Hit]
+210741054 Fleeting Microcosm - Charged [Hit]
+210741055 Fleeting Microcosm - Charged [Emitted]
+210741056 Fleeting Microcosm - Charged [Hit]
+210742000 Cherishing Fingers
+210742001 Cherishing Fingers [Hit]
+210742002 Cherishing Fingers [Hit]
+210742003 Cherishing Fingers [Hit]
+210742004 Cherishing Fingers [Hit]
+210742005 Cherishing Fingers [Emitted]
+210742006 Cherishing Fingers [Hit]
+210742007 Cherishing Fingers
+210742008 Cherishing Fingers
+210742050 Cherishing Fingers - Charged
+210742051 Cherishing Fingers - Charged [Hit]
+210742052 Cherishing Fingers - Charged [Hit]
+210742053 Cherishing Fingers - Charged [Hit]
+210742054 Cherishing Fingers - Charged [Hit]
+210742055 Cherishing Fingers - Charged [Emitted]
+210742056 Cherishing Fingers - Charged [Hit]
+210742057 Cherishing Fingers - Charged
+210742058 Cherishing Fingers - Charged
+210760000 Watchful Spirit
+210760001 Watchful Spirit [Emitted
+210770000 Golden Arcs
+210770050 Golden Arcs - Charged
+210771000 Giant Golden Arc
+210771001 Giant Golden Arc [Emitted
+210771050 Giant Golden Arc - Charged
+210771051 Giant Golden Arc - Charged [Emitted
+210772000 Spira
+210772001 Spira [Hit]
+210772002 Spira [Hit]
+210772003 Spira [Hit]
+210772004 Spira [Emitted]
+210773000 Divine Beast Tornado
+210773001 Divine Beast Tornado [Emitted]
+210773010 Divine Beast Tornado
+210773050 Divine Beast Tornado - Charged
+210773051 Divine Beast Tornado - Charged [Emitted]
+210774000 Divine Bird Feathers
+210780000 Fire Serpent
+210780001 Fire Serpent [Hit]
+210780002 Fire Serpent [Hit]
+210780003 Fire Serpent [Hit]
+210780050 Fire Serpent - Charged
+210780051 Fire Serpent - Charged [Hit]
+210780052 Fire Serpent - Charged [Hit]
+210780053 Fire Serpent - Charged [Hit]
+210781000 Rain of Fire
+210781001 Rain of Fire [Hit]
+210781002 Rain of Fire [Emitted]
+210781003 Rain of Fire [Hit]
+210781004 Rain of Fire [Hit]
+210781005 Rain of Fire [Hit]
+210781006 Rain of Fire [Emitted]
+210781007 Rain of Fire [Hit]
+210781050 Rain of Fire - Charged
+210781051 Rain of Fire - Charged [Hit]
+210781052 Rain of Fire - Charged [Emitted]
+210781053 Rain of Fire - Charged [Hit]
+210781054 Rain of Fire - Charged [Hit]
+210781055 Rain of Fire - Charged [Hit]
+210781056 Rain of Fire - Charged [Emitted]
+210781057 Rain of Fire - Charged [Hit]
+210782000 Messmer's Orb
+210782001 Messmer's Orb
+210782050 Messmer's Orb
+210782051 Messmer's Orb
+211101000 Crimsonburst Dried Tear - Healing AoE
+211104000 Oil-Soaked Tear - Oil Debuff AoE
+220820000 Talisman of Lord's Bestowal - Flask
+220820001 Talisman of Lord's Bestowal - Flask
